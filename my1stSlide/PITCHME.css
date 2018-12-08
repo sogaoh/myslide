@@ -10,6 +10,8 @@
 }
 
 .pagetitle {
-  text-align: center;
-  vertical-align: top;
+  color : blue;
+  font-size : 2.0em;
+  text-align: left;
+  vertical-align : top; 
 }

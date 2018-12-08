@@ -1,13 +1,12 @@
-### こんにちは！
+### @css[pagetitle](こんにちは！)
 
 
 これはサンプルのスライド資料です。  
   
   
 
-#### @css[headline](ACME Corp Clearance Sale)
-
-#### @css[byline](Dynamite Deals - Short Fuses Included!)
+- @css[headline](ACME Corp Clearance Sale)
+- @css[byline](Dynamite Deals - Short Fuses Included!)
 
 
 ---
