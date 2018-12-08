@@ -1,10 +1,13 @@
-@snap[north-west text-gold]
-### こんにちは！
+@snap[north-west]
+## こんにちは！
 @snapend
 
 これはサンプルのスライド資料です。  
-  
-  
+<br>
+<br>
+<br>
+<br>
+<br>
 
 - @css[headline](ACME Corp Clearance Sale)
 - @css[byline](Dynamite Deals - Short Fuses Included!)
@@ -24,8 +27,13 @@
 
 ### 3枚目のスライド
 
+@snap[midpoint]
+![TY8](/my1stSlide/MD1400.png)
+@snapend
 
 ---
 
 
 ### おわり
+
+![TY8](/my1stSlide/TY8.png)
