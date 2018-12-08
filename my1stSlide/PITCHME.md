@@ -1,5 +1,5 @@
-@snap[north-west h2-green]
-### こんにちは！
+@snap[north-west]
+### @css[h2-green](こんにちは！)
 @snapend
 
 これはサンプルのスライド資料です。  
