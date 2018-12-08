@@ -1,0 +1,10 @@
+.headline {
+  color: gold;
+  text-transform: uppercase;
+}
+  
+.byline {
+  color: gray;
+  font-size: 0.9em;
+  letter-spacing: 2px;
+}
