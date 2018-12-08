@@ -19,12 +19,3 @@
 .h2-purple h2 { color: #643B85 !important; }
 .h2-yellow h2 { color: #F5DB2E !important; }
 .h2-white  h2 { color: #FFFFFF !important; }
-
-/* 思うように動かない・・・
-.pagetitle {
-  color : blue;
-  font-size : 2.0em;
-  text-align: left;
-  vertical-align : top; 
-}
-*/
