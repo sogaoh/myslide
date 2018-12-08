@@ -1,7 +1,9 @@
 ### こんにちは！
 
 
-これはサンプルのスライド資料です。
+これはサンプルのスライド資料です。  
+  
+  
 
 #### @css[headline](ACME Corp Clearance Sale)
 
