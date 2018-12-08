@@ -1,4 +1,4 @@
-@snap[north-west text-20 text-gold]
+@snap[north-west text-gold]
 ### こんにちは！
 @snapend
 
