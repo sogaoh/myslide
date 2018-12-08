@@ -1,0 +1,7 @@
+theme : night
+theme-override : /my1stSlide/PITCHME.css
+
+slide-number : true
+footnote : my1stSlide
+
+logo : /assets/img/luigi.jpg
