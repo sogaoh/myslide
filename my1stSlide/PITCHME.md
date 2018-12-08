@@ -1,5 +1,6 @@
-### @css[pagetitle](こんにちは！)
-
+@snap[northwest h2-green]
+### こんにちは！
+@snapend
 
 これはサンプルのスライド資料です。  
   
