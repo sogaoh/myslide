@@ -1,4 +1,6 @@
 theme : night
+theme-override : PITCHME.css
+
 slide-number : true
 footnote : my1stSlide
 
