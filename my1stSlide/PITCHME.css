@@ -8,3 +8,8 @@
   font-size: 0.9em;
   letter-spacing: 2px;
 }
+
+.pagetitle {
+  text-align: center;
+  vertical-align: top;
+}
