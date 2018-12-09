@@ -40,3 +40,5 @@
 @size[48pt](@css[ms-gothic](MSゴシック))
 
 @size[48pt](@css[def-font](ヒラギノ))
+
+@size[48pt](@css[yu-mincho](游明朝体))
