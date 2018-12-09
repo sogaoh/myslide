@@ -37,4 +37,6 @@
 ### おわり
 @snapend
 
-@css[ms-gothic](MSゴシック)
+@size[36pt](@css[ms-gothic](MSゴシック))
+
+@size[36pt](@css[def-font](ヒラギノ))
