@@ -35,5 +35,3 @@
 
 
 ### おわり
-
-![TY8](/my1stSlide/TY8.png)
