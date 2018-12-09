@@ -61,6 +61,7 @@
 @snapend
 
 @snap[midpoint]
+![](/20181211-Mackerel-Drink-Up-8/img/s1.png)
 @snapend
 
 +++
@@ -70,6 +71,7 @@
 @snapend
 
 @snap[midpoint]
+![](/20181211-Mackerel-Drink-Up-8/img/s2.png)
 @snapend
 
 +++
@@ -79,6 +81,7 @@
 @snapend
 
 @snap[midpoint]
+![](/20181211-Mackerel-Drink-Up-8/img/s3.png)
 @snapend
 
 
@@ -89,6 +92,7 @@
 @snapend
 
 @snap[midpoint]
+![](/20181211-Mackerel-Drink-Up-8/img/m1.png)
 @snapend
 
 +++
@@ -98,6 +102,7 @@
 @snapend
 
 @snap[midpoint]
+![](/20181211-Mackerel-Drink-Up-8/img/m2.png)
 @snapend
 
 +++
@@ -107,6 +112,7 @@
 @snapend
 
 @snap[midpoint]
+![](/20181211-Mackerel-Drink-Up-8/img/m3.png)
 @snapend
 
 +++
@@ -116,6 +122,7 @@
 @snapend
 
 @snap[midpoint]
+![](/20181211-Mackerel-Drink-Up-8/img/m4.png)
 @snapend
 
 +++
@@ -125,6 +132,7 @@
 @snapend
 
 @snap[midpoint]
+![](/20181211-Mackerel-Drink-Up-8/img/m5.png)
 @snapend
 
 
@@ -135,6 +143,7 @@
 @snapend
 
 @snap[midpoint]
+![](/20181211-Mackerel-Drink-Up-8/img/l1.png)
 @snapend
 
 +++
@@ -144,6 +153,7 @@
 @snapend
 
 @snap[midpoint]
+![](/20181211-Mackerel-Drink-Up-8/img/l2.png)
 @snapend
 
 
@@ -153,12 +163,15 @@
 ### まとめ
 @snapend
 
-- Server Replaceは
-    - 把握・検証・準備が、生命線その１
-    - ネットワーク・ディスクのパフォーマンス測定が、生命線その２
-    - 成功の秘訣は、「終わらせる」という断固たる決意
-        - 未来の夢を描いてると良いかなと
-        - 次はあれやるんだ、みたいな
+- 成功の秘訣
+    - 把握・検証・準備
+    - パフォーマンス測定
+        - ネットワーク
+        - ディスク I/O 
+
+- 「終わらせる」という断固たる決意
+    - 未来の夢を描いておく
+    - 次はあれやるんだ・・・
 
 +++
 
@@ -167,8 +180,9 @@
 @snapend
 
 - 正確性
-    - 諸所の画像はイメージです。2018/12/8時点の検索で見つかったものを利用させてもらっています。
     - 本資料は一例に過ぎないことをご了承ください。
+    - 諸所の画像はイメージです。かるーく検索して見つかったものを利用させてもらっています。
+
 - 本資料に関するお問い合わせ
     - 2018/12/31まで、 @color[#00aced](@fa[twitter-square]) [@sogaoh](http://twitter.com/sogaoh) にて受け付けます。DMでもストリーム（普通にメンション）でもWelcome。
 
