@@ -5,7 +5,7 @@
 @sogaoh  
 <br>
 @snap[text-06 text-gray]
-@css[nobr]( LT @ [https://mackerelio.connpass.com/event/106805/](https://mackerelio.connpass.com/event/106805/) )
+@css[nobr](LT @ https://mackerelio.connpass.com/event/106805/)
 @snapend
 <br>
 @snapend
