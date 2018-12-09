@@ -2,7 +2,7 @@
 ## こんにちは！
 @snapend
 
-これはサンプルのスライド資料です。  
+これはサンプルのスライド資料です。  @color[#00aced](@fa[twitter-square])
 <br>
 <br>
 <br>
@@ -16,7 +16,7 @@
 ---
 
 
-### 2枚目のスライド
+### @css[def-font](2枚目のスライド)
 
 #### @color[orange](ACME Corp Clearance Sale)
 
@@ -33,7 +33,12 @@
 
 ---
 
-
+@snap[def-font]
 ### おわり
+@snapend
 
-![TY8](/my1stSlide/TY8.png)
+@size[48pt](@css[ms-gothic](MSゴシック))
+
+@size[48pt](@css[def-font](ヒラギノ))
+
+@size[48pt](@css[yu-mincho](游明朝体))
