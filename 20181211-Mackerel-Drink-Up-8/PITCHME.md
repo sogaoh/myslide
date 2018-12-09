@@ -12,15 +12,49 @@ on #mackerelio
 @snapend
 
 @snap[west]
-- 自己紹介
-- 小規模編
-- 中規模編
-- 大規模編
-- まとめ
+
+* 自己紹介
+* 小規模編
+* 中規模編
+* 大規模編
+* まとめ
+
 @snapend
 
 
 ---
+
 @snap[north-west]
 ## 自己紹介
+@snapend
+
+@snap[midpoint]
+@snapend
+
++++
+
+@snap[north-west]
+## 自己紹介2
+@snapend
+
+@snap[midpoint]
+@snapend
+
+
+---
+
+@snap[north-west]
+## 小規模編
+@snapend
+
+@snap[midpoint]
+@snapend
+
++++
+
+@snap[north-west]
+## 小規模編2
+@snapend
+
+@snap[midpoint]
 @snapend
