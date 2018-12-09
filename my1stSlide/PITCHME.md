@@ -2,7 +2,7 @@
 ## こんにちは！
 @snapend
 
-これはサンプルのスライド資料です。  
+これはサンプルのスライド資料です。  @color[black](@fa[twitter-square])
 <br>
 <br>
 <br>
@@ -16,7 +16,7 @@
 ---
 
 
-### 2枚目のスライド
+### @css[def-font](2枚目のスライド)
 
 #### @color[orange](ACME Corp Clearance Sale)
 
