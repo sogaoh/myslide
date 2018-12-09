@@ -2,7 +2,7 @@
 ## こんにちは！
 @snapend
 
-これはサンプルのスライド資料です。  @color[black](@fa[twitter-square])
+これはサンプルのスライド資料です。  @color[blue](@fa[twitter-square])
 <br>
 <br>
 <br>
@@ -33,5 +33,8 @@
 
 ---
 
-
+@snap[def-font]
 ### おわり
+@snapend
+
+@css[ms-gothic](MSゴシック)
