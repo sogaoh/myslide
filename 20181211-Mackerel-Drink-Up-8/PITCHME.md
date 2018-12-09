@@ -5,7 +5,7 @@
 @sogaoh  
 <br>
 @snap[text-06 text-gray]
-LT @ [Mackerel Drink Up #8 Tokyo - テーマは「SRE」](https://mackerelio.connpass.com/event/106805/)
+@css[nobr](LT @ [Mackerel Drink Up #8 Tokyo - テーマは「SRE」](https://mackerelio.connpass.com/event/106805/))
 @snapend
 <br>
 @snapend
