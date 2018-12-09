@@ -3,7 +3,9 @@
 @snap[south]
 2018/12/11  
 @sogaoh  
+<br>
 on #mackerelio
+<br>
 @snapend
 
 ---
@@ -12,13 +14,13 @@ on #mackerelio
 @snapend
 
 @snap[west]
-@ul
-- 自己紹介
-- 小規模編
-- 中規模編
-- 大規模編
-- まとめ
-@ulend
+<ul>
+<li>自己紹介</li>
+<li>小規模編</li>
+<li>中規模編</li>
+<li>大規模編</li>
+<li>まとめ</li>
+</ul>
 @snapend
 
 
@@ -149,8 +151,12 @@ on #mackerelio
 ### まとめ
 @snapend
 
-@snap[west]
-@snapend
+- Server Replaceは
+    - 把握・検証・準備が、生命線その１
+    - ネットワーク・ディスクのパフォーマンス測定が、生命線その２
+    - 成功の秘訣は、「終わらせる」という断固たる決意
+        - 未来の夢を描いてると良いかなと
+        - 次はあれやるんだ、みたいな
 
 +++
 
@@ -158,8 +164,11 @@ on #mackerelio
 ### 免責
 @snapend
 
-@snap[west]
-@snapend
+- 正確性
+    - 諸所の画像はイメージです。2018/12/8時点の検索で見つかったものを利用させてもらっています。
+    - 本資料は一例に過ぎないことをご了承ください。
+- 本資料に関するお問い合わせ
+    - 2018/12/31まで、 Twitter [@sogaoh](http://twitter.com/sogaoh) にて受け付けます。DMでもストリーム（普通にメンション）でもWelcome。
 
 
 ---
