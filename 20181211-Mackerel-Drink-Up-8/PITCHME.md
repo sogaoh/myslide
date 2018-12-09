@@ -4,7 +4,9 @@
 2018/12/11  
 @sogaoh  
 <br>
+@snap[text-06 text-gray]
 LT @ [Mackerel Drink Up #8 Tokyo - テーマは「SRE」](https://mackerelio.connpass.com/event/106805/)
+@snapend
 <br>
 @snapend
 
