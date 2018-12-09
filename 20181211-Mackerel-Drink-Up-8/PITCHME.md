@@ -170,7 +170,7 @@
     - 諸所の画像はイメージです。2018/12/8時点の検索で見つかったものを利用させてもらっています。
     - 本資料は一例に過ぎないことをご了承ください。
 - 本資料に関するお問い合わせ
-    - 2018/12/31まで、 Twitter [@sogaoh](http://twitter.com/sogaoh) にて受け付けます。DMでもストリーム（普通にメンション）でもWelcome。
+    - 2018/12/31まで、 @color[#00aced](@fa[twitter-square]) [@sogaoh](http://twitter.com/sogaoh) にて受け付けます。DMでもストリーム（普通にメンション）でもWelcome。
 
 
 ---

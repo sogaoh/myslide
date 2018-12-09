@@ -2,7 +2,7 @@
 ## こんにちは！
 @snapend
 
-これはサンプルのスライド資料です。  @color[blue](@fa[twitter-square])
+これはサンプルのスライド資料です。  @color[#00aced](@fa[twitter-square])
 <br>
 <br>
 <br>
