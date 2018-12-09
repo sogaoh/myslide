@@ -12,17 +12,13 @@ on #mackerelio
 @snapend
 
 @snap[west]
-
+@ul
 - 自己紹介
-
 - 小規模編
-
 - 中規模編
-
 - 大規模編
-
 - まとめ
-
+@ulend
 @snapend
 
 
@@ -163,4 +159,11 @@ on #mackerelio
 @snapend
 
 @snap[west]
+@snapend
+
+
+---
+
+@snap[midpoint]
+(End)
 @snapend
