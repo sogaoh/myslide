@@ -1,4 +1,4 @@
-# Server Replace
+## Server Replace
 
 @snap[south]
 2018/12/11  
@@ -8,16 +8,20 @@ on #mackerelio
 
 ---
 @snap[north-west]
-## AGENDA
+### AGENDA
 @snapend
 
 @snap[west]
 
-* 自己紹介
-* 小規模編
-* 中規模編
-* 大規模編
-* まとめ
+- 自己紹介
+
+- 小規模編
+
+- 中規模編
+
+- 大規模編
+
+- まとめ
 
 @snapend
 
@@ -25,7 +29,7 @@ on #mackerelio
 ---
 
 @snap[north-west]
-## 自己紹介
+### 自己紹介 1/3
 @snapend
 
 @snap[midpoint]
@@ -34,7 +38,16 @@ on #mackerelio
 +++
 
 @snap[north-west]
-## 自己紹介2
+### 自己紹介 2/3
+@snapend
+
+@snap[midpoint]
+@snapend
+
++++
+
+@snap[north-west]
+### 自己紹介 3/3
 @snapend
 
 @snap[midpoint]
@@ -44,7 +57,7 @@ on #mackerelio
 ---
 
 @snap[north-west]
-## 小規模編
+### Server Replace  - 小規模編 -  1/3
 @snapend
 
 @snap[midpoint]
@@ -53,8 +66,101 @@ on #mackerelio
 +++
 
 @snap[north-west]
-## 小規模編2
+### Server Replace  - 小規模編 -  2/3
 @snapend
 
 @snap[midpoint]
+@snapend
+
++++
+
+@snap[north-west]
+### Server Replace  - 小規模編 -  3/3
+@snapend
+
+@snap[midpoint]
+@snapend
+
+
+---
+
+@snap[north-west]
+### Server Replace  - 中規模編 -  1/5
+@snapend
+
+@snap[midpoint]
+@snapend
+
++++
+
+@snap[north-west]
+### Server Replace  - 中規模編 -  2/5
+@snapend
+
+@snap[midpoint]
+@snapend
+
++++
+
+@snap[north-west]
+### Server Replace  - 中規模編 -  3/5
+@snapend
+
+@snap[midpoint]
+@snapend
+
++++
+
+@snap[north-west]
+### Server Replace  - 中規模編 -  4/5
+@snapend
+
+@snap[midpoint]
+@snapend
+
++++
+
+@snap[north-west]
+### Server Replace  - 中規模編 -  5/5
+@snapend
+
+@snap[midpoint]
+@snapend
+
+
+---
+
+@snap[north-west]
+### Server Replace  - 大規模編 -  1/2
+@snapend
+
+@snap[midpoint]
+@snapend
+
++++
+
+@snap[north-west]
+### Server Replace  - 大規模編 -  2/2
+@snapend
+
+@snap[midpoint]
+@snapend
+
+
+---
+
+@snap[north-west]
+### まとめ
+@snapend
+
+@snap[west]
+@snapend
+
++++
+
+@snap[north-west]
+### 免責
+@snapend
+
+@snap[west]
 @snapend
