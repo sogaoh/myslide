@@ -143,7 +143,7 @@
 @snapend
 
 @snap[midpoint]
-<img src="/20181211-Mackerel-Drink-Up-8/img/l1.png" width="960" height="400" />
+<img src="/20181211-Mackerel-Drink-Up-8/img/l1.png" width="960px" height="400px" />
 @snapend
 
 +++
@@ -153,7 +153,7 @@
 @snapend
 
 @snap[midpoint]
-<img src="/20181211-Mackerel-Drink-Up-8/img/l2.png" width="960" height="400" />
+<img src="/20181211-Mackerel-Drink-Up-8/img/l2.png" width="960px" height="400px" />
 @snapend
 
 
