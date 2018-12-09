@@ -1,0 +1,7 @@
+theme : night
+theme-override : /assets/css/PITCHME.css
+
+slide-number : true
+footnote : "- Server Replace - LT @ https://mackerelio.connpass.com/event/106805/ by [@sogaoh](https://twitter.com/sogaoh)"
+
+logo : /assets/img/luigi.jpg
