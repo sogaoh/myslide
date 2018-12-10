@@ -1,3 +1,5 @@
+[Presentation Slide](https://gitpitch.com/sogaoh/myslide?p=20181211-Mackerel-Drink-Up-8#/)
+
 ## Server Replace
 
 2018/12/11  
