@@ -8,8 +8,8 @@ sogaoh's presentations using https://gitpitch.com/
         - [20181211-Mackerel-Drink-Up-8](https://gitpitch.com/sogaoh/myslide?p=20181211-Mackerel-Drink-Up-8)
 
 ## Others
-- my1sSlide
-    - (Play with gitpitch)
+- my1stSlide
+    - (My first Play with gitpitch)
         - [my1stSlide](https://gitpitch.com/sogaoh/myslide?p=my1stSlide)
 
 

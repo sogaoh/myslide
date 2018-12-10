@@ -1,4 +1,7 @@
+@snap[def-font]
 ## Server Replace
+<br>
+@snapend
 
 @snap[south]
 2018/12/11  
@@ -12,7 +15,7 @@
 
 +++
 
-@snap[north-west]
+@snap[north-west def-font]
 ### AGENDA
 @snapend
 
