@@ -1,7 +1,4 @@
-@snap[def-font]
 ## Server Replace
-<br>
-@snapend
 
 @snap[south]
 2018/12/11  
@@ -15,7 +12,7 @@
 
 +++
 
-@snap[north-west def-font]
+@snap[north-west]
 ### AGENDA
 @snapend
 
@@ -36,8 +33,7 @@
 ### 自己紹介 1/3
 @snapend
 
-@snap[midpoint]
-@snapend
+![](/assets/img/sogaoh-1.png)
 
 +++
 
@@ -45,8 +41,7 @@
 ### 自己紹介 2/3
 @snapend
 
-@snap[midpoint]
-@snapend
+![](/assets/img/sogaoh-2.png)
 
 +++
 
@@ -54,9 +49,7 @@
 ### 自己紹介 3/3
 @snapend
 
-@snap[midpoint]
-@snapend
-
+![](/assets/img/sogaoh-3.png)
 
 ---
 
