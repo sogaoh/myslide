@@ -10,7 +10,8 @@
 <br>
 @snapend
 
----
++++
+
 @snap[north-west]
 ### AGENDA
 @snapend
@@ -32,8 +33,7 @@
 ### 自己紹介 1/3
 @snapend
 
-@snap[midpoint]
-@snapend
+![](/assets/img/sogaoh-1.png)
 
 +++
 
@@ -41,8 +41,7 @@
 ### 自己紹介 2/3
 @snapend
 
-@snap[midpoint]
-@snapend
+![](/assets/img/sogaoh-2.png)
 
 +++
 
@@ -50,9 +49,7 @@
 ### 自己紹介 3/3
 @snapend
 
-@snap[midpoint]
-@snapend
-
+![](/assets/img/sogaoh-3.png)
 
 ---
 
@@ -60,9 +57,7 @@
 ### Server Replace  - 小規模編 -  1/3
 @snapend
 
-@snap[midpoint]
 ![](/20181211-Mackerel-Drink-Up-8/img/s1.png)
-@snapend
 
 +++
 
@@ -70,9 +65,7 @@
 ### Server Replace  - 小規模編 -  2/3
 @snapend
 
-@snap[midpoint]
 ![](/20181211-Mackerel-Drink-Up-8/img/s2.png)
-@snapend
 
 +++
 
@@ -80,9 +73,7 @@
 ### Server Replace  - 小規模編 -  3/3
 @snapend
 
-@snap[midpoint]
 ![](/20181211-Mackerel-Drink-Up-8/img/s3.png)
-@snapend
 
 
 ---
@@ -91,9 +82,7 @@
 ### Server Replace  - 中規模編 -  1/5
 @snapend
 
-@snap[midpoint]
 ![](/20181211-Mackerel-Drink-Up-8/img/m1.png)
-@snapend
 
 +++
 
@@ -101,9 +90,7 @@
 ### Server Replace  - 中規模編 -  2/5
 @snapend
 
-@snap[midpoint]
 ![](/20181211-Mackerel-Drink-Up-8/img/m2.png)
-@snapend
 
 +++
 
@@ -111,9 +98,7 @@
 ### Server Replace  - 中規模編 -  3/5
 @snapend
 
-@snap[midpoint]
 ![](/20181211-Mackerel-Drink-Up-8/img/m3.png)
-@snapend
 
 +++
 
@@ -121,9 +106,7 @@
 ### Server Replace  - 中規模編 -  4/5
 @snapend
 
-@snap[midpoint]
 ![](/20181211-Mackerel-Drink-Up-8/img/m4.png)
-@snapend
 
 +++
 
@@ -131,9 +114,7 @@
 ### Server Replace  - 中規模編 -  5/5
 @snapend
 
-@snap[midpoint]
 ![](/20181211-Mackerel-Drink-Up-8/img/m5.png)
-@snapend
 
 
 ---
@@ -142,9 +123,7 @@
 ### Server Replace  - 大規模編 -  1/2
 @snapend
 
-@snap[midpoint]
 ![](/20181211-Mackerel-Drink-Up-8/img/l1.png)
-@snapend
 
 +++
 
@@ -152,9 +131,7 @@
 ### Server Replace  - 大規模編 -  2/2
 @snapend
 
-@snap[midpoint]
 ![](/20181211-Mackerel-Drink-Up-8/img/l2.png)
-@snapend
 
 
 ---

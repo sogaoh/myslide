@@ -1,7 +1,8 @@
+logo : /assets/img/luigi.jpg
+
 theme : night
 theme-override : /assets/css/PITCHME.css
 
+footnote : "'Server Replace' / LT @ Mackerel Drink Up #8 Tokyo - テーマは「SRE」 / HashTag: #mackerelio / Event URL: https://mackerelio.connpass.com/event/106805/ "
 slide-number : true
-footnote : "LT @ Mackerel Drink Up #8 Tokyo - テーマは「SRE」 / HashTag: #mackerelio / Event URL: https://mackerelio.connpass.com/event/106805/ "
 
-logo : /assets/img/luigi.jpg
