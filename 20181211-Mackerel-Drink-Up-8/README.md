@@ -16,8 +16,7 @@ Twitter HashTag: [#mackerelio](https://twitter.com/search?f=tweets&vertical=defa
     - [小規模編](#small-scale-case)
     - [中規模編](#medium-scale-case)
     - [大規模編](#large-scale-case)
-    - [まとめ](#conclusion)
-    - [免責](#disclaimer)
+    - [これから](#future)
 
 ### Small Scale Case
 - Server Replace 小規模編
@@ -55,24 +54,13 @@ Twitter HashTag: [#mackerelio](https://twitter.com/search?f=tweets&vertical=defa
     - オンプレ側の機器設置に向けて奔走中
     - 話のつづきは、[SRE Advent Calendar 2018](https://qiita.com/advent-calendar/2018/sre) # Day 22 にて
 
-### Conclusion
-- まとめ
-    - 成功の秘訣
-        - 把握・検証・準備
-        - パフォーマンス測定
-            - ネットワーク
-            - ディスク I/O 
-
-    - 「終わらせる」という断固たる決意
-        - 未来の夢を描いておく
-        - 次はあれやるんだ・・・
-
-### Disclaimer
-- 免責
-    - 正確性
-        - 本資料は一例に過ぎないことをご了承ください。
-        - 諸所の画像はイメージです。かるーく検索して見つかったものを利用させてもらっています。
-    - 本資料に関するお問い合わせ
-        - 2018/12/31まで、 Twitter [@sogaoh](http://twitter.com/sogaoh) にて受け付けます。DMでもストリーム（普通にメンション）でもWelcome。
+### Future
+- Server Replace 今後
+    - オンプレは減っていくであろう
+    - 国も「クラウドファースト」を打ち出してきているし、国際的にもすでにそう
+    - サーバーはやや「使い捨て」が普通になっていくように思う
+    - 「コードで管理」「すぐに作り直し」「コンテナ化」が進むと思う
+    - モニタリングも、オートディスカバリがスタンドードになっていくのでは
+    - しかし、「基本」は変わらないので、幅広い見識と原則に基づく処置能力は外せないだろう
 
 
