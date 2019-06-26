@@ -36,41 +36,100 @@
 +++ 
 
 - @size[1.6em](A server side Engineer)
-<br>
+
     - Good at : PHP, Laravel, PostgreSQL, Fabric, rsync, ...
     - Not good at : Excel, Javascript, Politics (internal), ...
 
 +++ 
 
 - @size[1.6em](A small business owner) <br> @size[1.6em](: 'self-employed')
-<br>
+
     - Since this Feb.
     - Live in the region of Higashi-Murayama tax office
     - Work in Shibuya-ku
 
 ---
 
-@snap[north-west]
+@snap[midpoint]
 ### Yesterday, I've payed tax...
 @snapend
 
++++ 
+
+![](/20190627-Try-English-LT-for-beginner/img/tax-paid.jpg)
+
 ---
 
-@snap[north-west]
+@snap[midpoint]
 ### Frequency of tax payments
 @snapend
 
----
++++ 
 
 @snap[north-west]
+#### Normal Collection
+@snapend
+
+![](/20190627-Try-English-LT-for-beginner/img/collection-normal.png)
+
++++ 
+
+@snap[north-west]
+#### Special Collection
+@snapend
+
+![](/20190627-Try-English-LT-for-beginner/img/collection-special.png)
+
+---
+
+@snap[midpoint]
 ### HOPE for tax system
 @snapend
 
+![](/20190627-Try-English-LT-for-beginner/img/i-want.png)
+
++++ 
+
+- Correct Name
+    - Which is `Normal` for people ?  :thinking: 
+
+- Automation
+    - Monthly automatic withdrawal  :pray: 
+
+---
+
+@snap[midpoint]
+### Conclusion
+@snapend
+
+- Income tax, resident tax is much HIGH in Japan.
+- The tax system should be easy for us to understand. 
+- I think the tax office's work should be more automated.
+
++++ 
+
+@snap[north-west]
+#### And...
+@snapend
+
++++
+
+- The consumption tax rate will increase to 10% from October 1, 2019.
+
+- The reduced tax rate will be applied.
+
 ---
 
 @snap[north-west]
-### Conclusion
+#### References
 @snapend
+
+- [Good at / Not ... in English](https://hapaeikaiwa.com/2014/08/20/%E8%8B%B1%E8%AA%9E%E3%81%A7%E3%80%8C%E3%80%9C%E3%81%8C%E5%BE%97%E6%84%8F%E3%83%BB%E8%8B%A6%E6%89%8B%E3%80%8D%E3%82%92%E8%A1%A8%E3%81%99%E4%BE%BF%E5%88%A9%E3%83%95%E3%83%AC%E3%83%BC%E3%82%BA/)
+- https://atenglish.com/blog/english-presentation-7120.html
+- https://eikaiwa.weblio.jp/column/natural_english/finish-presentation-conclusion
+- https://oshiete.goo.ne.jp/qa/2612698.html
+- https://www.rarejob.com/englishlab/column/20181121/
+- https://auri.ga/5000generator/
 
 ---
 
