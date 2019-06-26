@@ -29,18 +29,26 @@
 
 ---
 
-@snap[north-west]
+@snap[midpoint]
 ### About Me
 @snapend
+
++++ 
+
+@snap[north-west]
 
 - A server side Engineer
     - Good at : PHP, Laravel, PostgreSQL, Fabric, rsync, ...
     - Not good at : Excel, Javascript, Politics (internal), ...
 
++++ 
+
 - A small business owner (self-employed)
     - Since this Feb.
     - Live in the region of Higashi-Murayama tax office
     - Work in Shibuya-ku
+
+@snapend
 
 ---
 
