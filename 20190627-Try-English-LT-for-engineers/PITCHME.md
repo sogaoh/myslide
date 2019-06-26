@@ -56,7 +56,7 @@
 
 +++ 
 
-![](/20190627-Try-English-LT-for-beginners/img/tax-paid.jpg)
+![](/20190627-Try-English-LT-for-engineers/img/tax-paid.jpg)
 
 ---
 
@@ -70,7 +70,7 @@
 #### Normal Collection
 @snapend
 
-![](/20190627-Try-English-LT-for-beginners/img/collection-normal.png)
+![](/20190627-Try-English-LT-for-engineers/img/collection-normal.png)
 
 +++ 
 
@@ -78,7 +78,7 @@
 #### Special Collection
 @snapend
 
-![](/20190627-Try-English-LT-for-beginners/img/collection-special.png)
+![](/20190627-Try-English-LT-for-engineers/img/collection-special.png)
 
 ---
 
@@ -86,7 +86,7 @@
 ### HOPE for tax system
 @snapend
 
-![](/20190627-Try-English-LT-for-beginners/img/i-want.png)
+![](/20190627-Try-English-LT-for-engineers/img/i-want.png)
 
 +++ 
 
@@ -113,8 +113,6 @@
 @snap[north-west]
 #### And...
 @snapend
-
-+++
 
 - The consumption tax rate will increase to 10% from October 1, 2019.
 
