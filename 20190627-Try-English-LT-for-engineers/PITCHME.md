@@ -35,20 +35,18 @@
 
 +++ 
 
-@snap[north-west]
+- @size[2.0em](A server side Engineer)
 
-- A server side Engineer
     - Good at : PHP, Laravel, PostgreSQL, Fabric, rsync, ...
     - Not good at : Excel, Javascript, Politics (internal), ...
 
 +++ 
 
-- A small business owner (self-employed)
+- @size[2.0em](A small business owner (self-employed))
+
     - Since this Feb.
     - Live in the region of Higashi-Murayama tax office
     - Work in Shibuya-ku
-
-@snapend
 
 ---
 
