@@ -35,15 +35,13 @@
 
 +++ 
 
-- @size[2.0em](A server side Engineer)
-
+- @size[1.6em](A server side Engineer)
     - Good at : PHP, Laravel, PostgreSQL, Fabric, rsync, ...
     - Not good at : Excel, Javascript, Politics (internal), ...
 
 +++ 
 
-- @size[2.0em](A small business owner (self-employed))
-
+- @size[1.6em](A small business owner \(self-employed\) )
     - Since this Feb.
     - Live in the region of Higashi-Murayama tax office
     - Work in Shibuya-ku
