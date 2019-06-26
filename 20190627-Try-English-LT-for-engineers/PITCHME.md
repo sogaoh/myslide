@@ -89,15 +89,21 @@
 
 +++ 
 
-![](/20190627-Try-English-LT-for-engineers/img/i-want.png)
-
-+++ 
-
 - Correct Name
     - Which is `Normal` for people ?  :thinking: 
 
 - Automation
     - Monthly automatic withdrawal  :pray: 
+
++++ 
+
+@snap[midpoint]
+#### OR
+@snapend
+
++++ 
+
+![](/20190627-Try-English-LT-for-engineers/img/i-want.png)
 
 ---
 
