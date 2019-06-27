@@ -6,7 +6,7 @@
 <br>
 <br>
 @snap[text-06 text-gray]
-@css[nobr](LT @ https://try-english-lt.connpass.com/event/133844/)
+@css[nobr](Not LTed @ https://try-english-lt.connpass.com/event/133844/)
 @snapend
 <br>
 @snapend
