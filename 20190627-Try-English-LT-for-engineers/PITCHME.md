@@ -57,7 +57,9 @@
 
 +++ 
 
+@snap[midpoint]
 ![](/20190627-Try-English-LT-for-engineers/img/tax-paid.jpg)
+@snapend
 
 ---
 
