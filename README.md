@@ -9,6 +9,11 @@ sogaoh's presentations using https://gitpitch.com/
         - [20181211-Mackerel-Drink-Up-8](https://gitpitch.com/sogaoh/myslide?p=20181211-Mackerel-Drink-Up-8)
 
 
+## WIP
+- 2019/09/04
+    - [ITIL4とSIAMとPRINCE2と](https://github.com/sogaoh/myslide/tree/20190904-engineers-lt/20190904-LateSummer-IndependentResearch-LT)
+        - [20190904-LateSummer-IndependentResearch-LT](https://gitpitch.com/sogaoh/myslide/20190904-engineers-lt?p=20190904-LateSummer-IndependentResearch-LT/)
+
 ## Others
 - 用意はしたけど LT しなかった
     - [Tax](https://github.com/sogaoh/myslide/tree/master/20190627-Try-English-LT-for-engineers) 
