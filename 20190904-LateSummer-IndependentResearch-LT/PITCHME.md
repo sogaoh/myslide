@@ -215,8 +215,6 @@
 
 +++ 
 
-+++ 
-
 @snap[north-west]
 ### ITIL4・SIAM・PRINCE2 
 @snapend
