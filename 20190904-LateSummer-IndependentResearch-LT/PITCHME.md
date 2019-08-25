@@ -9,7 +9,6 @@
 @snap[text-06 text-gray]
 @css[nobr](LT @ https://engineers.connpass.com/event/141228/ )
 @snapend
-<br>
 @snapend
 
 +++
