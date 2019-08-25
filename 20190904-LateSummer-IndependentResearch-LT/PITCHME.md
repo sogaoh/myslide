@@ -73,7 +73,7 @@
 +++ 
 
 @snap[north-west]
-#### What is ITIL `4` ? 
+#### What is ITIL4 ? 
 @snapend
 
 @snap[west]
@@ -96,15 +96,15 @@
 <ul>
 <li>試験:  ¥32,000 (税別) ・書籍: ¥6,500  (税別) 
   <ul>
-  <li>https://itstrategy.jp/pcexam/, https://itstrategy.jp/itil/itil4fbook-e/</li>
+  <li>[https://itstrategy.jp/pcexam/](https://itstrategy.jp/pcexam/), [https://itstrategy.jp/itil/itil4fbook-e/](https://itstrategy.jp/itil/itil4fbook-e/)</li>
   </ul>
 </li>
 </ul>
 <ul>
 <li>他の Provider の情報
   <ul>
-  <li>https://www.axelos.com/certifications/itil-certifications</li>
-  <li>https://www.axelos.com/find-a-training-provider/?country=Japan&products=[14]</li>
+  <li>[https://www.axelos.com/certifications/itil-certifications](https://www.axelos.com/certifications/itil-certifications)</li>
+  <li>[https://www.axelos.com/find-a-training-provider/?country=Japan&products=[14]](https://www.axelos.com/find-a-training-provider/?country=Japan&products=[14])</li>
   </ul>
 </li>
 </ul>
@@ -121,6 +121,40 @@
 
 +++ 
 
+@snap[north-west]
+#### What is SIAM ? 
+@snapend
+
+@snap[west]
+<ul>
+<li>Service Integration And Management</li>
+<li>IT組織がビジネスに直面するITサービスを、シームレスに管理する際に、マルチサービス提供者を利活用する際の方法論</li>
+<li>英国で考案・発展してきて、最近(2017・2018)認定試験化・日本語化された</li>
+<li>「SIAMエコシステム」が特徴（顧客組織・SI・SPの３レイヤ）</li>
+</ul>
+@snapend
+
++++ 
+
+@snap[north-west]
+#### Price of SIAM  Certification (ja)
+@snapend
+
+@snap[west]
+<ul>
+<li>SIAMファンデーション : ¥25,597
+  <ul>
+  <li>[https://www.exin.com/jp-ja/certifications/#certifications/exin-bcs-siamtm-foundation-exam](https://www.exin.com/jp-ja/certifications/#certifications/exin-bcs-siamtm-foundation-exam)</li>
+  </ul>
+</li>
+</ul>
+<ul>
+<li>SIAMプロフェッショナル : ¥25,597
+  <ul>
+  <li>[https://www.exin.com/jp-ja/certifications/#certifications/exin-bcs-siamtm-professional-exam](https://www.exin.com/jp-ja/certifications/#certifications/exin-bcs-siamtm-professional-exam)</li>
+  </ul>
+</li>
+</ul>
 
 ---
 
@@ -130,6 +164,48 @@
 
 +++ 
 
+@snap[north-west]
+### What is PRINCE2 ? 
+@snapend
+
+@snap[west]
+<ul>
+<li>PRrojects IN Controlled Environments, 2nd version</li>
+<li>プロジェクトマネジメントの世界的なフレームワーク（PMBOKは３国のみ）[^3]</li>
+<li>７つの原則、７つのテーマ、７つのプロセス</li>
+<li>PMBOKがPMのためなのに対してPRINCE2はプロジェクトに関わるみんなのため</li>
+<li>PMBOKと補完関係</li>
+</ul>
+
++++ 
+
+@snap[north-west]
+### Price of PRINCE2  Certification (ja) 
+@snapend
+
+@snap[west]
+<ul>
+<li>PRINCE2ファンデーション : ¥99,900 (試験代 ¥28,080、税込)
+  <ul>
+  <li>[https://itstrategy.jp/pr2f2day/](https://itstrategy.jp/pr2f2day/)</li>
+  </ul>
+</li>
+</ul>  
+<ul>
+<li>PRINCE2プラクティショナ : ¥121,716 (試験代 ¥28,080、税込)
+  <ul>
+  <li>[https://itstrategy.jp/pr2practitioner/](https://itstrategy.jp/pr2practitioner/)</li>
+  </ul>
+</li>
+</ul>  
+<br>
+<ul>
+<li>日本語版書籍（2015年版） : ¥11,880 (税込)
+  <ul>
+  <li>[https://itstrategy.jp/pm/book/](https://itstrategy.jp/pm/book/)</li>
+  </ul>
+</li>
+</ul>  
 
 ---
 
@@ -139,6 +215,27 @@
 
 +++ 
 
++++ 
+
+@snap[north-west]
+### ITIL4・SIAM・PRINCE2 
+@snapend
+
+@snap[west]
+<ul>
+<li>hoge</li>
+</ul>
+
++++ 
+
+@snap[north-west]
+### Appendix 
+@snapend
+
+@snap[west]
+<ul>
+<li>fuga</li>
+</ul>
 
 ---
 
