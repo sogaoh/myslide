@@ -1,0 +1,7 @@
+logo : /assets/img/luigi.jpg
+
+theme : night
+theme-override : /assets/css/PITCHME.css
+
+footnote : "'ITIL4とSIAMとPRINCE2と' / LT @ 残暑に負けるな！自由研究LT大会 / HashTag: #engineers_lt / Event URL: https://engineers.connpass.com/event/141228/ "
+slide-number : true
