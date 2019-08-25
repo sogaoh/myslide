@@ -1,11 +1,10 @@
 @snap[north]
-## ITIL4 と<br>SIAM と<br>PRINCE2 と
+## <br>ITIL4 と<br>SIAM と<br>PRINCE2 と
 @snapend
 
 @snap[south]
 2019/09/04  
 @color[#00aced](@fa[twitter-square]) [@sogaoh](http://twitter.com/sogaoh)
-<br>
 <br>
 @snap[text-06 text-gray]
 @css[nobr](LT @ https://engineers.connpass.com/event/141228/ )
