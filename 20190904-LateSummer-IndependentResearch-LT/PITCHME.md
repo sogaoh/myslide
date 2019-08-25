@@ -28,6 +28,100 @@
 </ul>
 @snapend
 
++++
+
+@snap[north-west]
+#### 免責事項
+@snapend
+
+- この資料は私見に基づいて作成しているため、なるべく現時点(2019/08)での正確な情報を記載することを心がけてはいますが、間違ってしまっていてたりする可能性があります。
+    - ご質問・ご指摘等あれば @color[#00aced](@fa[twitter-square]) [@sogaoh](http://twitter.com/sogaoh) までご連絡いただければ幸いです。
+
+---
+
+@snap[midpoint]
+### About Me
+@snapend
+
++++ 
+
+@snap[west]
+<ul>
+<li>A freelance IT Engineer. (2019/02 - )</li>
+<li>現在は某社既存サービスの海外版バックエンド開発 [^1]</li>
+<li>平日夜や土日はとある副業を多少</li>
+<li>少し前までアラートにいち早く気がつくIT運用屋</li>
+<li>世の中を技術で少しずつ良くしていきたくて情報収集など中[^2]</li>
+<li>see : [https://www.ant-in-giant.work/](https://www.ant-in-giant.work/)</li>
+</ul>
+@snapend
+
+---
+
+@snap[midpoint]
+### ITIL4
+@snapend
+
++++ 
+
+@snap[north-west]
+#### What is ITIL `4` ? 
+@snapend
+
+@snap[west]
+<ul>
+<li>Information Technology Infrastructure Library</li>
+<li>ITILはITサービスマネジメントのベストプラクティスをまとめた書籍</li>
+<li>ITIL4はバージョン3が公開された2007年から10年以上経過した現在の次の到達目標</li>
+<li>「 ITとビジネスが一緒になって価値を提供していく」という視点に</li>
+<li>ITIL4ファンデーション資格の日本語版は2019年8月末時点で未提供</li>
+</ul>
+@snapend
+
++++
+
+@snap[north-west]
+#### Price of ITIL4 Certification (en)
+@snapend
+
+@snap[west]
+- 試験:  ¥32,000 (税別) ・書籍: ¥6,500  (税別) 
+    - https://itstrategy.jp/pcexam/, https://itstrategy.jp/itil/itil4fbook-e/
+
+-  他の Provider の情報
+    - https://www.axelos.com/certifications/itil-certifications
+    - https://www.axelos.com/find-a-training-provider/?country=Japan&products=[14]
+
+- 今後、変動する可能性がある模様
+@snapend
+
+---
+
+@snap[midpoint]
+### SIAM
+@snapend
+
++++ 
+
+
+---
+
+@snap[midpoint]
+### PRINCE2
+@snapend
+
++++ 
+
+
+---
+
+@snap[midpoint]
+### まとめ
+@snapend
+
++++ 
+
+
 ---
 
 @snap[midpoint]
