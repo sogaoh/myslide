@@ -165,7 +165,7 @@
 +++ 
 
 @snap[north-west]
-### What is PRINCE2 ? 
+#### What is PRINCE2 ? 
 @snapend
 
 @snap[west]
@@ -180,7 +180,7 @@
 +++ 
 
 @snap[north-west]
-### Price of PRINCE2  Certification (ja) 
+#### Price of PRINCE2  Certification (ja) 
 @snapend
 
 @snap[west]
