@@ -1,4 +1,6 @@
+@snap[north]
 ## ITIL4 と<br>SIAM と<br>PRINCE2 と
+@snapend
 
 @snap[south]
 2019/09/04  
