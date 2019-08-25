@@ -216,7 +216,7 @@
 +++ 
 
 @snap[north-west]
-### ITIL4・SIAM・PRINCE2 
+#### ITIL4・SIAM・PRINCE2 
 @snapend
 
 @snap[west]
@@ -227,7 +227,7 @@
 +++ 
 
 @snap[north-west]
-### Appendix 
+#### Appendix 
 @snapend
 
 @snap[west]
