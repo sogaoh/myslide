@@ -68,6 +68,7 @@
 
 @snap[midpoint]
 ### ITIL4
+<br>
 Information Technology Infrastructure Library 4  
 @snapend
 
@@ -80,9 +81,9 @@ Information Technology Infrastructure Library 4
 @snap[west]
 <ul>
 <li>ITILはITサービスマネジメントのベストプラクティスをまとめた書籍</li>
-<li>ITIL4はバージョン3が公開された2007年から10年以上経過した現在の次の到達目標</li>
+<li>ITIL4はバージョン3が公開された2007年から10年以上経過した現在の次の到達目標 [^3]</li>
 <li>「ITとビジネスが一緒になって価値を提供していく」という視点に</li>
-<li>ITIL4ファンデーション資格の日本語版は2019年8月末時点で未提供</li>
+<li>ITIL4ファンデーション資格の日本語版は2019年8月末時点で未提供 [^4]</li>
 </ul>
 @snapend
 
@@ -108,7 +109,7 @@ Information Technology Infrastructure Library 4
   </ul>
 </li>
 </ul>
-<br>
+<br>  
 <ul>
 <li>今後、変動する可能性がある模様</li>
 </ul>
@@ -118,6 +119,7 @@ Information Technology Infrastructure Library 4
 
 @snap[midpoint]
 ### SIAM
+<br>
 Service Integration And Management  
 @snapend
 
@@ -131,7 +133,7 @@ Service Integration And Management
 <ul>
 <li>IT組織がビジネスに直面するITサービスをシームレスに管理する際に、マルチサービス提供者を利活用する際の方法論</li>
 <li>英国で考案され発展してきて、最近(2017・2018)認定試験化・日本語化された</li>
-<li>「SIAMエコシステム」が特徴（顧客組織・SI・SPの３レイヤ）</li>
+<li>「SIAMエコシステム」が特徴（顧客組織・SI・SPの３レイヤ）[^5]</li>
 </ul>
 @snapend
 
@@ -161,6 +163,7 @@ Service Integration And Management
 
 @snap[midpoint]
 ### PRINCE2
+<br>
 PRrojects IN Controlled Environments, 2nd version
 @snapend
 
@@ -172,7 +175,7 @@ PRrojects IN Controlled Environments, 2nd version
 
 @snap[west]
 <ul>
-<li>プロジェクトマネジメントの世界的なフレームワーク（PMBOKは３国のみ）[^3]</li>
+<li>プロジェクトマネジメントの世界的なフレームワーク（PMBOKは３国のみ）[^6]</li>
 <li>７つの原則、７つのテーマ、７つのプロセス</li>
 <li>PMBOKがPMのためなのに対してPRINCE2はプロジェクトに関わるみんなのため</li>
 </ul>
@@ -217,13 +220,17 @@ PRrojects IN Controlled Environments, 2nd version
 
 @snap[north-west]
 #### ITIL4
-- b
+- 最新のITサービスマネジメント認定資格（日本語版は未完）  
+- [ISO/IEC 20000:2018](https://www.iso.org/obp/ui/#iso:std:iso-iec:20000:-1:ed-3:v1:en) ⊂ ITIL ⊂ [ISO/IEC 27001 (ISMS)](https://www.iso.org/obp/ui/#iso:std:iso-iec:27001:ed-2:v1:en)
 
 #### SIAM
-- b
+- 昨今の複雑な関係者間で統合されたマネジメントを確立するための知識体系  
+- [EXIN認定試験](http://it.prometric-jp.com/testlist/exin/) は受験しやすそうな感じ。レベル感はIPAのSGに近い？
 
 #### PRINCE2 
-- b  
+- プロジェクトマネジメントで世界的に認められている認定資格   
+- [AXELOS](https://www.axelos.com/certifications/prince2) 認定トレーニングを受ける必要があり、比較的高額そう
+
 @snapend
 
 +++ 
@@ -234,17 +241,23 @@ PRrojects IN Controlled Environments, 2nd version
 
 @snap[west]
 <ul>
-<li>fuga</li>
+<li>[a IT Service Management Seminar Report](https://www.ant-in-giant.work/posts/2019/08/11/1/) (2019/08/02)</li>
 </ul>
 
 +++ 
 
 @snap[north-west]
 #### footnote 
+@snapend
 
-[^1]: aaaaaaa  
-[^2]: 2
-[^3]: 3
+@snap[west]
+
+[^1]: 1  
+[^2]: 2  
+[^3]: 3  
+[^4]: 4  
+[^5]: 5  
+[^6]: 6  
 
 @snapend
 
