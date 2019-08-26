@@ -220,20 +220,42 @@ PRrojects IN Controlled Environments, 2nd version
 
 @snap[north-west]
 #### ITIL4
-- 最新のITサービスマネジメント認定資格（日本語版は未完）  
-- [ISO/IEC 20000:2018](https://www.iso.org/obp/ui/#iso:std:iso-iec:20000:-1:ed-3:v1:en) ⊂ ITIL ⊂ [ISO/IEC 27001 (ISMS)](https://www.iso.org/obp/ui/#iso:std:iso-iec:27001:ed-2:v1:en)
+@snapend
 
-#### SIAM
-- 昨今の複雑な関係者間で統合されたマネジメントを確立するための知識体系  
-- [EXIN認定試験](http://it.prometric-jp.com/testlist/exin/) は受験しやすそうな感じ。レベル感はIPAのSGに近い？
-
-#### PRINCE2 
-- プロジェクトマネジメントで世界的に認められている認定資格   
-- [AXELOS](https://www.axelos.com/certifications/prince2) 認定トレーニングを受ける必要があり、比較的高額そう
-
+@snap[west]
+<ul>
+<li>最新のITサービスマネジメント認定資格（日本語版は未完）</li>  
+<li>[ISO/IEC 20000:2018](https://www.iso.org/obp/ui/#iso:std:iso-iec:20000:-1:ed-3:v1:en) ⊂ ITIL ⊂ [ISO/IEC 27001 (ISMS)](https://www.iso.org/obp/ui/#iso:std:iso-iec:27001:ed-2:v1:en)</li>
+</ul>
 @snapend
 
 +++ 
+
+@snap[north-west]
+#### SIAM
+@snapend
+
+@snap[west]
+<ul>
+<li>昨今の複雑な関係者間で統合されたマネジメントを確立するための知識体系</li> 
+<li>[EXIN認定試験](http://it.prometric-jp.com/testlist/exin/) は受験しやすそうな感じ。レベル感はIPAのSGに近い？</li>
+</ul>
+@snapend
+
++++ 
+
+@snap[north-west]
+#### PRINCE2 
+@snapend
+
+@snap[west]
+<ul>
+<li>プロジェクトマネジメントで世界的に認められている認定資格</li>   
+<li>[AXELOS](https://www.axelos.com/certifications/prince2) 認定トレーニングを受ける必要があり、比較的高額そう</li>
+</ul>
+@snapend
+
+--- 
 
 @snap[north-west]
 #### Appendix 
