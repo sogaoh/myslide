@@ -41,7 +41,7 @@
 <li>ITIL4</li>
 <li>SIAM</li>
 <li>PRINCE2</li>
-<li>Conclusion</li>
+<li>まとめ</li>
 </ul>
 @snapend
 
@@ -55,11 +55,11 @@
 
 @snap[west]
 <ul>
-<li>A freelance IT Engineer. (2019/02 - )</li>
-<li>現在は某社既存サービスの海外版バックエンド開発 [^1]</li>
-<li>平日夜や土日はとある副業を多少</li>
-<li>少し前までアラートにいち早く気がつくIT運用屋</li>
-<li>世の中を技術で少しずつ良くしていきたくて情報収集など中[^2]</li>
+<li>A freelance IT Engineer<!--. (2019/02 - )-->, aiming a good IT Service Manager.</li>
+<li>現在は某社既存サービスの新規海外版バックエンド開発 [^1]</li>
+<li>平日夜や土日はとある副業を多少 [^2]</li>
+<li>少し前まではアラートにいち早く気がつくIT運用屋</li>
+<br>
 <li>see : [https://www.ant-in-giant.work/](https://www.ant-in-giant.work/)</li>
 </ul>
 @snapend
@@ -68,6 +68,7 @@
 
 @snap[midpoint]
 ### ITIL4
+Information Technology Infrastructure Library 4  
 @snapend
 
 +++ 
@@ -78,10 +79,9 @@
 
 @snap[west]
 <ul>
-<li>Information Technology Infrastructure Library</li>
 <li>ITILはITサービスマネジメントのベストプラクティスをまとめた書籍</li>
 <li>ITIL4はバージョン3が公開された2007年から10年以上経過した現在の次の到達目標</li>
-<li>「 ITとビジネスが一緒になって価値を提供していく」という視点に</li>
+<li>「ITとビジネスが一緒になって価値を提供していく」という視点に</li>
 <li>ITIL4ファンデーション資格の日本語版は2019年8月末時点で未提供</li>
 </ul>
 @snapend
@@ -103,11 +103,12 @@
 <ul>
 <li>他の Provider の情報
   <ul>
-  <li>[https://www.axelos.com/certifications/itil-certifications](https://www.axelos.com/certifications/itil-certifications)</li>
+  <!-- <li>[https://www.axelos.com/certifications/itil-certifications](https://www.axelos.com/certifications/itil-certifications)</li> -->
   <li>[https://www.axelos.com/find-a-training-provider/?country=Japan&products=[14]](https://www.axelos.com/find-a-training-provider/?country=Japan&products=[14])</li>
   </ul>
 </li>
 </ul>
+<br>
 <ul>
 <li>今後、変動する可能性がある模様</li>
 </ul>
@@ -117,6 +118,7 @@
 
 @snap[midpoint]
 ### SIAM
+Service Integration And Management  
 @snapend
 
 +++ 
@@ -127,9 +129,8 @@
 
 @snap[west]
 <ul>
-<li>Service Integration And Management</li>
-<li>IT組織がビジネスに直面するITサービスを、シームレスに管理する際に、マルチサービス提供者を利活用する際の方法論</li>
-<li>英国で考案・発展してきて、最近(2017・2018)認定試験化・日本語化された</li>
+<li>IT組織がビジネスに直面するITサービスをシームレスに管理する際に、マルチサービス提供者を利活用する際の方法論</li>
+<li>英国で考案され発展してきて、最近(2017・2018)認定試験化・日本語化された</li>
 <li>「SIAMエコシステム」が特徴（顧客組織・SI・SPの３レイヤ）</li>
 </ul>
 @snapend
@@ -137,7 +138,7 @@
 +++ 
 
 @snap[north-west]
-#### Price of SIAM  Certification (ja)
+#### Price of SIAM Certification (ja)
 @snapend
 
 @snap[west]
@@ -160,6 +161,7 @@
 
 @snap[midpoint]
 ### PRINCE2
+PRrojects IN Controlled Environments, 2nd version
 @snapend
 
 +++ 
@@ -170,29 +172,27 @@
 
 @snap[west]
 <ul>
-<li>PRrojects IN Controlled Environments, 2nd version</li>
 <li>プロジェクトマネジメントの世界的なフレームワーク（PMBOKは３国のみ）[^3]</li>
 <li>７つの原則、７つのテーマ、７つのプロセス</li>
 <li>PMBOKがPMのためなのに対してPRINCE2はプロジェクトに関わるみんなのため</li>
-<li>PMBOKと補完関係</li>
 </ul>
 
 +++ 
 
 @snap[north-west]
-#### Price of PRINCE2  Certification (ja) 
+#### Price of PRINCE2 Certification (ja) 
 @snapend
 
 @snap[west]
 <ul>
-<li>PRINCE2ファンデーション : ¥99,900 (試験代 ¥28,080、税込)
+<li>PRINCE2ファンデーション : ¥99,900 <!-- (試験代 ¥28,080、税込) -->
   <ul>
   <li>[https://itstrategy.jp/pr2f2day/](https://itstrategy.jp/pr2f2day/)</li>
   </ul>
 </li>
 </ul>  
 <ul>
-<li>PRINCE2プラクティショナ : ¥121,716 (試験代 ¥28,080、税込)
+<li>PRINCE2プラクティショナ : ¥121,716 <!-- (試験代 ¥28,080、税込) -->
   <ul>
   <li>[https://itstrategy.jp/pr2practitioner/](https://itstrategy.jp/pr2practitioner/)</li>
   </ul>
@@ -200,7 +200,7 @@
 </ul>  
 <br>
 <ul>
-<li>日本語版書籍（2015年版） : ¥11,880 (税込)
+<li>日本語版書籍（2015年版） : ¥11,880 <!-- (税込) -->
   <ul>
   <li>[https://itstrategy.jp/pm/book/](https://itstrategy.jp/pm/book/)</li>
   </ul>
@@ -216,13 +216,15 @@
 +++ 
 
 @snap[north-west]
-#### ITIL4・SIAM・PRINCE2 
-@snapend
+#### ITIL4
+- b
 
-@snap[west]
-<ul>
-<li>hoge</li>
-</ul>
+#### SIAM
+- b
+
+#### PRINCE2 
+- b  
+@snapend
 
 +++ 
 
@@ -235,8 +237,19 @@
 <li>fuga</li>
 </ul>
 
++++ 
+
+@snap[north-west]
+#### footnote 
+
+[^1]: aaaaaaa  
+[^2]: 2
+[^3]: 3
+
+@snapend
+
 ---
 
-@snap[midpoint]
-(End)
+@snap[midpoint]  
+(End)  
 @snapend
