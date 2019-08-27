@@ -6,7 +6,7 @@
 2019/09/04  
 @color[#00aced](@fa[twitter-square]) [@sogaoh](http://twitter.com/sogaoh)
 @snap[text-06 text-gray]
-@css[nobr](LT @ https://engineers.connpass.com/event/141228/ )
+@css[nobr](LT @ https://engineers.connpass.com/event/141228/)
 @snapend
 @snapend
 
@@ -68,7 +68,7 @@ PRINCE2
 
 +++
 
-（表：資格/値段・書籍/値段・）
+（表：資格/値段・書籍/値段）
 
 ---
 
@@ -82,18 +82,36 @@ PRINCE2
 
 覚えていただけました？
 
-+++
+---
 
 メッセージ：
 
++++
+
 ITサービスマネジメントの知識・資格を得る
-・・・
+→ 現場の改善に活かす 
+→ その実績を身近なところから拡散
+→ 世の中が、動き出す ?
+
++++
+
+→ スケール大きく言うと、革命
+→ 日本で唯一成功したと言われる 1232年 承久の乱
+そのときできたのが、御成敗式目
+令和式目がITエンジニアの発信から生まれるとすごいなあ
 
 ---
+
+Appendix
+
+- https://www.ant-in-giant.work/posts/2019/08/11/1/
+- https://www.axelos.com/itil-update
+- https://www.scopism.com/free-downloads/
+- https://www.axelos.com/prince2-project-management-jp
+
+
++++
 
 @snap[midpoint]  
 (End)  
 @snapend
-
-
-

@@ -11,7 +11,7 @@ theme-controls   : [ "#C0C0C0" ]
 theme-margins    : [ "0", "15px" ]
 highlight        : ir-black
 
-#theme-override : /assets/css/PITCHME.css
+theme-override : PITCHME.css
 
-footnote : "'First step to Reiwa Shikimoku (?)' / LT @ 残暑に負けるな！自由研究LT大会 / HashTag: #engineers_lt / Event URL: https://engineers.connpass.com/event/141228/ "
+footnote : "'First step to Reiwa Shikimoku (?)' / LT @ 残暑に負けるな！自由研究LT大会 ( https://engineers.connpass.com/event/141228/ ) / HashTag: #engineers_lt "
 slide-number : true
