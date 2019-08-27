@@ -60,9 +60,9 @@
 @snap[west]
 <ul>
 <li>A freelance IT Engineer<!--. (2019/02 - )-->, aiming a good IT Service Manager.</li>
+<li>少し前まではアラートにいち早く気がつくIT運用屋</li>
 <li>現在は某社既存サービスの新規海外版バックエンド開発 [^1]</li>
 <li>平日夜や土日はとある副業を多少 [^2]</li>
-<li>少し前まではアラートにいち早く気がつくIT運用屋</li>
 <br>
 <li>see : [https://www.ant-in-giant.work/](https://www.ant-in-giant.work/)</li>
 </ul>
@@ -84,10 +84,10 @@ Information Technology Infrastructure Library 4
 
 @snap[west]
 <ul>
-<li>ITILはITサービスマネジメントのベストプラクティスをまとめた書籍</li>
-<li>ITIL4はバージョン3が公開された2007年から10年以上経過した現在の次の到達目標 [^3]</li>
-<li>「ITとビジネスが一緒になって価値を提供していく」という視点に</li>
-<li>ITIL4ファンデーション資格の日本語版は2019年8月末時点で未提供 [^4]</li>
+<li>ITサービスマネジメントのベストプラクティスをまとめた書籍</li>
+<li>ITIL4はv3が公開されて10年以上経過した現在の次の到達目標 [^3]</li>
+<!-- <li>「ITとビジネスが一緒になって価値を提供していく」という視点に</li> -->
+<li>ITIL4ファンデーション資格の日本語版は現時点で未提供 [^4]</li>
 </ul>
 @snapend
 
@@ -135,9 +135,9 @@ Service Integration And Management
 
 @snap[west]
 <ul>
-<li>IT組織がビジネスに直面するITサービスをシームレスに管理する際に、マルチサービス提供者を利活用する際の方法論</li>
-<li>英国で考案され発展してきて、最近(2017・2018)認定試験化・日本語化された [^5]</li>
-<li>「SIAMエコシステム」が特徴（顧客組織・SI・SPの３レイヤ</li>
+<li>IT組織がマルチサービス提供者を利活用する際の方法論</li>
+<li>英国で発展してきて、2018年に認定試験化・日本語化された [^5]</li>
+<li>「SIAMエコシステム」が特徴（顧客組織・SI・SPの３レイヤ）</li>
 </ul>
 @snapend
 
