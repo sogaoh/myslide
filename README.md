@@ -5,7 +5,6 @@ sogaoh's presentations using https://gitpitch.com/
 
 ## LTs
 - 2019/09/04
-<!--   - [First step to Reiwa Shikimoku (?)](https://github.com/sogaoh/myslide/tree/master/20190904-LateSummer-IndependentResearch-LT) -->
     - [First step to Reiwa Shikimoku (?)](https://github.com/sogaoh/myslide/tree/20190904-engineers-lt/20190904-LateSummer-IndependentResearch-LT)
         - [20190904-LateSummer-IndependentResearch-LT](https://gitpitch.com/sogaoh/myslide?p=20190904-LateSummer-IndependentResearch-LT/)
 
