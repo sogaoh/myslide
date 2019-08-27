@@ -53,6 +53,10 @@
 
 +++ 
 
+@snap[north-west]
+#### Hisashi SOGA a.k.a. @color[#00aced](@fa[twitter-square]) [@sogaoh](http://twitter.com/sogaoh) 
+@snapend
+
 @snap[west]
 <ul>
 <li>A freelance IT Engineer<!--. (2019/02 - )-->, aiming a good IT Service Manager.</li>
@@ -132,8 +136,8 @@ Service Integration And Management
 @snap[west]
 <ul>
 <li>IT組織がビジネスに直面するITサービスをシームレスに管理する際に、マルチサービス提供者を利活用する際の方法論</li>
-<li>英国で考案され発展してきて、最近(2017・2018)認定試験化・日本語化された</li>
-<li>「SIAMエコシステム」が特徴（顧客組織・SI・SPの３レイヤ）[^5]</li>
+<li>英国で考案され発展してきて、最近(2017・2018)認定試験化・日本語化された [^5]</li>
+<li>「SIAMエコシステム」が特徴（顧客組織・SI・SPの３レイヤ</li>
 </ul>
 @snapend
 
@@ -263,7 +267,14 @@ PRrojects IN Controlled Environments, 2nd version
 
 @snap[west]
 <ul>
-<li>[a IT Service Management Seminar Report](https://www.ant-in-giant.work/posts/2019/08/11/1/) (2019/08/02)</li>
+<li>[a IT Service Management Seminar Report](https://www.ant-in-giant.work/posts/2019/08/11/1/)</li>
+<li>[https://itstrategy.jp/itil/itil4/](https://itstrategy.jp/itil/itil4/)</li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
 </ul>
 
 +++ 
@@ -274,12 +285,12 @@ PRrojects IN Controlled Environments, 2nd version
 
 @snap[west]
 
-[^1]: 1  
-[^2]: 2  
-[^3]: 3  
-[^4]: 4  
-[^5]: 5  
-[^6]: 6  
+[^1]: Laravel・GraphQL を採用
+[^2]: New Relic or CloudWatch の監視・通知設定など  
+[^3]: see [https://yasm.com/wiki/en/img/yasm-frameworks/itil/itil-4-practices-itil-v3-processes-comparison.jpg](https://yasm.com/wiki/en/img/yasm-frameworks/itil/itil-4-practices-itil-v3-processes-comparison.jpg)  
+[^4]: see [https://www.quintgroup.com/ja-jp/insights/itil4cert_scheme/](https://www.quintgroup.com/ja-jp/insights/itil4cert_scheme/), [https://www.itpreneurs.co.jp/itil-4/](https://www.itpreneurs.co.jp/itil-4/)  
+[^5]: [https://www.scopism.com/free-downloads/](https://www.scopism.com/free-downloads/) から日本語の BoK(Book of Knowledge)を無償で取得可能  
+[^6]: see [https://blog.shota-kameyama.com/2017/06/28/prince2-overview/](https://blog.shota-kameyama.com/2017/06/28/prince2-overview/)  
 
 @snapend
 
