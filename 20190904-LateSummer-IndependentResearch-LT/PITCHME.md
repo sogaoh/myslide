@@ -116,6 +116,12 @@ Appendix
 
 +++
 
+Disclaimer
+
+(免責事項)
+
++++
+
 @snap[midpoint]  
 (End)  
 @snapend
