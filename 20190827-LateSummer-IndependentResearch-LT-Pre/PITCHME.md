@@ -267,14 +267,14 @@ PRrojects IN Controlled Environments, 2nd version
 
 @snap[west]
 <ul>
-<li>[8/2にあったITIL4アップデートセミナーの情報](https://itstrategy.jp/itil/itil4/)</li>
-<li>[↑のレポート的まとめ](https://www.ant-in-giant.work/posts/2019/08/11/1/)</li>
-<li>[クイント社セミナースケジュール](https://www.quintgroup.com/ja-jp/trainings/quint-jp-training-calendar/)</li>
-<li>[ITプレナーズ社ITIL4最新情報](https://www.itpreneurs.co.jp/itil-4/)</li>
-<li>[AXELOS ITILアップデート(en)](https://www.axelos.com/itil-update)</li>
-<li>[BSP社コラム](https://www.bspsol.com/column/itil4で何が変わったのか？/)</li>
-<li>[ブログ: 国連で推奨されているプロジェクトマネジメントフレームワーク「PRINCE2」](https://blog.shota-kameyama.com/2017/06/28/prince2-overview/)</li>
-<li><[PRINCE2とPMBOK・ITILの比較(2015年)](https://www.slideshare.net/itpreneurs/prince2pmbokitil)/li>
+<li>@size[70%]([8/2にあったITIL4アップデートセミナーの情報](https://itstrategy.jp/itil/itil4/))</li>
+<li>@size[70%]([↑のレポート的まとめ](https://www.ant-in-giant.work/posts/2019/08/11/1/))</li>
+<li>@size[70%]([クイント社セミナースケジュール](https://www.quintgroup.com/ja-jp/trainings/quint-jp-training-calendar/))</li>
+<li>@size[70%]([ITプレナーズ社ITIL4最新情報](https://www.itpreneurs.co.jp/itil-4/))</li>
+<li>@size[70%]([AXELOS ITILアップデート:en](https://www.axelos.com/itil-update))</li>
+<li>@size[70%]([BSP社コラム](https://www.bspsol.com/column/itil4で何が変わったのか？/))</li>
+<li>@size[70%]([ブログ: 国連で推奨されているプロジェクトマネジメントフレームワーク「PRINCE2」](https://blog.shota-kameyama.com/2017/06/28/prince2-overview/))</li>
+<li>@size[70%]([PRINCE2とPMBOK・ITILの比較:2015年](https://www.slideshare.net/itpreneurs/prince2pmbokitil))</li>
 </ul>
 
 +++ 
