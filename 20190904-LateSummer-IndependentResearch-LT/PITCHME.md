@@ -285,10 +285,10 @@ PRrojects IN Controlled Environments, 2nd version
 
 @snap[west]
 
-[^1]: Laravel・GraphQL を採用
-[^2]: New Relic or CloudWatch の監視・通知設定など  
-[^3]: see [https://yasm.com/wiki/en/img/yasm-frameworks/itil/itil-4-practices-itil-v3-processes-comparison.jpg](https://yasm.com/wiki/en/img/yasm-frameworks/itil/itil-4-practices-itil-v3-processes-comparison.jpg)  
-[^4]: see [https://www.quintgroup.com/ja-jp/insights/itil4cert_scheme/](https://www.quintgroup.com/ja-jp/insights/itil4cert_scheme/), [https://www.itpreneurs.co.jp/itil-4/](https://www.itpreneurs.co.jp/itil-4/)  
+@size[smaller]([^1]: Laravel・GraphQL を採用)
+@size[smaller]([^2]: New Relic or CloudWatch の監視・通知設定など)  
+@size[smaller]([^3]: see [https://yasm.com/wiki/en/img/yasm-frameworks/itil/itil-4-practices-itil-v3-processes-comparison.jpg](https://yasm.com/wiki/en/img/yasm-frameworks/itil/itil-4-practices-itil-v3-processes-comparison.jpg)  
+[^4]: see [https://www.quintgroup.com/ja-jp/insights/itil4cert_scheme/](https://www.quintgroup.com/ja-jp/insights/itil4cert_scheme/), [https://www.itpreneurs.co.jp/itil-4/](https://www.itpreneurs.co.jp/itil-4/))  
 [^5]: [https://www.scopism.com/free-downloads/](https://www.scopism.com/free-downloads/) から日本語の BoK(Book of Knowledge)を無償で取得可能  
 [^6]: see [https://blog.shota-kameyama.com/2017/06/28/prince2-overview/](https://blog.shota-kameyama.com/2017/06/28/prince2-overview/)  
 
