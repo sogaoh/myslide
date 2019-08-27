@@ -1,5 +1,5 @@
 @snap[north]
-## <br>First step to <br>Reiwa Shikimoku <br>(?)
+## First step to Reiwa Shikimoku (?)
 @snapend
 
 @snap[south]

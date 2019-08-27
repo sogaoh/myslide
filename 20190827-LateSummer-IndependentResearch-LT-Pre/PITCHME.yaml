@@ -1,16 +1,6 @@
 logo : /assets/img/luigi.jpg
 
-theme            : template
-theme-background : [ "#FFF" ]
-theme-headline   : [ "Raleway", "#5289F7", "none" ]
-theme-byline     : [ "Raleway", "#111111", "none" ]
-theme-text       : [ "Ubuntu", "#1C1C1C", "none" ]
-theme-links      : [ "#5289F7", "#5254F7" ]
-theme-code       : [ "Source Code Pro" ]
-theme-controls   : [ "#484848" ]
-theme-margins    : [ "0", "15px" ]
-highlight        : tomorrow
-
+theme : night
 theme-override : /assets/css/PITCHME.css
 
 footnote : "'ITIL4とSIAMとPRINCE2と' / LT @ 残暑に負けるな！自由研究LT大会 / HashTag: #engineers_lt / Event URL: https://engineers.connpass.com/event/141228/ "
