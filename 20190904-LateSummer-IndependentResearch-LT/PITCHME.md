@@ -5,7 +5,6 @@
 @snap[south]
 2019/09/04  
 @color[#00aced](@fa[twitter-square]) [@sogaoh](http://twitter.com/sogaoh)
-<br>
 @snap[text-06 text-gray]
 @css[nobr](LT @ https://engineers.connpass.com/event/141228/ )
 @snapend

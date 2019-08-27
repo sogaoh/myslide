@@ -3,12 +3,12 @@
 @snapend
 
 @snap[south]
-2019/09/04  
+2019/08/27  
 @color[#00aced](@fa[twitter-square]) [@sogaoh](http://twitter.com/sogaoh)
 <br>
 <br>
 @snap[text-06 text-gray]
-@css[nobr](LT @ https://engineers.connpass.com/event/141228/ )
+@css[nobr](Pre LT @ https://engineers.connpass.com/event/141228/ )
 @snapend
 @snapend
 
