@@ -14,12 +14,12 @@
 
 <!--（１枚絵で自己紹介）-->
 
+---?color=black
+
 @snap[north-west]
 ### About Me 
 <!-- ![sogaoh-bio](/20190904-LateSummer-IndependentResearch-LT/img/sogaoh-bio.png) -->
 @snapend
-
----?color=black
 
 @snap[north-west span-45]
 @box[bg-green text-white box-padding](1. Plan#Lorem ipsum dolor sit amet eiusmod)
