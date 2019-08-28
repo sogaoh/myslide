@@ -11,9 +11,9 @@
 @snapend
 
 
----?color=linear-gradient(90deg, black 50%, black 50%)
+---?color=linear-gradient(90deg, black 35%, black 65%)
 
-@snap[west span-40 text-center]
+@snap[north-west span-35 text-center]
 
 ### About Me 
 @fa[quote-left quote-graphql](Hisashi SOGA)
@@ -21,15 +21,15 @@
 
 @snapend
 
-@snap[north-east span-40 text-08]
+@snap[north-east span-65 text-08]
 @box[](Step 1. Schema # Define types using SDL)
 @snapend
 
-@snap[east span-40 text-08]
+@snap[east span-65 text-08]
 @box[](Step 2. Query # Fetch data with Queries)
 @snapend
 
-@snap[south-east span-40 text-08]
+@snap[south-east span-65 text-08]
 @box[](Step 3. Mutate # Modify data with Mutations)
 @snapend
 
