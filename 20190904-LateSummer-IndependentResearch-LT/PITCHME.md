@@ -24,16 +24,16 @@ Hisashi SOGA
 @snapend
 
 
-@snap[north-east span-65 text-12 text-left]
-@box[bg-white](Step 1. Schema #)
+@snap[east span-60 text-12]
+@box[](ちょっと前まで # Fetch data with Queries)
 @snapend
 
-@snap[east span-65 text-12]
-@box[](Step 2. Query # Fetch data with Queries)
+@snap[east span-60 text-12]
+@box[](フリーランス半年 # Fetch data with Queries)
 @snapend
 
-@snap[south-east span-65 text-12]
-@box[](Step 3. Mutate # Modify data with Mutations)
+@snap[south-east span-60 text-12]
+@box[](平日夜や土日に副業を少々 # Modify data with Mutations)
 @snapend
 
 +++
