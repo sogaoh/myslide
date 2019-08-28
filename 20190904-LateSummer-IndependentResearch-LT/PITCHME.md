@@ -4,17 +4,15 @@
 
 @snap[south]
 2019/09/04  
-@color[#00aced](@fa[twitter-square]) [@sogaoh](http://twitter.com/sogaoh)
 @snap[text-06 text-gray]
 @css[nobr](LT @ https://engineers.connpass.com/event/141228/)
 @snapend
 @snapend
 
 
----?color=black
+---
 
 @snap[north-west span-35 text-center]
-
 ### About Me 
 <br>  
 Hisashi SOGA  
@@ -25,7 +23,7 @@ Hisashi SOGA
 
 
 @snap[north-east span-60 text-08]
-@box[bg-green](ちょっと前まで # アラートにいち早く気がつくIT運用屋)
+@box[bg-green](ちょっと前まで # アラートにいち早く気がつくITサービスマネージャ的なJenkins/Rundeck/Fabricおじさん)
 @snapend
 
 @snap[east span-60 text-08]
@@ -38,10 +36,21 @@ Hisashi SOGA
 
 +++
 
-知識と技術で世の中を良くしたい
+@snap[north-west]
+### 日々、思うこと 
+@snapend
 
-効率よく・でもやりがいを持ってみんなが働けるように
-良くないと思う慣習を変えたい
+@snap[north] text-08]
+@box[bg-yellow](制度や手続き # 変わってほしい気がすることが多い)
+@snapend
+
+@snap[midpoint span-60 text-08]
+@box[bg-orange](環境への不満をよく聞く # これまでの慣習がなかなか覆らない)
+@snapend
+
+@snap[south span-60 text-08]
+@box[bg-pink](知識と技術で # もっと世の中を良くしたい)
+@snapend
 
 ---
 
