@@ -31,7 +31,7 @@ Hisashi SOGA
 @snapend
 
 @snap[south-east span-60 text-08]
-@box[bg-purple](平日夜や土日には # 副業でEC2・RDS(AWS)の<br>監視設定を週10時間程度)
+@box[bg-purple](平日夜や土日には # 副業で、週10時間程度<br>EC2・RDS(AWS)の監視設定を<br>New Relicで)
 @snapend
 
 +++
