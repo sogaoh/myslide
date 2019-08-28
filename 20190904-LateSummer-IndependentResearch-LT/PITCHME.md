@@ -14,27 +14,26 @@
 
 <!--（１枚絵で自己紹介）-->
 
----?color=black
+---?color=linear-gradient(90deg, white 50%, black 50%)
 
-@snap[north-west]
+@snap[west span-40 text-center]
+
 ### About Me 
-<!-- ![sogaoh-bio](/20190904-LateSummer-IndependentResearch-LT/img/sogaoh-bio.png) -->
+@fa[quote-left quote-graphql](Hisashi SOGA)
+!![sogaoh-bio](/20190904-LateSummer-IndependentResearch-LT/img/sogaoh-bio.png)
+
 @snapend
 
-@snap[north-west span-45]
-@box[bg-green text-white box-padding](1. Plan#Lorem ipsum dolor sit amet eiusmod)
+@snap[north-east span-40 text-08]
+@box[](Step 1. Schema # Define types using SDL)
 @snapend
 
-@snap[north-east span-45]
-@box[bg-orange text-white rounded box-padding](2. Build#Sed do eiusmod tempor labore)
+@snap[east span-40 text-08]
+@box[](Step 2. Query # Fetch data with Queries)
 @snapend
 
-@snap[south-east span-45]
-@box[bg-pink text-white box-padding](3. Measure#Cupidatat non proident sunt in)
-@snapend
-
-@snap[south-west span-45]
-@box[bg-blue text-white waved box-padding](4. Repeat#Ut enim ad minim veniam prodient)
+@snap[south-east span-40 text-08]
+@box[](Step 3. Mutate # Modify data with Mutations)
 @snapend
 
 +++
