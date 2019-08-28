@@ -16,8 +16,8 @@
 @snap[north-west span-35 text-center]
 
 ### About Me 
-@fa[quote-left quote-graphql](Hisashi SOGA)
-![sogaoh-bio](img/sogaoh-bio.png)
+<!-- @fa[quote-left quote-graphql](Hisashi SOGA)-->  
+![sogaoh-bio](/img/sogaoh-bio.png)
 
 @snapend
 
