@@ -27,11 +27,11 @@ Hisashi SOGA
 @snapend
 
 @snap[east span-60 text-08]
-@box[bg-blue](フリーランス半年 # 某社既存サービスの<br>新規海外版バックエンド<br>開発エンジニア)
+@box[bg-blue](フリーランス半年 # 某社既存サービスの海外版<br>新規バックエンド機能開発を<br>GraphQL on Laravelで)
 @snapend
 
 @snap[south-east span-60 text-08]
-@box[bg-purple](平日夜や土日には # 副業で、週10時間程度<br>EC2・RDS(AWS)の監視設定を<br>New Relicで)
+@box[bg-purple](平日夜や土日には # 副業で、週10時間程度<br>EC2・RDS(AWS)の監視設定を<br>New Relic・CloudWatchで)
 @snapend
 
 +++
