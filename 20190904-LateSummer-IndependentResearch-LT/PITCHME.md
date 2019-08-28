@@ -23,11 +23,11 @@ Hisashi SOGA
 
 
 @snap[north-east span-60 text-08]
-@box[bg-green](ちょっと前まで # アラートにいち早く気がつくITサービスマネージャ的なJenkins/Rundeck/Fabricおじさん)
+@box[bg-green](ちょっと前まで # アラートにいち早く気がつく<br>ITサービスマネージャ的な<br>いろいろやってるおじさん)
 @snapend
 
 @snap[east span-60 text-08]
-@box[bg-blue](フリーランス半年 # 某社既存サービスの新規海外版バックエンド開発エンジニア)
+@box[bg-blue](フリーランス半年 # 某社既存サービスの新規海外版<br>バックエンド開発エンジニア)
 @snapend
 
 @snap[south-east span-60 text-08]
