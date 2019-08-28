@@ -40,7 +40,7 @@ Hisashi SOGA
 ### 日々、<br>思うこと 
 @snapend
 
-@snap[north-east] span-60 text-08]
+@snap[north-east span-60 text-08]
 @box[bg-yellow](制度や手続き # 変わってほしい気がすることが多い)
 @snapend
 
