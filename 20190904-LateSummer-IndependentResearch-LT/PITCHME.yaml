@@ -13,5 +13,5 @@ highlight        : ir-black
 
 theme-override : /20190904-LateSummer-IndependentResearch-LT/PITCHME.css
 
-footnote : "'First step to Reiwa Shikimoku (?)' / LT @ 残暑に負けるな！自由研究LT大会 ( https://engineers.connpass.com/event/141228/ ) / HashTag: #engineers_lt "
+footnote : "'First step to Reiwa Shikimoku' / LT @ 残暑に負けるな！自由研究LT大会 ( https://engineers.connpass.com/event/141228/ ) / HashTag: #engineers_lt "
 slide-number : true
