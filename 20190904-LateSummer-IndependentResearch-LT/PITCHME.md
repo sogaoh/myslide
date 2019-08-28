@@ -28,10 +28,11 @@ Hisashi SOGA
 
 @snap[east span-60 text-08]
 @box[bg-blue](フリーランス半年 # 某社既存サービスの新規海外版<br>バックエンド開発エンジニア)
-@snapend
 
-@snap[south-east span-60 text-08]
-@box[bg-purple](平日夜や土日には # 副業でEC2・RDS(AWS)の監視設定を少々)
+<!-- @snapend
+
+@snap[south-east span-60 text-08] -->
+@box[bg-purple](平日夜や土日には # 副業でEC2・RDS(AWS)の<br>監視設定を少々)
 @snapend
 
 +++
