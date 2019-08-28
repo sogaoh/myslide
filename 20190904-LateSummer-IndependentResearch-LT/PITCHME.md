@@ -16,27 +16,23 @@
 @snap[north-west span-35 text-center]
 
 ### About Me 
-  
+<br>  
 Hisashi SOGA  
 @color[#00aced](@fa[twitter-square]) [@sogaoh](http://twitter.com/sogaoh)  
-  
-![sogaoh-bio](/20190904-LateSummer-IndependentResearch-LT/img/sogaoh-bio.png)
+  ![sogaoh-bio](/20190904-LateSummer-IndependentResearch-LT/img/sogaoh-bio.png)
+
 @snapend
 
-@snap[south-west span-35]
-0123456789  
-0123456789  
+
+@snap[north-east span-65 text-12]
+@box[bg-white text-left](Step 1. Schema #)
 @snapend
 
-@snap[north-east span-65 text-12 text-left]
-@box[](Step 1. Schema # Define types using SDL)
-@snapend
-
-@snap[east span-65 text-12 text-left]
+@snap[east span-65 text-12]
 @box[](Step 2. Query # Fetch data with Queries)
 @snapend
 
-@snap[south-east span-65 text-12 text-left]
+@snap[south-east span-65 text-12]
 @box[](Step 3. Mutate # Modify data with Mutations)
 @snapend
 
