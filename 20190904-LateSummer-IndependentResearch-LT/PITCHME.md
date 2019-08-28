@@ -27,7 +27,7 @@ Hisashi SOGA
 @snapend
 
 @snap[east span-60 text-08]
-@box[bg-blue](フリーランス半年 # 某社既存サービスの海外版<br>新規バックエンド機能開発を<br>GraphQL on Laravelで)
+@box[bg-blue](フリーランス半年 # 某社既存サービスの海外版<br>新規バックエンド機能開発を<br>GraphQL・Laravelで)
 @snapend
 
 @snap[south-east span-60 text-08]
@@ -37,19 +37,19 @@ Hisashi SOGA
 +++
 
 @snap[north-west span-35 text-center]
-### 日々、<br>思うこと 
+### <br>日々、<br>思うこと 
 @snapend
 
 @snap[north-east span-60 text-08]
-@box[bg-yellow](制度や手続き # 変わってほしい気がすることが多い)
+@box[bg-yellow](制度や手続き # <br>変わってほしい気がすることが多い<br>)
 @snapend
 
 @snap[east span-60 text-08]
-@box[bg-orange](環境への不満をよく聞く # これまでの慣習がなかなか覆らない)
+@box[bg-orange](はたらく環境への不満 # <br>これまでの慣習がなかなか覆らない<br>)
 @snapend
 
 @snap[south-east span-60 text-10]
-@box[bg-pink](知識と技術で # もっと世の中を良くしたい)
+@box[bg-pink](知識と技術と協力で # <br>もっと世の中を良くしたい<br>)
 @snapend
 
 ---
