@@ -11,7 +11,7 @@
 @snapend
 
 
----?color=linear-gradient(90deg, black 35%, black 65%)
+---?color=black
 
 @snap[north-west span-35 text-center]
 
@@ -24,16 +24,16 @@ Hisashi SOGA
 @snapend
 
 
-@snap[east span-60 text-12]
-@box[](ちょっと前まで # Fetch data with Queries)
+@snap[north-east span-60 text-12]
+@box[bg-green](ちょっと前まで # アラートにいち早く気がつくIT運用屋)
 @snapend
 
 @snap[east span-60 text-12]
-@box[](フリーランス半年 # Fetch data with Queries)
+@box[bg-blue](フリーランス半年 # 某社既存サービスの新規海外版バックエンド開発エンジニア)
 @snapend
 
 @snap[south-east span-60 text-12]
-@box[](平日夜や土日に副業を少々 # Modify data with Mutations)
+@box[bg-purple](平日夜や土日には # 副業でEC2・RDS(AWS)の監視設定を少々)
 @snapend
 
 +++
