@@ -13,23 +13,27 @@
 
 ---?color=linear-gradient(90deg, black 35%, black 65%)
 
-@snap[north-west span-35 text-center]
+@snap[north-west span-35]
 
 ### About Me 
 <!-- @fa[quote-left quote-graphql](Hisashi SOGA)-->  
-![sogaoh-bio](/img/sogaoh-bio.png)
-
+<br>  
+![sogaoh-bio](/20190904-LateSummer-IndependentResearch-LT/img/sogaoh-bio.png)
 @snapend
 
-@snap[north-east span-65 text-08]
+@snap[south-west span-35]
+Hisashi SOGA
+@snapend
+
+@snap[north-east span-65 text-12]
 @box[](Step 1. Schema # Define types using SDL)
 @snapend
 
-@snap[east span-65 text-08]
+@snap[east span-65 text-12]
 @box[](Step 2. Query # Fetch data with Queries)
 @snapend
 
-@snap[south-east span-65 text-08]
+@snap[south-east span-65 text-12]
 @box[](Step 3. Mutate # Modify data with Mutations)
 @snapend
 
