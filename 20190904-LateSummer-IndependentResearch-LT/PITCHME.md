@@ -36,19 +36,19 @@ Hisashi SOGA
 
 +++
 
-@snap[north-west]
-### 日々、思うこと 
+@snap[north-west span-35 text-center]
+### 日々、<br>思うこと 
 @snapend
 
-@snap[north] text-08]
+@snap[north-east] span-60 text-08]
 @box[bg-yellow](制度や手続き # 変わってほしい気がすることが多い)
 @snapend
 
-@snap[midpoint span-60 text-08]
+@snap[east span-60 text-08]
 @box[bg-orange](環境への不満をよく聞く # これまでの慣習がなかなか覆らない)
 @snapend
 
-@snap[south span-60 text-08]
+@snap[south-east span-60 text-10]
 @box[bg-pink](知識と技術で # もっと世の中を良くしたい)
 @snapend
 
