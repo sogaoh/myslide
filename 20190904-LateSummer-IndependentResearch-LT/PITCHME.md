@@ -10,17 +10,14 @@
 @snapend
 @snapend
 
----
 
-<!--（１枚絵で自己紹介）-->
-
----?color=linear-gradient(90deg, white 50%, black 50%)
+---?color=linear-gradient(90deg, black 50%, black 50%)
 
 @snap[west span-40 text-center]
 
 ### About Me 
 @fa[quote-left quote-graphql](Hisashi SOGA)
-!![sogaoh-bio](/20190904-LateSummer-IndependentResearch-LT/img/sogaoh-bio.png)
+![sogaoh-bio](img/sogaoh-bio.png)
 
 @snapend
 
