@@ -18,14 +18,14 @@
 ### About Me 
 <br>  
 Hisashi SOGA  
+![sogaoh-bio](/20190904-LateSummer-IndependentResearch-LT/img/sogaoh-bio.png)  
 @color[#00aced](@fa[twitter-square]) [@sogaoh](http://twitter.com/sogaoh)  
-  ![sogaoh-bio](/20190904-LateSummer-IndependentResearch-LT/img/sogaoh-bio.png)
 
 @snapend
 
 
-@snap[north-east span-65 text-12]
-@box[bg-white text-left](Step 1. Schema #)
+@snap[north-east span-65 text-12 text-left]
+@box[bg-white](Step 1. Schema #)
 @snapend
 
 @snap[east span-65 text-12]
