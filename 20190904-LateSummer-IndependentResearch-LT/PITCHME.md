@@ -42,9 +42,9 @@ Hisashi SOGA
 @ol
 
 @snap[west text-12]
-- Plain text list item @note[Cool! Fragment specific speaker notes :)]
-- Rich **markdown** list *item*
-- Link [within](https://gitpitch.com) list item @note[Fragment specific speaker notes are optional.]
+- 御成敗式目：日本で最初の武家法典。1232年 承久の乱 後に制定。  
+- 今のこの国の慣習とか会社のルールとか、どう思いますか？なんとかしたい・・・  
+- これからのITの時代に、国際的にも認められているITサービスマネージャー系の資格にヒント？？  
 @snapend
 
 @olend
