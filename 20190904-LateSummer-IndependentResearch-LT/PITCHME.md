@@ -10,7 +10,7 @@
 @snapend
 
 
----
++++
 
 @snap[north-west span-35 text-center]
 ### About Me 
@@ -34,23 +34,21 @@ Hisashi SOGA
 @box[bg-purple](平日夜や土日には # 副業で、週10時間程度<br>EC2・RDS(AWS)の監視設定を<br>New Relic・CloudWatchで)
 @snapend
 
-+++
+---
 
-@snap[north-west span-35 text-center]
-### <br>日々、<br>思うこと 
+@snap[north-west]
+#### Shikimoku (PROLOG)
 @snapend
 
-@snap[north-east span-60 text-10]
-@box[bg-gold](制度や手続き # <br>変わってほしい気がすることが多い<br> )
-@snapend
+@ol
 
-@snap[east span-60 text-10]
-@box[bg-orange](はたらく環境への不満 # <br>これまでの慣習がなかなか覆らない<br> )
-@snapend
+- Plain text list item @note[Cool! Fragment specific speaker notes :)]
+- Rich **markdown** list *item*
+- Link [within](https://gitpitch.com) list item @note[Fragment specific speaker notes are optional.]
 
-@snap[south-east span-60 text-10]
-@box[bg-pink](知識と技術と協力で # <br>もっと世の中を良くしたい<br> )
-@snapend
+@olend
+
+
 
 ---
 
