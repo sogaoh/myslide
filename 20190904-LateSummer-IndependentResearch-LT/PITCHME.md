@@ -34,18 +34,16 @@ Hisashi SOGA
 @box[bg-purple](平日夜や土日には # 副業で、週10時間程度<br>EC2・RDS(AWS)の監視設定を<br>New Relic・CloudWatchで)
 @snapend
 
----?image=/20190904-LateSummer-IndependentResearch-LT/img/goseibaisikimoku.gif&position=90% 50%&size=300px 450px
+---?image=/20190904-LateSummer-IndependentResearch-LT/img/goseibaisikimoku.gif&position=95% 50%&size=300px 450px
 @snap[north-west]
 #### Shikimoku (PROLOG)
 @snapend
 
 @ol
 
-@snap[west text-10]
-- 御成敗式目：日本で最初の武家法典。<br>1232年 承久の乱 後に制定。  
-
-- 今のこの国の慣習とか会社のルールとか、<br>どう思いますか？なんとかしたい・・・  
-
+@snap[west text-09]
+- 御成敗式目：日本で最初の武家法典。<br>1232年 承久の乱 後に制定。<br>  
+- 今のこの国の慣習とか会社のルールとか、<br>どう思いますか？なんとかしたい・・・<br>  
 - 国際的にも認められているITサービス<br>マネージャー系の資格にヒント？？  
 @snapend
 
