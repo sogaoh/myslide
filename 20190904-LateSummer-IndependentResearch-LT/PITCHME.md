@@ -34,8 +34,7 @@ Hisashi SOGA
 @box[bg-purple](平日夜や土日には # 副業で、週10時間程度<br>EC2・RDS(AWS)の監視設定を<br>New Relic・CloudWatchで)
 @snapend
 
----?image=/20190904-LateSummer-IndependentResearch-LT/img/sogaoh-bio.png
-
+---?image=/20190904-LateSummer-IndependentResearch-LT/img/goseibaisikimoku.gif&position=right
 @snap[north-west]
 #### Shikimoku (PROLOG)
 @snapend
