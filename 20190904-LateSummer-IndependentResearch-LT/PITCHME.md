@@ -30,7 +30,7 @@ Hisashi SOGA
 @box[bg-blue](フリーランス半年 # 某社既存サービスの海外版<br>新規バックエンド機能開発<br> @fab[laravel])
 @snapend
 
-@img[span-5](/20190904-LateSummer-IndependentResearch-LT/svg/graphql.svg)
+@img[span-5](/20190904-LateSummer-IndependentResearch-LT/img/graphql.gif)
 
 @snap[south-east span-60 text-08]
 @box[bg-purple](平日夜や土日には # 副業で、週10時間程度<br>EC2・RDS(@fab[aws])の監視設定を<br>New Relic・CloudWatchで)
@@ -45,7 +45,7 @@ Hisashi SOGA
 
 @snap[west text-10]
 - 御成敗式目：日本で最初の武家法典。<br>1232年 承久の乱 後に制定。<br><br>  
-- 今のこの国の古くからの慣習とか<br>会社の規則とか、どう思いますか？<br>明らかに変なのに・・・<br>この声をふさわしいところに<br>届けられないのをなんとかしたい・・・<br><br>  
+- 今のこの国の古くからの慣習とか<br>会社の規則とか、どう思いますか？<br>明らかに変なのに・・・<br>この声をふさわしいところに<br>届けられないのをなんとかしたい・・・  
 @snapend
 
 @olend
