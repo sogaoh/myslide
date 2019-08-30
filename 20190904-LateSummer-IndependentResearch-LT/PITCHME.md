@@ -19,8 +19,6 @@ Hisashi SOGA
 ![sogaoh-bio](/20190904-LateSummer-IndependentResearch-LT/img/sogaoh-bio.png)  
 @color[#00aced](@fa[twitter-square]) [@sogaoh](http://twitter.com/sogaoh)  
 
-@img[](/20190904-LateSummer-IndependentResearch-LT/img/graphql.gif)
-
 @snapend
 
 
@@ -62,6 +60,7 @@ ITサービスマネージャ
 
 こういうのもあるんです
 <!-- スライドは公開するのでご安心を -->
+![](/20190904-LateSummer-IndependentResearch-LT/img/graphql.gif)
 
 ---
 
