@@ -19,6 +19,8 @@ Hisashi SOGA
 ![sogaoh-bio](/20190904-LateSummer-IndependentResearch-LT/img/sogaoh-bio.png)  
 @color[#00aced](@fa[twitter-square]) [@sogaoh](http://twitter.com/sogaoh)  
 
+@img[](/20190904-LateSummer-IndependentResearch-LT/img/graphql.gif)
+
 @snapend
 
 
@@ -29,8 +31,6 @@ Hisashi SOGA
 @snap[east span-60 text-08]
 @box[bg-blue](フリーランス半年 # 某社既存サービスの海外版<br>新規バックエンド機能開発<br> @fab[laravel])
 @snapend
-
-@img[span-5](/20190904-LateSummer-IndependentResearch-LT/img/graphql.gif)
 
 @snap[south-east span-60 text-08]
 @box[bg-purple](平日夜や土日には # 副業で、週10時間程度<br>EC2・RDS(@fab[aws])の監視設定を<br>New Relic・CloudWatchで)
