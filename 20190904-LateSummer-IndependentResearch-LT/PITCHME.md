@@ -27,11 +27,11 @@ Hisashi SOGA
 @snapend
 
 @snap[east span-60 text-08]
-@box[bg-blue](フリーランス半年 # 某社既存サービスの海外版<br>新規バックエンド機能開発を<br>GraphQL・Laravelで)
+@box[bg-blue](フリーランス半年 # 某社既存サービスの海外版<br>新規バックエンド機能開発<br>GraphQL・@fab[laravel])
 @snapend
 
 @snap[south-east span-60 text-08]
-@box[bg-purple](平日夜や土日には # 副業で、週10時間程度<br>EC2・RDS(AWS)の監視設定を<br>New Relic・CloudWatchで)
+@box[bg-purple](平日夜や土日には # 副業で、週10時間程度<br>EC2・RDS(@fab[aws])の監視設定を<br>New Relic・CloudWatchで)
 @snapend
 
 ---?image=/20190904-LateSummer-IndependentResearch-LT/img/goseibaisikimoku.gif&position=95% 50%&size=300px 450px
@@ -43,21 +43,16 @@ Hisashi SOGA
 
 @snap[west text-09]
 - 御成敗式目：日本で最初の武家法典。<br>1232年 承久の乱 後に制定。<br><br>  
-<!-- - @color[black](x) -->
-- 今のこの国の慣習とか会社のルールとか、<br>どう思いますか？なんとかしたい・・・<br><br>  
-<!-- - @color[black](x) -->
-- 国際的にも認められているITサービス<br>マネージャー系の資格にヒント？？  
+- 今のこの国の古くからの慣習とか会社の規則とか、<br>どう思いますか？明らかに変なのにこの声を<br>ふさわしいところに届けられないのをなんとかしたい・・・<br><br>  
 @snapend
 
 @olend
 
-
-
----
++++
 
 ITサービスマネージャ
+- 国際的にも認められているITサービス<br>マネージャー系の資格にヒント？？  
 
-+++
 
 （人が少ないことを示す表）
 
