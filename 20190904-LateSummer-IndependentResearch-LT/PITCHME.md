@@ -27,7 +27,7 @@ Hisashi SOGA
 @snapend
 
 @snap[east span-60 text-08]
-@box[bg-blue](フリーランス半年 # 某社既存サービスの海外版<br>新規バックエンド機能開発<br>GraphQL・@fab[laravel])
+@box[bg-blue](フリーランス半年 # 某社既存サービスの海外版<br>新規バックエンド機能開発<br>@img[span-5](/20190904-LateSummer-IndependentResearch-LT/svg/graphql.svg) @fab[laravel])
 @snapend
 
 @snap[south-east span-60 text-08]
