@@ -99,7 +99,7 @@ Hisashi SOGA
 ---
 
 @snap[north-west]
-### ITIL4
+### ITIL 4
 @color[red](I)nformation @color[red](T)echnology @color[red](I)nfrastructure @color[red](L)ibrary @color[red](4)  
 @snapend
 
@@ -115,7 +115,10 @@ Hisashi SOGA
 
 ---
 
-SIAM
+@snap[north-west]
+### SIAM
+@color[red](S)ervice @color[red](I)ntegration @color[red](A)nd @color[red](M)anagement  
+@snapend
 
 +++
 
@@ -127,7 +130,11 @@ SIAM
 
 ---
 
-PRINCE2
+@snap[north-west]
+### PRINCE 2
+@color[red](PR)rojects @color[red](IN C)ontrolled @color[red](E)nvironments, @color[red](2)nd version
+@snapend
+
 
 +++
 
