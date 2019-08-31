@@ -36,7 +36,7 @@ Hisashi SOGA
 
 ---?image=/20190904-LateSummer-IndependentResearch-LT/img/goseibaisikimoku.gif&position=95% 50%&size=300px 450px
 @snap[north-west]
-#### Shikimoku (PROLOG)
+### Shikimoku (PROLOG)
 @snapend
 
 @ol
@@ -49,12 +49,25 @@ Hisashi SOGA
 @olend
 
 +++
-
+<!--
 ITサービスマネージャ
 - 国際的にも認められているITサービス<br>マネージャー系の資格にヒント？？  
-
-
 （人が少ないことを示す表）
+-->
+@snap[north-west]
+#### 一方で...
+
+@ul
+
+- 2019.04  [経産省職員がメルカリ・メルペイへ派遣](https://merpoli.mercari.com/entry/2019/04/16/070000)
+- 2019.05  [中小企業庁 制度ナビプロジェクト「ミラサポ」紹介(など)](https://sogaoh.hatenablog.com/entry/2019/05/15/073645)
+- 2019.07  [政府共通プラットフォームにAWS採用](https://phantomcryptomining.com/deepweb/2019-07-14-003/)
+- 2019.08  [情報セキュリティ白書2019](https://www.ipa.go.jp/security/publications/hakusyo/2019.html)
+- 2019.08  [厚労省の緊急提言](https://www.pt-ot-st.net/index.php/topics/detail/987)
+
+@ulend
+
+@snapend
 
 +++
 
