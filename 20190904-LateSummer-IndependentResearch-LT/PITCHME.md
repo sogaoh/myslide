@@ -23,7 +23,7 @@ Hisashi SOGA
 
 
 @snap[north-east span-60 text-08]
-@box[bg-green](ちょっと前まで # アラートにいち早く気がつく<br>ITサービスマネージャ的な<br>いろいろやってるおじさん)
+@box[bg-green](ちょっと前まで # sshのconfig設定をばらまき<br>アラートにいち早く気がつく<br>いにしえのFabric使い)
 @snapend
 
 @snap[east span-60 text-08]
@@ -31,7 +31,7 @@ Hisashi SOGA
 @snapend
 
 @snap[south-east span-60 text-08]
-@box[bg-purple](平日夜や土日には # 副業で、週10時間程度<br>EC2・RDS の監視設定を<br>New Relic で)
+@box[bg-purple](平日夜や土日には # 副業で、週10時間程度<br>とあるIaaSの監視設定を<br>某モニタリングSaaSで)
 @snapend
 
 
@@ -152,8 +152,9 @@ Hisashi SOGA
 
 @snap[north-west]
 ### Conclusion (EPILOGUE)
-
+@ol
 ![PRINCE2](/20190904-LateSummer-IndependentResearch-LT/img/kore.jpg)  
+@olend
 @snapend
 
 @ol 
@@ -179,7 +180,7 @@ Hisashi SOGA
 @snap[west text-10]
 - 世の中をなんとかしたい
 - ベストプラクティスを学ぶところからはじめよう
-- 積み重ねた力が
+- 積み重ね宿ったちからが
 - もしかしたら@color[red](Shikimoku)を生み出すかもしれない
 @snapend
 
@@ -187,6 +188,7 @@ Hisashi SOGA
 
 @snap[south-west text-08 fragment]
 やってみないと、どうなるのかもわからないと思うのです
+<br><br>
 @snapend
 
 
