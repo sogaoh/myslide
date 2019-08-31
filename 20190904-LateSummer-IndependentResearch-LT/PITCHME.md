@@ -187,8 +187,8 @@ Hisashi SOGA
     <td>Professional</td>
   </tr>
   <tr class="fragment">
-    <td>¥25,597</td>
-    <td>¥25,597</td>
+    <td>@color[blue](¥25,597)</td>
+    <td>@color[blue](¥25,597)</td>
   </tr>
   <tr class="fragment">
     <td>Provider</td>
@@ -243,8 +243,8 @@ Hisashi SOGA
     <td>(Book:ja)</td>
   </tr>
   <tr class="fragment">
-    <td>¥99,900 <!-- (試験代 ¥28,080、税込) --></td>
-    <td>¥121,716 <!-- (試験代 ¥28,080、税込) --></td>
+    <td>@color[yellow](¥99,900 <!-- (試験代 ¥28,080、税込) -->)</td>
+    <td>@color[yellow](¥121,716 <!-- (試験代 ¥28,080、税込) -->)</td>
     <td>¥11,880('15)<!-- (税込) --></td>
   </tr>
   <tr class="fragment">
@@ -307,7 +307,7 @@ Hisashi SOGA
 ### Appendix
 @snapend
 
-@snap[text-09]
+@snap[text-08]
 - https://www.ant-in-giant.work/posts/2019/08/11/1/
 - https://itstrategy.jp/itil/itil4/
 - https://www.axelos.com/itil-update
