@@ -165,10 +165,15 @@ Hisashi SOGA
     <td>Note</td>
     <td colspan="2">v3が公開されて10年以上経過した<br>現在の次の到達目標</td>
   </tr>
-  <tr class="fragment">
+  <tr>
     <td>Price</td>
     <td>Certificate</td>
     <td>Book</td>
+  </tr>
+  <tr class="fragment">
+    <td></td>
+    <td>¥32,000(税別)</td>
+    <td>¥6,500(税別)</td>
   </tr>
 </table>
 
