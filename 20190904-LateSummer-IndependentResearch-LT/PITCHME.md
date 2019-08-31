@@ -83,16 +83,16 @@ Hisashi SOGA
 @ol 
 
 @snap[west text-10]
-- されど公務員になるのはむずかしく
-- 経営者になるというのもまだまだ
-- ではでは支えたいことを探そうか
+- されど公務員になるのはむずかしく<br><br>
+- 経営者になるというのもまだまだ<br><br>
+- ではでは支えたいことを探そうか<br><br>
 - そういったあり方には何が必要かな
 @snapend
 
 @olend
 
 @snap[south-west text-12 fragment]
-そこで ITサービスマネージャ なのかな
+そこで ITサービスマネージャー
 ![](/20190904-LateSummer-IndependentResearch-LT/img/graphql.gif)
 @snapend
 
