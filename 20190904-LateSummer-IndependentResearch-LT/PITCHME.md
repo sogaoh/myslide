@@ -102,9 +102,7 @@ Hisashi SOGA
 ### ITIL 4
 @color[red](I)nformation @color[red](T)echnology @color[red](I)nfrastructure @color[red](L)ibrary @color[red](4)  
 
-@ol
 ![ITIL4](/20190904-LateSummer-IndependentResearch-LT/img/ITIL4.png)  
-@olend
 
 @snapend
 
@@ -121,6 +119,9 @@ Hisashi SOGA
 @snap[north-west]
 ### SIAM
 @color[red](S)ervice @color[red](I)ntegration @color[red](A)nd @color[red](M)anagement  
+
+![ITIL4](/20190904-LateSummer-IndependentResearch-LT/img/SIAM.png)  
+
 @snapend
 
 
