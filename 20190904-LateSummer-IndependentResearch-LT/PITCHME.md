@@ -34,6 +34,7 @@ Hisashi SOGA
 @box[bg-purple](平日夜や土日には # 副業で、週10時間程度<br>EC2・RDS(@fab[aws])の監視設定を<br>New Relic・CloudWatchで)
 @snapend
 
+
 ---?image=/20190904-LateSummer-IndependentResearch-LT/img/goseibaisikimoku.gif&position=95% 50%&size=300px 450px
 @snap[north-west]
 ### Shikimoku (PROLOG)
@@ -42,45 +43,52 @@ Hisashi SOGA
 @ol
 
 @snap[west text-10]
-- 御成敗式目：日本で最初の武家法典。<br>1232年 承久の乱 後に制定。<br><br>  
+- @color[orange](御成敗式目)：日本で最初の武家法典。<br>1232年 承久の乱 後に制定。<br><br>  
 - 今のこの国の古くからの慣習とか<br>会社の規則とか、どう思いますか？<br>明らかに変なのに・・・<br>この声をふさわしいところに<br>届けられないのをなんとかしたい・・・  
 @snapend
 
 @olend
 
+
 +++
-<!--
-ITサービスマネージャ
-- 国際的にも認められているITサービス<br>マネージャー系の資格にヒント？？  
-（人が少ないことを示す表）
--->
+
 @snap[north-west]
 ### 一方で...
 
 @ul
 
 @snap[west text-10]
-- 2019.04  [経産省職員がメルカリ・メルペイへ派遣](https://merpoli.mercari.com/entry/2019/04/16/070000)
-- 2019.05  [中小企業庁 制度ナビプロジェクト<br>「ミラサポ」紹介(など)](https://sogaoh.hatenablog.com/entry/2019/05/15/073645)
-- 2019.07  [政府共通プラットフォームにAWS採用](https://phantomcryptomining.com/deepweb/2019-07-14-003/)
-- 2019.08  [情報セキュリティ白書2019](https://www.ipa.go.jp/security/publications/hakusyo/2019.html)
-- 2019.08  [厚労省の緊急提言](https://www.pt-ot-st.net/index.php/topics/detail/987)
+- 2019.02　[衛星データプラットフォーム「Tellus」の運用が開始](http://current.ndl.go.jp/node/37636)
+- 2019.04　[経産省職員がメルカリ・メルペイへ派遣](https://merpoli.mercari.com/entry/2019/04/16/070000)
+- 2019.05　[中小企業庁 制度ナビプロジェクト<br>「ミラサポ」紹介(など)](https://sogaoh.hatenablog.com/entry/2019/05/15/073645)
+- 2019.07　[政府共通プラットフォームに (@fab[aws]) 採用](https://phantomcryptomining.com/deepweb/2019-07-14-003/)
+- 2019.08　[情報セキュリティ白書2019](https://www.ipa.go.jp/security/publications/hakusyo/2019.html)
+- 2019.08　[厚労省の緊急提言](https://www.pt-ot-st.net/index.php/topics/detail/987)
 @snapend
 
 @ulend
 
 
 @snap[south-west text-12 fragment]
-変わってきているようにも思う
+ムーブメントが来ているようにも思う  
 @snapend
 
-@snapend
 
 +++
+
+@snap[north-west]
+### ついていきたい
+@snapend
 
 こういうのもあるんです
 <!-- スライドは公開するのでご安心を -->
 ![](/20190904-LateSummer-IndependentResearch-LT/img/graphql.gif)
+
+<!--
+ITサービスマネージャ
+- 国際的にも認められているITサービス<br>マネージャー系の資格にヒント？？  
+（人が少ないことを示す表）
+-->
 
 ---
 
