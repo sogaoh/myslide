@@ -148,14 +148,8 @@ Hisashi SOGA
 ### Conclusion (EPILOGUE)
 @snapend
 
-+++
-
-@snap[north-west]
-### Conclusion (EPILOGUE)
-@snapend
-
 @snap[north-west fragment]
-<br><br><br>
+<br><br>
 ![PRINCE2](/20190904-LateSummer-IndependentResearch-LT/img/kore.jpg)  
 @snapend
 
