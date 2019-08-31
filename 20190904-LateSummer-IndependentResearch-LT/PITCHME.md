@@ -126,10 +126,19 @@ Hisashi SOGA
     <td>Note</td>
     <td colspan="2">v3が公開されて10年以上経過した<br>現在の次の到達目標</td>
   </tr>
-  <tr class="fragment">
-    <td>Price</td>
+  <tr>
+    <td rowspan="2">Price</td>
     <td>Certificate</td>
     <td>Book</td>
+  </tr>
+  <tr class="fragment">
+    <td></td>
+    <td>¥32,000(税別)</td>
+    <td>¥6,500(税別)</td>
+  </tr>
+  <tr class="fragment">
+    <td>Providers</td>
+    <td colspan="2">https://www.axelos.com/find-a-training-provider/?country=Japan&products=[14]</td>
   </tr>
 </table>
 
@@ -166,7 +175,7 @@ Hisashi SOGA
     <td colspan="2">v3が公開されて10年以上経過した<br>現在の次の到達目標</td>
   </tr>
   <tr>
-    <td>Price</td>
+    <td rowspan="2">Price</td>
     <td>Certificate</td>
     <td>Book</td>
   </tr>
