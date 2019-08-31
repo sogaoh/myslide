@@ -243,8 +243,8 @@ Hisashi SOGA
     <td>(Book:ja)</td>
   </tr>
   <tr class="fragment">
-    <td>@color[yellow](¥99,900 <!-- (試験代 ¥28,080、税込) -->)</td>
-    <td>@color[yellow](¥121,716 <!-- (試験代 ¥28,080、税込) -->)</td>
+    <td>@color[yellow](¥99,900) <!-- (試験代 ¥28,080、税込) --></td>
+    <td>@color[yellow](¥121,716) <!-- (試験代 ¥28,080、税込) --></td>
     <td>¥11,880('15)<!-- (税込) --></td>
   </tr>
   <tr class="fragment">
