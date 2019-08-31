@@ -110,6 +110,24 @@ Hisashi SOGA
 
 （この図を見たら思い出して）  
 （表：資格/値段・書籍/値段・限られた機関）
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>25</td>
+  </tr>
+  <tr class="fragment">
+    <td>Eve</td>
+    <td>94</td>
+  </tr>
+  <tr class="fragment">
+    <td>John</td>
+    <td>43</td>
+  </tr>
+</table>
 
 ---
 
