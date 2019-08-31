@@ -120,7 +120,7 @@ Hisashi SOGA
 ### SIAM
 @color[red](S)ervice @color[red](I)ntegration @color[red](A)nd @color[red](M)anagement  
 
-![ITIL4](/20190904-LateSummer-IndependentResearch-LT/img/SIAM.png)  
+![SIAM](/20190904-LateSummer-IndependentResearch-LT/img/SIAM.png)  
 
 @snapend
 
@@ -138,8 +138,10 @@ Hisashi SOGA
 @snap[north-west]
 ### PRINCE 2
 @color[red](PR)rojects @color[red](IN C)ontrolled @color[red](E)nvironments, @color[red](2)nd version
-@snapend
 
+![PRINCE2](/20190904-LateSummer-IndependentResearch-LT/img/PRINCE2.png)  
+
+@snapend
 
 +++
 
