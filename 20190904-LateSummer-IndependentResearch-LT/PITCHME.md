@@ -274,8 +274,7 @@ Hisashi SOGA
 
 @snap[east span-50 text-08]
 - ITIL4 と SIAM と PRINCE2 と
-- いつも感じている
-- 何かへと向かって<br><br>
+- いつも感じている<br>何かへと向かって<br><br>
 - @color[yellow](覚えていただけましたか？)
 @snapend
 
@@ -291,10 +290,8 @@ Hisashi SOGA
 @ol 
 
 @snap[west text-10]
-- 世の中をなんとかしたい
-- ベストプラクティスを学ぶところからはじめよう
-- 積み重ね宿ったちからが
-- もしかしたら@color[red](Shikimoku)を生み出すかもしれない
+- 世の中をなんとかしたいと思うなら<br>ベストプラクティスを学ぶところからはじめよう
+- 積み重ね宿ったちからが<br>もしかしたら@color[red](Shikimoku)を生み出すかもしれない
 @snapend
 
 @olend
