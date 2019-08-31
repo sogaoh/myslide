@@ -108,7 +108,7 @@ Hisashi SOGA
 
 +++
 
-（この図を見たら思い出して）
+（この図を見たら思い出して）  
 （表：資格/値段・書籍/値段・限られた機関）
 
 ---
@@ -124,7 +124,7 @@ Hisashi SOGA
 
 +++
 
-（この図を見たら思い出して）
+（この図を見たら思い出して）  
 （表：資格/値段・書籍/値段）
 
 ---
@@ -139,7 +139,7 @@ Hisashi SOGA
 
 +++
 
-（この図を見たら思い出して）
+（この図を見たら思い出して）  
 （表：資格/値段・書籍/値段）
 
 ---
@@ -156,14 +156,19 @@ Hisashi SOGA
 ![PRINCE2](/20190904-LateSummer-IndependentResearch-LT/img/kore.jpg)  
 @snapend
 
-+++
+@snap[north-east fragment]
+ITIL4 と SIAM と PRINCE2 と
+@snapend
 
+@snap[east fragment]
+ITサービスマネージャの認定資格  
+こんなのもあるんです
+@snapend
+
+@snap[south-east fragment]
 覚えていただけました？
+@snapend
 
-ITサービスマネジメントの知識・資格を得る
-→ 現場の改善に活かす 
-→ その実績を身近なところから拡散
-→ 世の中が、動き出す ?
 
 ---
 
@@ -176,8 +181,6 @@ ITサービスマネジメントの知識・資格を得る
 @snap[north-west]
 ### Message：
 @snapend
-
-+++
 
 → スケール大きく言うと、革命
 → 日本で唯一成功したと言われる 1232年 承久の乱
