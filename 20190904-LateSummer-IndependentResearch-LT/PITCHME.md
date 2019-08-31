@@ -95,6 +95,10 @@ Hisashi SOGA
 そこで ITサービスマネージャ ですよ
 @snapend
 
+@snap[east fragment]
+![anzai](/20190904-LateSummer-IndependentResearch-LT/img/anzai.jpg)  
+@snapend
+
 
 ---
 
