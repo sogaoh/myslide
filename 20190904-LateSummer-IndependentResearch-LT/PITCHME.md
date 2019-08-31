@@ -101,10 +101,11 @@ Hisashi SOGA
 @snap[north-west]
 ### ITIL 4
 @color[red](I)nformation @color[red](T)echnology @color[red](I)nfrastructure @color[red](L)ibrary @color[red](4)  
-@snapend
 
-@snap[south]
+@ol
 ![ITIL4](/20190904-LateSummer-IndependentResearch-LT/img/ITIL4.png)  
+@olend
+
 @snapend
 
 +++
