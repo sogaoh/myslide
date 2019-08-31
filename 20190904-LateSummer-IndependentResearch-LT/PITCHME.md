@@ -70,7 +70,9 @@ ITサービスマネージャ
 @ulend
 
 
+@snap[south-west text-12 fragment]
 変わってきているようにも思う
+@snapend
 
 @snapend
 
