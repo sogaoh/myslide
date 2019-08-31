@@ -214,6 +214,7 @@ Hisashi SOGA
 #### (PRINCE2)
 @snapend
 
+@snap[text-08]
 <table>
   <tr>
     <th></th>
@@ -233,7 +234,7 @@ Hisashi SOGA
   </tr>
   <tr>
     <td>History</td>
-    <td colspan="2">2009年と2017年に改訂。価値を重視。</td>
+    <td colspan="2">'09と'17に改訂。@color[red](価値)を重視。</td>
   </tr>
   <tr>
     <td rowspan="2">Price<br>(Certificate)</td>
@@ -249,6 +250,7 @@ Hisashi SOGA
     <td>日本語版書籍(2015)</td>
     <td>¥11,880 <!-- (税込) --></td>
   </tr></table>
+@snapend
 
 
 ---
