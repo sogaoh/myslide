@@ -167,21 +167,24 @@ Hisashi SOGA
   </tr>
   <tr>
     <td>What</td>
-    <td colspan="2">ITサービスマネジメントの<br>ベストプラクティスをまとめた書籍</td>
+    <td colspan="2">最適なサービスを提供できるように<br>複数のサービスプロバイダを管理する方法論</td>
   </tr>
   <tr>
     <td>Note</td>
-    <td colspan="2">v3が公開されて10年以上経過した<br>現在の次の到達目標</td>
+    <td colspan="2">@color[gold](SIAMエコシステム)が特徴<br>（顧客組織・SI・SPの３レイヤ）</td>
   </tr>
   <tr>
-    <td rowspan="2">Price</td>
-    <td>Certificate</td>
-    <td>Book</td>
+    <td rowspan="2">Price<br>(Certificate)</td>
+    <td>Foundation</td>
+    <td>Professional</td>
   </tr>
   <tr class="fragment">
-    <td></td>
-    <td>¥32,000(税別)</td>
-    <td>¥6,500(税別)</td>
+    <td>¥25,597</td>
+    <td>¥25,597</td>
+  </tr>
+  <tr class="fragment">
+    <td>Provider</td>
+    <td colspan="2">[EXIN の @fa[info-circle]](https://www.exin.com/jp-ja/certifications/#qualification-program/exin-bcs-siamtm)</td>
   </tr>
 </table>
 
