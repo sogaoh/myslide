@@ -214,7 +214,7 @@ Hisashi SOGA
 #### (PRINCE2)
 @snapend
 
-@snap[text-08]
+@snap[south text-08]
 <table>
   <tr>
     <th></th>
@@ -249,7 +249,8 @@ Hisashi SOGA
     <td>Others</td>
     <td>日本語版書籍(2015)</td>
     <td>¥11,880 <!-- (税込) --></td>
-  </tr></table>
+  </tr>
+</table>
 @snapend
 
 
@@ -304,18 +305,19 @@ Hisashi SOGA
 
 @snap[north-west]
 ### Appendix
+@snapend
 
+@snap[west text-09]
 - https://www.ant-in-giant.work/posts/2019/08/11/1/
 - https://itstrategy.jp/itil/itil4/
 - https://www.axelos.com/itil-update
 - https://www.scopism.com/free-downloads/
 - https://www.axelos.com/prince2-project-management-jp
+- https://www.knowledgehut.com/blog/project-management/what-is-prince2
 - https://www.google.com/search?q=御成敗式目
-<!-- - https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%9D%A9%E5%91%BD -->
 - https://ja.wikipedia.org/wiki/日本の革命
 - https://www.jitec.ipa.go.jp/1_11seido/sm.html
-
-@snapend
+@snap[west text-08]
 
 
 +++
