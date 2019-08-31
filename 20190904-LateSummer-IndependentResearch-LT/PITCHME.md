@@ -92,8 +92,7 @@ Hisashi SOGA
 @olend
 
 @snap[south-west text-12 fragment]
-そこで ITサービスマネージャー
-![](/20190904-LateSummer-IndependentResearch-LT/img/graphql.gif)
+そこで ITサービスマネージャー ですよ
 @snapend
 
 
@@ -172,6 +171,13 @@ Appendix
 - https://www.scopism.com/free-downloads/
 - https://www.axelos.com/prince2-project-management-jp
 
++++ 
+
+Appendix 2
+
+- https://www.google.com/search?q=御成敗式目
+- https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%9D%A9%E5%91%BD
+- https://www.jitec.ipa.go.jp/1_11seido/sm.html
 
 +++
 
@@ -182,5 +188,7 @@ Disclaimer
 +++
 
 @snap[midpoint]  
-(End)  
+(1009)  
 @snapend
+
+![](/20190904-LateSummer-IndependentResearch-LT/img/graphql.gif)
