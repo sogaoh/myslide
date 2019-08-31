@@ -156,21 +156,15 @@ Hisashi SOGA
 ![PRINCE2](/20190904-LateSummer-IndependentResearch-LT/img/kore.jpg)  
 @snapend
 
-@snap[north-east span-50 fragment]
-<br><br><br>
-ITIL4 と SIAM と PRINCE2 と
+@ol 
+
+@snap[east span-50 text-08]
+- ITIL4 と SIAM と PRINCE2 と
+- いつも感じている 何かへと向かって<br><br>
+- 覚えていただけましたか？
 @snapend
 
-@snap[east span-50 fragment]
-ITサービスマネージャの認定資格  
-こんなのもあるんです
-@snapend
-
-@snap[south-east span-50 fragment]
-覚えていただけました？
-<br><br><br>
-@snapend
-
+@olend
 
 ---
 
