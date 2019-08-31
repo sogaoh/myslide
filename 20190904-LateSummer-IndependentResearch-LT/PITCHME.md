@@ -236,7 +236,7 @@ Hisashi SOGA
     <td colspan="2">2009年と2017年に改訂。価値を重視。</td>
   </tr>
   <tr>
-    <td rowspan="3">Price<br>(Certificate)</td>
+    <td rowspan="2">Price<br>(Certificate)</td>
     <td>Foundation</td>
     <td>Practitioner</td>
   </tr>
@@ -245,9 +245,9 @@ Hisashi SOGA
     <td>¥121,716 <!-- (試験代 ¥28,080、税込) --></td>
   </tr>
   <tr class="fragment">
+    <td>Others</td>
     <td>日本語版書籍(2015)</td>
     <td>¥11,880 <!-- (税込) --></td>
-td>
   </tr></table>
 
 
