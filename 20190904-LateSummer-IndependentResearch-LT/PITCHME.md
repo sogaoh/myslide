@@ -214,7 +214,6 @@ Hisashi SOGA
 #### (PRINCE2)
 @snapend
 
-@snap[south text-08]
 <table>
   <tr>
     <th></th>
@@ -251,7 +250,6 @@ Hisashi SOGA
     <td>¥11,880 <!-- (税込) --></td>
   </tr>
 </table>
-@snapend
 
 
 ---
@@ -307,7 +305,7 @@ Hisashi SOGA
 ### Appendix
 @snapend
 
-@snap[west text-09]
+@snap[text-09]
 - https://www.ant-in-giant.work/posts/2019/08/11/1/
 - https://itstrategy.jp/itil/itil4/
 - https://www.axelos.com/itil-update
