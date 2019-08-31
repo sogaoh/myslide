@@ -253,7 +253,7 @@ Hisashi SOGA
   </tr>
   <tr class="fragment">
     <td>Providers</td>
-    <td colspan="2">[AXELOS で @fa[search]](https://www.axelos.com/find-a-training-provider/?country=Japan&products=%5B10%2C20%5D&services=Accredited%20Training%20Organization)</td>
+    <td colspan="3">[AXELOS で @fa[search]](https://www.axelos.com/find-a-training-provider/?country=Japan&products=%5B10%2C20%5D&services=Accredited%20Training%20Organization)</td>
       </tr>
 </table>
 
