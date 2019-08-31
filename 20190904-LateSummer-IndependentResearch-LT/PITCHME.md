@@ -226,14 +226,14 @@ Hisashi SOGA
   </tr>
   <tr>
     <td rowspan="2">Note</td>
-    <td colspan="2">PMBOK:PMのため<br>PRINCE2:プロジェクトに関わるみんなのため</td>
+    <td colspan="2">PMBOK:PMのため<br>PRINCE2:プロジェクト全員のため</td>
   </tr>
   <tr>
-    <td colspan="2">７つの原則、７つのテーマ、７つのプロセス</td>
+    <td colspan="2">7 principles, 7 themes, 7 processes.</td>
   </tr>
   <tr>
     <td>History</td>
-    <td colspan="2">2017年に改訂</td>
+    <td colspan="2">2009年と2017年に改訂。価値を重視。</td>
   </tr>
   <tr>
     <td rowspan="3">Price<br>(Certificate)</td>
