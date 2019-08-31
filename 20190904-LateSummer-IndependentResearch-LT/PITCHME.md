@@ -95,7 +95,7 @@ Hisashi SOGA
 そこで ITサービスマネージャ ですよ
 @snapend
 
-@snap[east fragment]
+@snap[midpoint fragment]
 ![anzai](/20190904-LateSummer-IndependentResearch-LT/img/anzai.jpg)  
 @snapend
 
@@ -300,8 +300,7 @@ Hisashi SOGA
 @olend
 
 @snap[south-west text-11 fragment]
-やってみないと、どうなるのかもわからないと思うのです
-<br>
+やってみないと、どうなるのかもわからないと<br>思うのです
 @snapend
 
 
