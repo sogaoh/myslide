@@ -14,7 +14,7 @@
 
 @snap[north-west span-35 text-center]
 ### About Me 
-<br>  
+<br>
 Hisashi SOGA  
 ![sogaoh-bio](/20190904-LateSummer-IndependentResearch-LT/img/sogaoh-bio.png)  
 @color[#00aced](@fa[twitter-square]) [@sogaoh](http://twitter.com/sogaoh)  
@@ -23,11 +23,11 @@ Hisashi SOGA
 
 
 @snap[north-east span-60 text-08]
-@box[bg-green](ちょっと前まで # sshのconfig設定をばらまき<br>アラートにいち早く気がつく<br>いにしえのFabric使い)
+@box[bg-green](ちょっと前まで # sshのconfig設定をばらまき<br>アラートにいち早く気がつく<br>いにしえのFabric運用担当)
 @snapend
 
 @snap[east span-60 text-08]
-@box[bg-blue](フリーランス半年 # 某社既存サービスの海外版<br>新規バックエンド機能開発<br> <!-- @fab[laravel] -->)
+@box[bg-blue](フリーランス半年 # 某社既存サービスの海外版<br>新規バックエンド機能開発<br>など <!-- @fab[laravel] -->)
 @snapend
 
 @snap[south-east span-60 text-08]
@@ -124,7 +124,7 @@ Hisashi SOGA
   </tr>
   <tr>
     <td>Note</td>
-    <td colspan="2">v3が公開されて10年以上経過した<br>現在の次の到達目標</td>
+    <td colspan="2">v3が公開されて10年以上経過した<br>現在の@color[blue](次の到達目標)</td>
   </tr>
   <tr>
     <td>History(?)</td>
@@ -179,7 +179,7 @@ Hisashi SOGA
   </tr>
   <tr>
     <td>History</td>
-    <td colspan="2">英国で発展、2018年に認定試験化・日本語化</td>
+    <td colspan="2">英国で発展、2018年に認定試験化・@color[blue](日本語化)</td>
   </tr>
   <tr>
     <td rowspan="2">Price<br>(Certificate)</td>
@@ -245,7 +245,7 @@ Hisashi SOGA
   <tr class="fragment">
     <td>@color[yellow](¥99,900) <!-- (試験代 ¥28,080、税込) --></td>
     <td>@color[yellow](¥121,716) <!-- (試験代 ¥28,080、税込) --></td>
-    <td>¥11,880('15)<!-- (税込) --></td>
+    <td>@color[yellow](¥11,880（'15）)<!-- (税込) --></td>
   </tr>
   <tr class="fragment">
     <td>Providers</td>
@@ -295,9 +295,9 @@ Hisashi SOGA
 
 @olend
 
-@snap[south-west text-08 fragment]
+@snap[south-west text-11 fragment]
 やってみないと、どうなるのかもわからないと思うのです
-<br><br>
+<br>
 @snapend
 
 
@@ -337,5 +337,3 @@ Hisashi SOGA
 @snap[midpoint]  
 (1009)  
 @snapend
-
-<!-- svg font どうにか表示できないか... ![](/20190904-LateSummer-IndependentResearch-LT/img/graphql.gif) -->
