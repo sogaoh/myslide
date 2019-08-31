@@ -58,7 +58,7 @@ Hisashi SOGA
 @ul
 
 @snap[west text-10]
-- 2019.02　[衛星データプラットフォーム「Tellus」の運用が開始](http://current.ndl.go.jp/node/37636)
+- 2019.02　[衛星データプラットフォーム<br>「Tellus」の運用が開始](http://current.ndl.go.jp/node/37636)
 - 2019.04　[経産省職員がメルカリ・メルペイへ派遣](https://merpoli.mercari.com/entry/2019/04/16/070000)
 - 2019.05　[中小企業庁 制度ナビプロジェクト<br>「ミラサポ」紹介(など)](https://sogaoh.hatenablog.com/entry/2019/05/15/073645)
 - 2019.07　[政府共通プラットフォームに (@fab[aws]) 採用](https://phantomcryptomining.com/deepweb/2019-07-14-003/)
@@ -80,15 +80,21 @@ Hisashi SOGA
 ### ついていきたい
 @snapend
 
-こういうのもあるんです
-<!-- スライドは公開するのでご安心を -->
-![](/20190904-LateSummer-IndependentResearch-LT/img/graphql.gif)
+@ol 
 
-<!--
-ITサービスマネージャ
-- 国際的にも認められているITサービス<br>マネージャー系の資格にヒント？？  
-（人が少ないことを示す表）
--->
+@snap[west text-10]
+- a
+- b
+- c
+- d 
+@snapend
+
+@olend
+
+@snap[south-west text-12 fragment]
+![](/20190904-LateSummer-IndependentResearch-LT/img/graphql.gif)
+@snapend
+
 
 ---
 
