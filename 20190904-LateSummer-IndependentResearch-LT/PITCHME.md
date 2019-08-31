@@ -160,16 +160,22 @@ Hisashi SOGA
 
 覚えていただけました？
 
----
-
-メッセージ：
-
-+++
-
 ITサービスマネジメントの知識・資格を得る
 → 現場の改善に活かす 
 → その実績を身近なところから拡散
 → 世の中が、動き出す ?
+
+---
+
+@snap[north-west]
+### Message
+@snapend
+
++++
+
+@snap[north-west]
+### Message：
+@snapend
 
 +++
 
@@ -180,26 +186,36 @@ ITサービスマネジメントの知識・資格を得る
 
 ---
 
-Appendix
+@snap[north-west]
+### Appendix
 
 - https://www.ant-in-giant.work/posts/2019/08/11/1/
 - https://www.axelos.com/itil-update
 - https://www.scopism.com/free-downloads/
 - https://www.axelos.com/prince2-project-management-jp
 
+@snapend
+
 +++ 
 
-Appendix 2
+@snap[north-west]
+### Appendix 
+(PROLOGUE & EPILOGUE)
 
 - https://www.google.com/search?q=御成敗式目
-- https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%9D%A9%E5%91%BD
+<!-- - https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%9D%A9%E5%91%BD -->
+- https://ja.wikipedia.org/wiki/日本の革命
 - https://www.jitec.ipa.go.jp/1_11seido/sm.html
+
+@snapend
 
 +++
 
-Disclaimer
-
+@snap[north-west]
+### Disclaimer
 (免責事項)
+
+@snapend
 
 ---
 
