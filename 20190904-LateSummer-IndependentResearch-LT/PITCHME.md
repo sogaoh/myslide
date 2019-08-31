@@ -37,7 +37,7 @@ Hisashi SOGA
 
 ---?image=/20190904-LateSummer-IndependentResearch-LT/img/goseibaisikimoku.gif&position=95% 50%&size=300px 450px
 @snap[north-west]
-### Shikimoku (PROLOG)
+### Shikimoku (PROLOGUE)
 @snapend
 
 @ol
@@ -92,7 +92,7 @@ Hisashi SOGA
 @olend
 
 @snap[south-west text-12 fragment]
-そこで ITサービスマネージャー ですよ
+そこで ITサービスマネージャ ですよ
 @snapend
 
 
@@ -109,9 +109,6 @@ Hisashi SOGA
 +++
 
 （この図を見たら思い出して）
-
-+++
-
 （表：資格/値段・書籍/値段・限られた機関）
 
 ---
@@ -128,9 +125,6 @@ Hisashi SOGA
 +++
 
 （この図を見たら思い出して）
-
-+++
-
 （表：資格/値段・書籍/値段）
 
 ---
@@ -146,18 +140,21 @@ Hisashi SOGA
 +++
 
 （この図を見たら思い出して）
-
-+++
-
 （表：資格/値段・書籍/値段）
 
 ---
 
-まとめ
+@snap[north-west]
+### Conclusion (EPILOGUE)
+@snapend
 
 +++
 
-（ネタスライド）
+@snap[north-west]
+### Conclusion (EPILOGUE)
+
+![PRINCE2](/20190904-LateSummer-IndependentResearch-LT/img/kore.jpg)  
+@snapend
 
 +++
 
@@ -204,7 +201,7 @@ Disclaimer
 
 (免責事項)
 
-+++
+---
 
 @snap[midpoint]  
 (1009)  
