@@ -27,11 +27,11 @@ Hisashi SOGA
 @snapend
 
 @snap[east span-60 text-08]
-@box[bg-blue](フリーランス半年 # 某社既存サービスの海外版<br>新規バックエンド機能開発<br> @fab[laravel])
+@box[bg-blue](フリーランス半年 # 某社既存サービスの海外版<br>新規バックエンド機能開発<br> <!-- @fab[laravel] -->)
 @snapend
 
 @snap[south-east span-60 text-08]
-@box[bg-purple](平日夜や土日には # 副業で、週10時間程度<br>EC2・RDS(@fab[aws])の監視設定を<br>New Relic・CloudWatchで)
+@box[bg-purple](平日夜や土日には # 副業で、週10時間程度<br>EC2・RDS の監視設定を<br>New Relic で)
 @snapend
 
 
@@ -156,17 +156,19 @@ Hisashi SOGA
 ![PRINCE2](/20190904-LateSummer-IndependentResearch-LT/img/kore.jpg)  
 @snapend
 
-@snap[north-east fragment]
+@snap[north-east span-50 fragment]
+<br><br><br>
 ITIL4 と SIAM と PRINCE2 と
 @snapend
 
-@snap[east fragment]
+@snap[east span-50 fragment]
 ITサービスマネージャの認定資格  
 こんなのもあるんです
 @snapend
 
-@snap[south-east fragment]
+@snap[south-east span-50 fragment]
 覚えていただけました？
+<br><br><br>
 @snapend
 
 
@@ -196,21 +198,13 @@ ITサービスマネージャの認定資格
 - https://www.axelos.com/itil-update
 - https://www.scopism.com/free-downloads/
 - https://www.axelos.com/prince2-project-management-jp
-
-@snapend
-
-+++ 
-
-@snap[north-west]
-### Appendix 
-(PROLOGUE & EPILOGUE)
-
 - https://www.google.com/search?q=御成敗式目
 <!-- - https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%9D%A9%E5%91%BD -->
 - https://ja.wikipedia.org/wiki/日本の革命
 - https://www.jitec.ipa.go.jp/1_11seido/sm.html
 
 @snapend
+
 
 +++
 
@@ -226,4 +220,4 @@ ITサービスマネージャの認定資格
 (1009)  
 @snapend
 
-![](/20190904-LateSummer-IndependentResearch-LT/img/graphql.gif)
+<!-- svg font どうにか表示できないか... ![](/20190904-LateSummer-IndependentResearch-LT/img/graphql.gif) -->
