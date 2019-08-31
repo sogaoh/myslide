@@ -44,7 +44,7 @@ Hisashi SOGA
 
 @snap[west text-10]
 - @color[orange](御成敗式目)：日本で最初の武家法典。<br>1232年 承久の乱 後に制定。<br><br>  
-- 今のこの国の古くからの慣習とか<br>会社の規則とか、どう思いますか？<br>明らかに変なのに・・・<br>この声をふさわしいところに<br>届けられないのをなんとかしたい・・・  
+- 今のこの国の古くからの慣習とか<br>会社の規則とか、どう思いますか？<br>明らかに変なのに・・・<br>この声をふさわしいところに<br>届けられないのを@color[yellow](なんとかしたい・・・)  
 @snapend
 
 @olend
@@ -167,22 +167,24 @@ Hisashi SOGA
 
 @olend
 
----
+
++++
 
 @snap[north-west]
 ### Message
 @snapend
 
-+++
+@ol 
 
-@snap[north-west]
-### Message：
+@snap[east span-50 text-10]
+- 世の中をなんとかしたい
+- ベストプラクティスを学ぶところからはじめよう
+- 積み重ねた力が
+- もしかしたら@color[red](Shikimoku)を生み出すかもしれない
 @snapend
 
-→ スケール大きく言うと、革命
-→ 日本で唯一成功したと言われる 1232年 承久の乱
-そのときできたのが、御成敗式目
-令和式目がITエンジニアの発信から生まれるとすごいなあ
+@olend
+
 
 ---
 
@@ -205,8 +207,10 @@ Hisashi SOGA
 
 @snap[north-west]
 ### Disclaimer
-(免責事項)
+(免責事項)<br><br>  
 
+- この資料は私見に基づいて作成しているため、なるべく正確な情報を記載することを心がけてはいますが、間違っている可能性があります。
+- ご質問・ご指摘等あれば @color[#00aced](@fa[twitter-square]) [@sogaoh](http://twitter.com/sogaoh) までご連絡ください。
 @snapend
 
 ---
