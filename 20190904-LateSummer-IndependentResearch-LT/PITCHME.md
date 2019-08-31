@@ -108,28 +108,31 @@ Hisashi SOGA
 
 +++
 
+@snap[north-west]
+#### (ITIL 4)
+@snapend
+
 <table>
   <tr>
-    <th>Name</th>
-    <th>Age</th>
-    <th>Age</th>
+    <th></th>
+    <th></th>
+    <th></th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>25</td>
-    <td>25</td>
+    <td>What</td>
+    <td colspan="2">ITサービスマネジメントの<br>ベストプラクティスをまとめた書籍</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>94</td>
-    <td>25</td>
+    <td>Note</td>
+    <td colspan="2">v3が公開されて10年以上経過した<br>現在の次の到達目標</td>
   </tr>
   <tr class="fragment">
-    <td>John</td>
-    <td>43</td>
-    <td>25</td>
+    <td>Price</td>
+    <td>Certificate</td>
+    <td>Book</td>
   </tr>
 </table>
+
 
 ---
 
@@ -144,8 +147,31 @@ Hisashi SOGA
 
 +++
 
-（この図を見たら思い出して）  
-（表：資格/値段・書籍/値段）
+@snap[north-west]
+#### (SIAM)
+@snapend
+
+<table>
+  <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>What</td>
+    <td colspan="2">ITサービスマネジメントの<br>ベストプラクティスをまとめた書籍</td>
+  </tr>
+  <tr>
+    <td>Note</td>
+    <td colspan="2">v3が公開されて10年以上経過した<br>現在の次の到達目標</td>
+  </tr>
+  <tr class="fragment">
+    <td>Price</td>
+    <td>Certificate</td>
+    <td>Book</td>
+  </tr>
+</table>
+
 
 ---
 
@@ -157,10 +183,34 @@ Hisashi SOGA
 
 @snapend
 
+
 +++
 
-（この図を見たら思い出して）  
-（表：資格/値段・書籍/値段）
+@snap[north-west]
+#### (PRINCE2)
+@snapend
+
+<table>
+  <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>What</td>
+    <td colspan="2">ITサービスマネジメントの<br>ベストプラクティスをまとめた書籍</td>
+  </tr>
+  <tr>
+    <td>Note</td>
+    <td colspan="2">v3が公開されて10年以上経過した<br>現在の次の到達目標</td>
+  </tr>
+  <tr class="fragment">
+    <td>Price</td>
+    <td>Certificate</td>
+    <td>Book</td>
+  </tr>
+</table>
+
 
 ---
 
@@ -170,7 +220,7 @@ Hisashi SOGA
 
 @snap[north-west fragment]
 <br><br>
-![PRINCE2](/20190904-LateSummer-IndependentResearch-LT/img/kore.jpg)  
+![ryoko](/20190904-LateSummer-IndependentResearch-LT/img/ryoko.jpg)  
 @snapend
 
 
@@ -215,6 +265,7 @@ Hisashi SOGA
 ### Appendix
 
 - https://www.ant-in-giant.work/posts/2019/08/11/1/
+- https://itstrategy.jp/itil/itil4/
 - https://www.axelos.com/itil-update
 - https://www.scopism.com/free-downloads/
 - https://www.axelos.com/prince2-project-management-jp
