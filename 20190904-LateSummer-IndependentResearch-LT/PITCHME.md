@@ -219,36 +219,38 @@ Hisashi SOGA
     <th></th>
     <th></th>
     <th></th>
+    <th></th>
   </tr>
   <tr>
     <td>What</td>
-    <td colspan="2">プロジェクトマネジメントの<br>世界的なフレームワーク</td>
+    <td colspan="3">プロジェクトマネジメントの<br>世界的なフレームワーク</td>
   </tr>
   <tr>
     <td rowspan="2">Note</td>
-    <td colspan="2">PMBOK:PMのため<br>PRINCE2:プロジェクト全員のため</td>
+    <td colspan="3">PMBOK:PMのため<br>PRINCE2:プロジェクト全員のため</td>
   </tr>
   <tr>
-    <td colspan="2">7 principles, 7 themes, 7 processes.</td>
+    <td colspan="3">7 principles, 7 themes, 7 processes.</td>
   </tr>
   <tr>
     <td>History</td>
-    <td colspan="2">'09と'17に改訂。@color[red](価値)を重視。</td>
+    <td colspan="3">'09と'17に改訂。@color[red](価値)を重視。</td>
   </tr>
   <tr>
     <td rowspan="2">Price<br>(Certificate)</td>
     <td>Foundation</td>
     <td>Practitioner</td>
+    <td>(Book:ja)</td>
   </tr>
   <tr class="fragment">
     <td>¥99,900 <!-- (試験代 ¥28,080、税込) --></td>
     <td>¥121,716 <!-- (試験代 ¥28,080、税込) --></td>
+    <td>¥11,880('15)<!-- (税込) --></td>
   </tr>
   <tr class="fragment">
-    <td>Others</td>
-    <td>日本語版書籍(2015)</td>
-    <td>¥11,880 <!-- (税込) --></td>
-  </tr>
+    <td>Providers</td>
+    <td colspan="2">[AXELOS で @fa[search]](https://www.axelos.com/find-a-training-provider/?country=Japan&products=%5B10%2C20%5D&services=Accredited%20Training%20Organization)</td>
+      </tr>
 </table>
 
 
@@ -315,7 +317,7 @@ Hisashi SOGA
 - https://www.google.com/search?q=御成敗式目
 - https://ja.wikipedia.org/wiki/日本の革命
 - https://www.jitec.ipa.go.jp/1_11seido/sm.html
-@snap[west text-08]
+@snapend
 
 
 +++
