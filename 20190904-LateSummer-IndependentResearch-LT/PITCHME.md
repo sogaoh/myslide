@@ -176,7 +176,7 @@ Hisashi SOGA
 
 @ol 
 
-@snap[east span-50 text-10]
+@snap[west text-12]
 - 世の中をなんとかしたい
 - ベストプラクティスを学ぶところからはじめよう
 - 積み重ねた力が
@@ -208,8 +208,10 @@ Hisashi SOGA
 @snap[north-west]
 ### Disclaimer
 (免責事項)<br><br>  
+@snapend
 
-- この資料は私見に基づいて作成しているため、なるべく正確な情報を記載することを心がけてはいますが、間違っている可能性があります。
+@snap[west text-08]
+- この資料は私見に基づいて作成しているため、なるべく正確な情報を記載することを心がけてはいますが、間違っている可能性があります。<br><br>
 - ご質問・ご指摘等あれば @color[#00aced](@fa[twitter-square]) [@sogaoh](http://twitter.com/sogaoh) までご連絡ください。
 @snapend
 
