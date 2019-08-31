@@ -103,7 +103,9 @@ Hisashi SOGA
 @color[red](I)nformation @color[red](T)echnology @color[red](I)nfrastructure @color[red](L)ibrary @color[red](4)  
 @snapend
 
-
+@snap[south]
+![ITIL4](/20190904-LateSummer-IndependentResearch-LT/img/ITIL4.png)  
+@snapend
 
 +++
 
@@ -120,7 +122,6 @@ Hisashi SOGA
 @color[red](S)ervice @color[red](I)ntegration @color[red](A)nd @color[red](M)anagement  
 @snapend
 
-![ITIL4](/20190904-LateSummer-IndependentResearch-LT/img/ITIL4.png)  
 
 +++
 
