@@ -132,7 +132,6 @@ Hisashi SOGA
     <td>Book</td>
   </tr>
   <tr class="fragment">
-    <td></td>
     <td>¥32,000(税別)</td>
     <td>¥6,500(税別)</td>
   </tr>
