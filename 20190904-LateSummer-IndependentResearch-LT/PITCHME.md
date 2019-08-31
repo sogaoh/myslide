@@ -120,6 +120,8 @@ Hisashi SOGA
 @color[red](S)ervice @color[red](I)ntegration @color[red](A)nd @color[red](M)anagement  
 @snapend
 
+![ITIL4](/20190904-LateSummer-IndependentResearch-LT/img/ITIL4.png)  
+
 +++
 
 （この図を見たら思い出して）
