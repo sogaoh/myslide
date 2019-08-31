@@ -127,6 +127,10 @@ Hisashi SOGA
     <td colspan="2">v3が公開されて10年以上経過した<br>現在の次の到達目標</td>
   </tr>
   <tr>
+    <td>History(?)</td>
+    <td colspan="2">@color[red](日本語版は2019/08時点で未提供)</td>
+  </tr>
+  <tr>
     <td rowspan="2">Price</td>
     <td>Certificate</td>
     <td>Book</td>
@@ -167,11 +171,15 @@ Hisashi SOGA
   </tr>
   <tr>
     <td>What</td>
-    <td colspan="2">最適なサービスを提供できるように<br>複数のサービスプロバイダを管理する方法論</td>
+    <td colspan="2">最適なサービスを提供できるように<br>複数のプロバイダを管理する方法論</td>
   </tr>
   <tr>
     <td>Note</td>
     <td colspan="2">@color[gold](SIAMエコシステム)が特徴<br>（顧客組織・SI・SPの３レイヤ）</td>
+  </tr>
+  <tr>
+    <td>History</td>
+    <td colspan="2">英国で発展、2018年に認定試験化・日本語化</td>
   </tr>
   <tr>
     <td rowspan="2">Price<br>(Certificate)</td>
@@ -214,18 +222,33 @@ Hisashi SOGA
   </tr>
   <tr>
     <td>What</td>
-    <td colspan="2">ITサービスマネジメントの<br>ベストプラクティスをまとめた書籍</td>
+    <td colspan="2">プロジェクトマネジメントの<br>世界的なフレームワーク</td>
   </tr>
   <tr>
-    <td>Note</td>
-    <td colspan="2">v3が公開されて10年以上経過した<br>現在の次の到達目標</td>
+    <td rowspan="2">Note</td>
+    <td colspan="2">PMBOK:PMのため<br>PRINCE2:プロジェクトに関わるみんなのため</td>
+  </tr>
+  <tr>
+    <td colspan="2">７つの原則、７つのテーマ、７つのプロセス</td>
+  </tr>
+  <tr>
+    <td>History</td>
+    <td colspan="2">2017年に改訂</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Price<br>(Certificate)</td>
+    <td>Foundation</td>
+    <td>Practitioner</td>
   </tr>
   <tr class="fragment">
-    <td>Price</td>
-    <td>Certificate</td>
-    <td>Book</td>
+    <td>¥99,900 <!-- (試験代 ¥28,080、税込) --></td>
+    <td>¥121,716 <!-- (試験代 ¥28,080、税込) --></td>
   </tr>
-</table>
+  <tr class="fragment">
+    <td>日本語版書籍(2015)</td>
+    <td>¥11,880 <!-- (税込) --></td>
+td>
+  </tr></table>
 
 
 ---
