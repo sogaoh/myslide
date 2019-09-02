@@ -272,8 +272,8 @@ Hisashi SOGA
 
 @ol 
 
-@snap[east span-55 text-10]
-- ITIL4 と SIAM と PRINCE2 と
+@snap[east span-53 text-10]
+- @color[#1DA1F2](ITIL4)と@color[#007ACC](SIAM)と@color[#094AB2](PRINCE2)と
 - いつも感じている<br>何かへと向かって<br><br>
 - @color[yellow](覚えていただけましたか？)
 @snapend
