@@ -3,5 +3,7 @@ logo : /assets/img/luigi.jpg
 theme : night
 theme-override : /assets/css/PITCHME.css
 
+title : "Tax"
+
 footnote : "'Tax' / (Not LTed) @ Try English LT! for engineers / HashTag: #TryEnglishLT / Event URL: https://try-english-lt.connpass.com/event/133844/ "
 slide-number : true
