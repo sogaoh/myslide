@@ -13,5 +13,9 @@ highlight        : ir-black
 
 theme-override : /20190904-LateSummer-IndependentResearch-LT/PITCHME.css
 
+title : "First step to Reiwa Shikimoku"
+description : "LT Slide for 残暑に負けるな！自由研究LT大会 (2019/9/4).  '令和式目'を作っていくのにはまず何をすればいいんだろうか..."
+thumbnail : /20190904-LateSummer-IndependentResearch-LT/img/thumbnail.png
+
 footnote : "'First step to Reiwa Shikimoku' / LT @ 残暑に負けるな！自由研究LT大会 ( https://engineers.connpass.com/event/141228/ ) / HashTag: #engineers_lt "
 slide-number : true
