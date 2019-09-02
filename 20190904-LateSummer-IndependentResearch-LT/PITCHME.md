@@ -139,11 +139,11 @@ Hisashi SOGA
     <td>Certificate</td>
     <td>Book</td>
   </tr>
-  <tr class="fragment">
+  <tr>
     <td>¥32,000(税別)</td>
     <td>¥6,500(税別)</td>
   </tr>
-  <tr class="fragment">
+  <tr>
     <td>Providers</td>
     <td colspan="2">[AXELOS で @fa[search]](https://www.axelos.com/find-a-training-provider/?country=Japan&products=[14])</td>
   </tr>
@@ -190,11 +190,11 @@ Hisashi SOGA
     <td>Foundation</td>
     <td>Professional</td>
   </tr>
-  <tr class="fragment">
+  <tr>
     <td>@color[blue](¥25,597)</td>
     <td>@color[blue](¥25,597)</td>
   </tr>
-  <tr class="fragment">
+  <tr>
     <td>Provider</td>
     <td colspan="2">[EXIN の @fa[info-circle]](https://www.exin.com/jp-ja/certifications/#qualification-program/exin-bcs-siamtm)</td>
   </tr>
@@ -246,12 +246,12 @@ Hisashi SOGA
     <td>Practitioner</td>
     <td>(Book:ja)</td>
   </tr>
-  <tr class="fragment">
+  <tr>
     <td>@color[yellow](¥99,900) <!-- (試験代 ¥28,080、税込) --></td>
     <td>@color[yellow](¥121,716) <!-- (試験代 ¥28,080、税込) --></td>
     <td>@color[yellow](¥11,880（'15）)<!-- (税込) --></td>
   </tr>
-  <tr class="fragment">
+  <tr>
     <td>Providers</td>
     <td colspan="3">[AXELOS で @fa[search]](https://www.axelos.com/find-a-training-provider/?country=Japan&products=%5B10%2C20%5D&services=Accredited%20Training%20Organization)</td>
       </tr>
@@ -272,7 +272,7 @@ Hisashi SOGA
 
 @ol 
 
-@snap[east span-50 text-08]
+@snap[east span-50 text-10]
 - ITIL4 と SIAM と PRINCE2 と
 - いつも感じている<br>何かへと向かって<br><br>
 - @color[yellow](覚えていただけましたか？)
@@ -296,8 +296,9 @@ Hisashi SOGA
 
 @olend
 
-@snap[south-west text-11 fragment]
-やってみないと、どうなるのかもわからないと<br>思うのです
+@snap[south-west text-12 fragment]
+やってみないと、どうなるのかも<br>
+わからない、と思うのです
 @snapend
 
 
