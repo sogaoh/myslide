@@ -205,7 +205,7 @@ Hisashi SOGA
 
 @snap[north-west]
 ### PRINCE 2
-@color[red](PR)rojects @color[red](IN C)ontrolled @color[red](E)nvironments, @color[red](2)nd version
+@color[red](PR)ojects @color[red](IN C)ontrolled @color[red](E)nvironments, @color[red](2)nd version
 
 ![PRINCE2](/20190904-LateSummer-IndependentResearch-LT/img/PRINCE2.png)  
 
