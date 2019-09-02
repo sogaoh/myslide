@@ -272,7 +272,7 @@ Hisashi SOGA
 
 @ol 
 
-@snap[east span-50 text-10]
+@snap[east span-45 text-10]
 - ITIL4 と SIAM と PRINCE2 と
 - いつも感じている<br>何かへと向かって<br><br>
 - @color[yellow](覚えていただけましたか？)
@@ -297,8 +297,8 @@ Hisashi SOGA
 @olend
 
 @snap[south-west text-12 fragment]
-やってみないと、どうなるのかも<br>
-わからない、と思うのです
+やってみないと どうなるのかも<br>
+わからない と思うのです
 @snapend
 
 
