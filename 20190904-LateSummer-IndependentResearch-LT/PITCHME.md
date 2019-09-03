@@ -40,14 +40,14 @@ Hisashi SOGA
 ### Shikimoku (PROLOGUE)
 @snapend
 
-@ol
+<!-- @ol -->
 
 @snap[west text-10]
 - @color[orange](御成敗式目)：日本で最初の武家法典。<br>1232年 承久の乱 後に制定。<br><br>  
 - 今のこの国の古くからの慣習とか<br>会社の規則とか、どう思いますか？<br>明らかに変なのに・・・<br>この声をふさわしいところに<br>届けられないのを@color[yellow](なんとかしたい・・・)  
 @snapend
 
-@olend
+<!-- @olend -->
 
 
 +++
@@ -69,7 +69,7 @@ Hisashi SOGA
 @ulend
 
 
-@snap[south-west text-12 fragment]
+@snap[south-west text-12 <!-- fragment-->]
 ムーブメントが来ているようにも思う  
 @snapend
 
@@ -80,7 +80,7 @@ Hisashi SOGA
 ### ついていきたい
 @snapend
 
-@ol 
+<!-- @ol -->
 
 @snap[west text-10]
 - されど公務員になるのはむずかしく<br><br>
@@ -89,7 +89,7 @@ Hisashi SOGA
 - そういったあり方には何が必要かな
 @snapend
 
-@olend
+<!-- @olend -->
 
 @snap[south-west text-12 fragment]
 そこで ITサービスマネージャ ですよ
@@ -270,15 +270,15 @@ Hisashi SOGA
 @snapend
 
 
-@ol 
+<!-- @ol -->
 
-@snap[east span-53 text-10]
+@snap[east span-53 text-10 fragment]
 - @color[#1DA1F2](ITIL4)と@color[#007ACC](SIAM)と@color[#094AB2](PRINCE2)と
 - いつも感じている<br>何かへと向かって<br><br>
 - @color[yellow](覚えていただけましたか?)
 @snapend
 
-@olend
+<!-- @olend -->
 
 
 +++
@@ -287,14 +287,14 @@ Hisashi SOGA
 ### Message
 @snapend
 
-@ol 
+<!-- @ol -->
 
-@snap[west text-10]
+@snap[west text-10 fragment]
 - 世の中をなんとかしたいと思うなら<br>ベストプラクティスを学ぶところからはじめよう<br><br>
 - 積み重ね宿ったちからが<br>もしかしたら@color[red](Shikimoku)を生み出すかもしれない<br><br>
 @snapend
 
-@olend
+<!-- @olend -->
 
 @snap[south-west text-12 fragment]
 やってみないと どうなるのかも<br>
