@@ -1,0 +1,22 @@
+logo : /assets/img/asaka7.jpg
+
+theme            : template
+
+theme-background : [ "linear-gradient(to top, #6dd5ed, #2193b0)" ]
+theme-headline   : [ "Ubuntu", "white", "none" ]
+theme-byline     : [ "Ubuntu", "black", "none" ]
+theme-text       : [ "Raleway", "#F5FFFA", "none" ]
+theme-links      : [ "#0295BB", "#C0C0C0" ]
+theme-code       : [ "Inconsolata" ]
+theme-controls   : [ "#484848" ]
+theme-margins    : [ "0", "15px" ]
+highlight        : ir-black
+
+theme-override : /assets/css/PITCHME.css
+
+title : "9/20にRWC2019がはじまる"
+description : "LT Slide for 3分LTクッキング（9月） (2019/9/7).  'いよいよ9/20にはじまるラグビーワールドカップ。これだけ知ってると楽しめるだろうポイントをまとめてみましたので3分で..."
+thumbnail : /20190907-3minCookingLT/img/thumbnail.png
+
+footnote : "'9/20にRWC2019がはじまる' / LT @ 3分LTクッキング（9月） ( https://connpass.com/event/145311/ ) / HashTag: #3mincookingLT "
+slide-number : true
