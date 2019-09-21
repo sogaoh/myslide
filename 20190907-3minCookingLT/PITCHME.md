@@ -158,7 +158,7 @@ https://www.rugby-japan.jp/japan/
 
 @snap[east span-55 text-08]
 - ライン（境界）
-    - see [Union 競技規則 グラウンド](https://laws.worldrugby.org/?law=1&language=JA)
+    - see [(Rule) グラウンド](https://laws.worldrugby.org/?law=1&language=JA)
     - 10m : キックオフと関連
     - 22m : タッチキックと関連
     - ゴール・デッドボール
@@ -168,6 +168,7 @@ https://www.rugby-japan.jp/japan/
 - ジャッジ（審判）
     - @color[red](レフリー 1)・タッチジャッジ 2
     - (ビデオ判定はつい最近の導入)
+    - see [(Rule) マッチオフィシャル](https://laws.worldrugby.org/?law=6&language=JA)
 @snapend
 
 <!-- @olend -->
@@ -186,20 +187,51 @@ https://www.rugby-japan.jp/japan/
 #### フォワード(FW)
 @snapend
 
-@snap[north span-50 text-20]
+@snap[north-west fragment]
+<br><br>フロントロー
+@snapend
+
+@snap[north span-50 text-20 fragment]
 <br>
 ①　②　③
 @snapend
 
-@snap[midpoint text-20]
-④　⑤<br>
-⑥　　　　⑦
+@snap[north-east fragment]
+<br><br>
+1,3: プロップ
+2: フッカー
 @snapend
 
-@snap[south text-20]
-⑧
+@snap[north-west fragment]
+<br><br><br><br>セカンドロー
+@snapend
+
+@snap[midpoint text-20 fragment]
+④　⑤<br>
 <br>
 @snapend
+
+@snap[north-east fragment]
+<br><br><br><br><br>
+4,5: ロック
+@snapend
+
+@snap[south-west fragment]
+バックロー<br><br><br><br><br><br>
+@snapend
+
+@snap[midpoint text-20 fragment]
+<br><br>
+⑥　　　　⑦<br>
+⑧
+@snapend
+
+@snap[south-east fragment]
+6,7: フランカー
+8: ナンバーエイト
+<br><br>
+@snapend
+
 
 +++
 
@@ -207,31 +239,55 @@ https://www.rugby-japan.jp/japan/
 #### バックス(BK)
 @snapend
 
-@snap[north span-50 text-20]
+@snap[north-west fragment]
+<br><br>ハーフ<br>バックス
+@snapend
+
+@snap[north span-50 text-20 fragment]
 ⑨  
 ⑩
 @snapend
 
-@snap[midpoint text-20]
+@snap[north-east fragment]
+<br>
+9: スクラムハーフ
+10: スタンドオフ
+@snapend
+
+@snap[west fragment]
+<br>スリークオーター<br>バックス
+@snapend
+
+@snap[midpoint text-20 fragment]
 ⑫　⑬
 <br>
 @snapend
 
-@snap[west text-20]
-<br>
-　　　⑪
+@snap[midpoint text-20 fragment]
+<br><br>
+⑪　　　　⑭<br><br>
 @snapend
 
-@snap[east text-20]
+@snap[east fragment]
 <br>
-⑭　　　
+12,13: センター<br><br>
+11,14: ウイング
 @snapend
 
-@snap[south text-20]
+@snap[south-west fragment]
+バックスリー
+(11,14も)<br><br>
+@snapend
+
+@snap[south text-20 fragment]
 ⑮
 <br>
 @snapend
 
+@snap[south-east fragment]
+15: フルバック
+<br><br>
+@snapend
 
 +++
 
