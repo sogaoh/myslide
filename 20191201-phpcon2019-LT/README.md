@@ -3,11 +3,8 @@
 ## PHP-CS-Fixerを IDEに取り込ませて PSRを強制する 開発スタイル
 
 2019/12/01  
-LT @ [PHPカンファレンス 2019](https://phpcon.connpass.com/event/151396/)  
+LT @ [PHPカンファレンス 2019](https://phpcon.connpass.com/event/151396/) [^1]  
 Twitter HashTag: [#phpcon](https://twitter.com/search?f=tweets&vertical=default&q=%23phpcon)  
-
-https://phpcon.php.gr.jp/2019/
-https://fortee.jp/phpcon-2019/proposal/b6eddbf6-c938-4da3-b6f9-d50ecb50c7a7
 
 ```
 PHPの開発でコーディング規約をどうするかはどの現場でも悩ましい話だと思います。
@@ -72,3 +69,7 @@ PHP-CS-Fixerに整形を委ねるのも１つの手ではないかと思いま�
 - Laravel の Providers は除外
 - ブランチを切り替えるときは fixOnSave を Off に
 - コンテナ外での実行のほうが期待動作
+
+
+# Note
+[^1]: [PHPカンファレンス2019 公式サイト](https://phpcon.php.gr.jp/2019/), [fortee トーク紹介ページ](https://fortee.jp/phpcon-2019/proposal/b6eddbf6-c938-4da3-b6f9-d50ecb50c7a7)  
