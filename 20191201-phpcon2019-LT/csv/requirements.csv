@@ -1,0 +1,5 @@
+対象,項目
+(共通),PHP-CS-Fixer install
+(共通),.php_cs.dist の定義 
+(PhpStorm),[File Watcher Plugin](https://plugins.jetbrains.com/plugin/7177-file-watchers) install
+(VSCode ※),[拡張機能](https://marketplace.visualstudio.com/items?itemName=fterrag.vscode-php-cs-fixer) install

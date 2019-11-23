@@ -1,0 +1,3 @@
+設定事項,設定先
+php-cs-fixer,[Preferences] > [Languages & Frameworks] > [PHP] > [Quality Tools]
+.php_cs.dist,[Preferences] > [Editor] > [Inspections] 
