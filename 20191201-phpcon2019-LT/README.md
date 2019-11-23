@@ -17,11 +17,11 @@ PHP-CS-Fixerに整形を委ねるのも１つの手ではないかと思いま�
 
 - ToC
     - [PHP-CS-Fixer](#PHP-CS-Fixer)
-    - [PSR](#PSR)
     - [IDEでの設定](#IDEでの設定)
         - [PhpStorm など](#PhpStorm)
         - [Visual Studio Code](#Visual_Studio_Code)
     - [利用における注意点](#利用における注意点)
+    - [PSR](#PSR)
 
 ### PHP-CS-Fixer
 - コーディング規約チェック＋自動修正ツール
@@ -33,16 +33,6 @@ PHP-CS-Fixerに整形を委ねるのも１つの手ではないかと思いま�
     - 採用するルール
     - 除外対象
     - キャッシュ利用
-
-
-### PSR
-- PHP Standards Recommendations
-- PHP-CS-Fixer に関連あるのは以下
-    - PSR-1 : Basic Coding Standard
-    - PSR-2 : Coding Style Guide -> DEPRECATED
-    - PSR-5 : PHPDoc Standard -> DRAFT
-- 設定で PSR-0, PSR-4 の指定も可能
-- 今後は、PSR-12 : Extended Coding Style Guide
 
 
 ### IDEでの設定
@@ -64,11 +54,22 @@ PHP-CS-Fixerに整形を委ねるのも１つの手ではないかと思いま�
 - [Fix On Save] で保存時に自動修正するかの設定
 - Use Cache, Allow Risky は適宜
 
-
 ### 利用における注意点
 - Laravel の Providers は除外
 - ブランチを切り替えるときは fixOnSave を Off に
 - コンテナ外での実行のほうが期待動作
+
+
+### PSR
+- PHP Standards Recommendations
+- PHP-CS-Fixer に関連あるのは以下
+    - PSR-1 : Basic Coding Standard
+    - PSR-2 : Coding Style Guide -> DEPRECATED
+    - PSR-5 : PHPDoc Standard -> DRAFT
+- 設定で PSR-0, PSR-4 の指定も可能
+- 今後は、PSR-12 : Extended Coding Style Guide
+
+
 
 
 # Note

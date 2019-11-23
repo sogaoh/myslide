@@ -1,0 +1,6 @@
+vscode-php-cs-fixer.allowRisky,ON
+vscode-php-cs-fixer.config,/path/to/.php_cs.dist,
+@color[red](vscode-php-cs-fixer.fixOnSave),@color[red](状況に応じてON/OFF)
+vscode-php-cs-fixer.rules,(configを設定すれば不要)
+vscode-php-cs-fixer.toolPath,/path/to/php-cs-fixer
+vscode-php-cs-fixer.useCache,ON (どちらでも)
