@@ -289,7 +289,7 @@ php-cs-fixer で絞り込むと容易に候補が提示される
 
 @snap[west text-12]
 - see @emoji[point_down]   
-    - [Appendix of <br>20191201-phpcon2019-LT<br> (by sogaoh)](https://esa-pages.io/p/sharing/6641/posts/543/79dadd6a5d3fea50adcc.html)
+    - [Appendix of <br>phpcon2019-LT by sogaoh](https://esa-pages.io/p/sharing/6641/posts/543/79dadd6a5d3fea50adcc.html)
 
 @snapend
 
