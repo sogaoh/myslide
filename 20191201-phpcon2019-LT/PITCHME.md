@@ -231,7 +231,7 @@ php-cs-fixer で絞り込むと容易に候補が提示される
 @snap[north-west]
 ### Laravelのapp/Providers除外
 <br>
-- @color[yellow](fixが効くと突然動かなくなる)<br><br>
+- @color[yellow](fixが効くと突然動かなくなることがある)<br><br>
 - 他、ライブラリが自動生成する場合は要注意
     - [laravel-enum](https://github.com/BenSampo/laravel-enum), [lighthouse-php](https://lighthouse-php.com/master/api-reference/commands.html#scalar) など<br><br>
 - 除外設定は切り出せるので分離するのが良さそう
