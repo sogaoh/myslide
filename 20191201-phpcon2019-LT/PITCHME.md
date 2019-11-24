@@ -132,7 +132,7 @@ Hisashi SOGA
 @snapend
 
 @snap[south-west text-06]
-※ 詳細は [Appendix of ... #PhPStorm-edit](https://esa-pages.io/p/sharing/6641/posts/543/79dadd6a5d3fea50adcc.html#PhpStorm-edit) に記載
+※ 詳細は [Qiita...#エディタ上で問題箇所にマーキングする設定](https://qiita.com/sogahisashi/private/9c622743b0b3c1ca0f55#%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF%E4%B8%8A%E3%81%A7%E5%95%8F%E9%A1%8C%E7%AE%87%E6%89%80%E3%81%AB%E3%83%9E%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0%E3%81%99%E3%82%8B%E8%A8%AD%E5%AE%9A) に記載
 <br>
 @snapend
 
@@ -178,7 +178,7 @@ Hisashi SOGA
 </table>
 
 @snap[south-west text-06]
-※ 詳細は [Appendix of ... #PhPStorm-autoSave](https://esa-pages.io/p/sharing/6641/posts/543/79dadd6a5d3fea50adcc.html#PhpStorm-autoSave) に記載
+※ 詳細は [Qiita...#ファイル保存時の自動修正設定](https://qiita.com/sogahisashi/private/9c622743b0b3c1ca0f55#%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E4%BF%9D%E5%AD%98%E6%99%82%E3%81%AE%E8%87%AA%E5%8B%95%E4%BF%AE%E6%AD%A3%E8%A8%AD%E5%AE%9A) に記載
 <br>
 @snapend
 
@@ -207,7 +207,7 @@ php-cs-fixer で絞り込むと容易に候補が提示される
 @snapend
 
 @snap[south-west text-06]
-※ 詳細は [Appendix of ... #VisualStudioCode](https://esa-pages.io/p/sharing/6641/posts/543/79dadd6a5d3fea50adcc.html#VisualStudioCode) に記載
+※ 詳細は [Qiita...#visual-studio-code](https://qiita.com/sogahisashi/private/9c622743b0b3c1ca0f55#visual-studio-code) に記載
 <br>
 @snapend
 
@@ -255,7 +255,8 @@ php-cs-fixer で絞り込むと容易に候補が提示される
 ### おわりに
 @snapend
 
-@snap[north-west <!-- fragment-->]
+<!-- @snap[north-west fragment] -->
+@snap[north-west]
 <br>
 <br>
 規模が大きいほど、秩序ある美しいコードを<br>
@@ -266,17 +267,19 @@ php-cs-fixer で絞り込むと容易に候補が提示される
 <br>
 @snapend
 
-@snap[south-west text-14 <!--fragment -->]
+<!-- @snap[south-west text-14 <!--fragment] -->
+@snap[south-west text-14]
 @color[yellow](よき、「はじめのいっぽ」を)
 <br>
 @snapend
 
-<!-- 
-@snap[north-west text-18 fragment]
+<!-- @snap[north-west text-18 fragment] -->
 <br>
-![ippo](/20191201-phpcon2019-LT/img/hajime-no-ippo.jpg)  
+<!-- ![ippo](/20191201-phpcon2019-LT/img/hajime-no-ippo.jpg)  -->
+<!--
 @snapend
--->
+ -->
+
 
 +++
 
