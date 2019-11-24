@@ -62,7 +62,8 @@ Hisashi SOGA
 -->
 
 
----
++++
+
 @snap[north-west]
 ### 私は、PHP-CS-Fixer
 @snapend
@@ -222,7 +223,6 @@ php-cs-fixer で絞り込むと容易に候補が提示される
 <br>
 - Laravel の app/Providers は修正対象から除外したほうがいい<br><br>
 - ブランチを切り替えるときは fixOnSave を Off にしたほうがよさそう<br><br>
-- (fixコマンドは)コンテナ外のほうが高速  
 @snapend
 
 
@@ -249,44 +249,34 @@ php-cs-fixer で絞り込むと容易に候補が提示される
 @snapend
 
 
-+++
-
-@snap[north-west]
-### コンテナ外でのfixコマンド実行
-@snapend
-
-
 ---
 
 @snap[north-west]
 ### おわりに
 @snapend
 
-@snap[north-west text-14 <!-- fragment-->]
+@snap[north-west <!-- fragment-->]
 <br>
 <br>
-規模が大きいほど、秩序ある<br>
-美しいコードを保つのは難しい。<br>
-だからこそ、初めから習慣的に<br>
-機械に修正を任せることに一定の<br>
-価値があるのではないかと思う。
+規模が大きいほど、秩序ある美しいコードを<br>
+保つのは難しい。<br>
+だからこそ、初めから習慣的に自動修正を<br>
+採用することが、整った状態を維持する布石に<br>
+なり得るのではないでしょうか。
 <br>
 @snapend
 
-<!--
-@snap[south-west text-17]
-@color[yellow](なにか、してますか？)
+@snap[south-west text-14 <!--fragment -->]
+@color[yellow](よき、「はじめのいっぽ」を)
 <br>
 @snapend
--->
 
-<!--
-@snap[west fragment]
-<br><br>
-![nagashima](/20191201-phpcon2019-LT/img/nagashima3-nanika.jpg)  
+<!-- 
+@snap[north-west text-18 fragment]
+<br>
+![ippo](/20191201-phpcon2019-LT/img/hajime-no-ippo.jpg)  
 @snapend
 -->
-
 
 +++
 
