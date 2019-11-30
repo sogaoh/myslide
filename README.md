@@ -5,8 +5,8 @@ sogaoh's presentations using https://gitpitch.com/
 
 ## LTs
 - 2019/12/01
-    - [PHP-CS-FixerをIDEに取り込ませてPSRを強制する開発スタイル](https://github.com/sogaoh/myslide/tree/20191201-phpcon2019-LT/20191201-phpcon2019-LT)
-        - [20191201-phpcon2019-LT](https://gitpitch.com/sogaoh/myslide/20191201-phpcon2019-LT?p=20191201-phpcon2019-LT/)
+    - [PHP-CS-FixerをIDEに取り込ませてPSRを強制する開発スタイル](https://github.com/sogaoh/myslide/tree/master/20191201-phpcon2019-LT)
+        - [20191201-phpcon2019-LT](https://gitpitch.com/sogaoh/myslide/?p=20191201-phpcon2019-LT)
 
 - 2019/09/04
     - [First step to Reiwa Shikimoku](https://github.com/sogaoh/myslide/tree/master/20190904-LateSummer-IndependentResearch-LT)
