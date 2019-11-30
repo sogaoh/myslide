@@ -148,7 +148,7 @@ Hisashi SOGA
 <br>
 <br>
 
-#### @color[red](自動修正する設定 : 状況に応じてON/OFF) ※
+#### @color[red](自動修正する設定) ※
 @snapend
 <br>
 <table style="font-size:28px;">
@@ -158,7 +158,7 @@ Hisashi SOGA
     <th></th>
   </tr>
   <tr>
-    <td colspan="3">[Preferences] > [Tools] > [File Watchers] で 新規作成 (+) </td>
+    <td colspan="3">[Preferences] > [Tools] > [File Watchers] で 新規作成 (+) <br>-> リスト上で @color[red](状況に応じてON/OFF)</td>
   </tr>
   <tr>
     <td>Name</td>
@@ -169,7 +169,7 @@ Hisashi SOGA
     <td>File type: PHP, Scope: (後述)</td>
   </tr>
   <tr>
-    <td>Tool to Run on Changes</td>
+    <td>@color[red](Tool to Run on Changes)</td>
     <td>Program: (php-cs-fixer), <br>Arguments: (fix command...), <br>Output paths to refresh: @color[yellow]($FilePath$), <br>Working Directory: @color[yellow]($ProjectFileDir$)</td>
   </tr>
   <tr>
