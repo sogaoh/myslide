@@ -54,12 +54,12 @@ Hisashi SOGA
 <br>
 @snapend
 
-<!-- -->
-@snap[west fragment]
-<br><br>
-![nagashima](/20191201-phpcon2019-LT/img/nagashima3-nanika.jpg)  
-@snapend
-<!-- -->
+
+<!--  @snap[west fragment] -->
+<!-- <br><br> -->
+<!-- ![nagashima](/20191201-phpcon2019-LT/img/nagashima3-nanika.jpg)  -->
+<!-- @snapend -->
+
 
 
 +++
