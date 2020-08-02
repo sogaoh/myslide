@@ -1,0 +1,23 @@
+logo : /assets/img/luigi.jpg
+
+theme            : template
+theme-background : [ "#FFF" ]
+theme-headline   : [ "Raleway", "#5289F7", "none" ]
+theme-byline     : [ "Raleway", "#111111", "none" ]
+theme-text       : [ "Ubuntu", "#1C1C1C", "none" ]
+theme-links      : [ "#5289F7", "#5254F7" ]
+theme-code       : [ "Source Code Pro" ]
+theme-controls   : [ "#484848" ]
+theme-margins    : [ "0", "15px" ]
+highlight        : tomorrow
+
+theme-override : /20200808-devlove-boastMyField-LT/PITCHME.css
+
+title : "ちいさな７年目の身近なとある現場"
+description : "sogaoh's LT Slide for DevLOVE13年目突入記念イベント　〜わたしの現場、あなたの現場〜 (2020/08/08). 自分の身近で見た、コロナと向き合い課題を乗り越えた現場のお話です... "
+thumbnail : /20200808-devlove-boastMyField-LT/img/thumbnail.png
+
+footnote : "'ちいさな７年目の身近なとある現場' / LT @ DevLOVE13年目突入記念イベント　〜わたしの現場、あなたの現場〜 ( https://devlove.doorkeeper.jp/events/109566 ) / HashTag: #devlove "
+slide-number : true
+
+#gatoken: UA-145235126-8
