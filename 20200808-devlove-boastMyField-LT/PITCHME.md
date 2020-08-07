@@ -27,7 +27,7 @@
 @snapend
 
 @snap[south-west]
-資料は公開してあります -> []() 
+資料は公開してあります -> [https://kutt.it/NTsLBN](https://kutt.it/NTsLBN) 
 @css[lh-1 text-06](※1. 履歴が増殖するため、シークレットウィンドウでご覧ください<br>※2. ところどころの水色の文字はリンクになっています<br>※3. スペースで次のページに進みます（[o]でOverviewが見れます）)
 @snapend
 

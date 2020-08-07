@@ -2,13 +2,18 @@
 
 sogaoh's presentations using https://gitpitch.com/
 
-
+<!--
 ## WIP
-- 2020/08/08
-    - [ちいさな７年目の身近なとある現場](https://github.com/sogaoh/myslide/tree/master/20200808-devlove-boastMyField-LT)
-        - [20200808-devlove-boastMyField-LT](https://gitpitch.com/sogaoh/myslide?p=20200808-devlove-boastMyField-LT)
+-->
+
+## 15 min Session
+- 2020/07/25
+    - 間隙を縫って現場と自分を Extend していく 流浪人スタイル [^1]
+        - [20200725-JTF2020-SS](https://gitpitch.com/sogaoh/slides?p=20200725-JTF2020-SS&s=qS9rRnYP)
+
 
 ## LTs
+
 - 2019/12/01
     - [PHP-CS-FixerをIDEに取り込ませてPSRを強制する開発スタイル](https://github.com/sogaoh/myslide/tree/master/20191201-phpcon2019-LT)
         - [20191201-phpcon2019-LT](https://gitpitch.com/sogaoh/myslide?p=20191201-phpcon2019-LT)
@@ -23,6 +28,11 @@ sogaoh's presentations using https://gitpitch.com/
 
 
 ## Online LTs
+
+- 2020/08/08
+    - [ちいさな７年目の身近なとある現場](https://github.com/sogaoh/myslide/tree/master/20200808-devlove-boastMyField-LT)
+        - [20200808-devlove-boastMyField-LT](https://gitpitch.com/sogaoh/myslide?p=20200808-devlove-boastMyField-LT)
+
 - 2019/09/07
     - [9/20にRWC2019がはじまる](https://github.com/sogaoh/myslide/tree/master/20190907-3minCookingLT)
         - [20190907-3minCookingLT](https://gitpitch.com/sogaoh/myslide?p=20190907-3minCookingLT/)
@@ -47,3 +57,7 @@ sogaoh's presentations using https://gitpitch.com/
 - https://github.com/kakisoft/HowToUseGitPitch
 - https://github.com/kakisoft/HowToUseGitPitch2
 - https://github.com/kakisoft/HowToUseGitPitch3
+
+
+# Footnote
+[^1]: Source code closed.
