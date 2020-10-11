@@ -2,11 +2,15 @@
 
 sogaoh's presentations using https://gitpitch.com/
 
-<!--
 ## WIP
--->
 
-## 15 min Session
+- 2020/10/14
+    - [はじめての e-Tax](https://github.com/sogaoh/myslide/tree/master/20201014-ultralt-LT)
+        - [20201014-ultralt-LT](https://gitpitch.com/sogaoh/myslide?p=20201014-ultralt-LT)
+
+
+## Over 10 min Session (Online)
+
 - 2020/07/25
     - 間隙を縫って現場と自分を Extend していく 流浪人スタイル [^1]
         - [20200725-JTF2020-SS](https://gitpitch.com/sogaoh/slides?p=20200725-JTF2020-SS&s=qS9rRnYP)
@@ -36,6 +40,12 @@ sogaoh's presentations using https://gitpitch.com/
 - 2019/09/07
     - [9/20にRWC2019がはじまる](https://github.com/sogaoh/myslide/tree/master/20190907-3minCookingLT)
         - [20190907-3minCookingLT](https://gitpitch.com/sogaoh/myslide?p=20190907-3minCookingLT/)
+
+
+## Proposals
+- 2020/05/08
+    - 補助金・助成金申請受付業務への提案 [^1]
+        - [20200508-Covid19AdCale-day28-proposal](https://gitpitch.com/sogaoh/slides?p=20200508-Covid19AdCale-day28-proposal&s=cW2Fqptg)
 
 
 ## Others

@@ -1,0 +1,23 @@
+logo : /assets/img/luigi.jpg
+
+theme            : template
+theme-background : [ "#FFF" ]
+theme-headline   : [ "Raleway", "#000080", "none" ]  # タイトル
+theme-byline     : [ "Raleway", "#0000CD", "none" ]  # 見出し ##
+theme-text       : [ "Ubuntu", "#1C1C1C", "none" ]   # 通常文字
+theme-links      : [ "#5289F7", "#228B22" ]          # リンク , onMouseOver
+theme-code       : [ "Source Code Pro" ]
+theme-controls   : [ "#484848" ]
+theme-margins    : [ "0", "15px" ]
+highlight        : tomorrow
+
+theme-override : /20201014-ultralt-LT/PITCHME.css
+
+title : "はじめての e-Tax"
+description : "sogaoh's LT Slide for はじめての〇〇 超LT会 - vol.1 (2020/10/14).  今年の序盤に経験したはじめてのe-Tax、そこから得たものは・・・..."
+thumbnail : /20201014-ultralt-LT/img/thumbnail.png
+
+footnote : "'はじめての e-Tax' / LT @ はじめての〇〇 超LT会 - vol.1 ( https://rakus.connpass.com/event/188470/ ) / HashTag: #ultralt "
+slide-number : true
+
+gatoken: UA-145235126-8
