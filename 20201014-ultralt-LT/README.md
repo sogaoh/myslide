@@ -1,4 +1,4 @@
-[Presentation Slide](https://gitpitch.com/sogaoh/myslide/?p=20201014-ultralt-LT)
+[Presentation Slide](https://gitpitch.com/sogaoh/myslide?p=20201014-ultralt-LT)
 
 ## はじめての e-Tax
 
