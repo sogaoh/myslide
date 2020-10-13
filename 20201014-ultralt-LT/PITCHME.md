@@ -110,7 +110,7 @@ Hisashi SOGA
 - [国税庁](https://www.nta.go.jp/)
 - [勘定科目はどう選べばよい？ - freeeヘルプセンター ](https://support.freee.co.jp/hc/ja/articles/212496366-%E5%8B%98%E5%AE%9A%E7%A7%91%E7%9B%AE%E3%81%AF%E3%81%A9%E3%81%86%E9%81%B8%E3%81%B9%E3%81%B0%E3%82%88%E3%81%84-)
 - [家事按分を登録する – freee ヘルプセンター](https://support.freee.co.jp/hc/ja/articles/202849030-%E5%AE%B6%E4%BA%8B%E6%8C%89%E5%88%86%E3%82%92%E7%99%BB%E9%8C%B2%E3%81%99%E3%82%8B)
-- [個人事業主の節税対策｜経費を増やして税金を減らす11の方法｜税理士検索freee](https://advisors-freee.jp/article/category/cat-big-05/cat-small-13/468/)<br><br>
+- [個人事業主の節税対策｜経費を増やして税金を減らす11の方法｜税理士検索freee](https://advisors-freee.jp/article/category/cat-big-05/cat-small-13/468/)
 - [技術書を各人のための得する制度、損する行動](https://masuipeo.booth.pm/items/1302979)
 - [N/A magazine 創刊号](https://techbookfest.org/product/5823813245730816)
     - p.11 備えよう！一目で分かる納付カレンダー
