@@ -87,7 +87,7 @@ Hisashi SOGA
 
 @snap[west text-08]
 - 個人事業主は @color[red](所得税貯蓄) が必要
-   - [税率](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tebiki/2013/taxanswer/shotoku/2260.htm) は所得に応じて決まる<br><br>
+   - [税率](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tebiki/2013/taxanswer/shotoku/2260.htm) は所得に応じて決まる（２割程度?）<br><br>
 - 6月頃に住民税の @color[red](納付書が来ないのは何かがおかしい)
    - [税率は自治体ごとに違う](https://internet.watch.impress.co.jp/docs/special/1129773.html) <br><br>
 - ツールを @color[red](信じ切ってはいけない)
