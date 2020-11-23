@@ -2,11 +2,9 @@
 
 sogaoh's presentations using https://gitpitch.com/
 
+<!--
 ## WIP
-
-- 2020/10/14
-    - [はじめての e-Tax](https://github.com/sogaoh/myslide/tree/master/20201014-ultralt-LT)
-        - [20201014-ultralt-LT](https://gitpitch.com/sogaoh/myslide?p=20201014-ultralt-LT)
+-->
 
 
 ## Over 10 min Session (Online)
@@ -32,6 +30,10 @@ sogaoh's presentations using https://gitpitch.com/
 
 
 ## Online LTs
+
+- 2020/10/14
+    - [はじめての e-Tax](https://github.com/sogaoh/myslide/tree/master/20201014-ultralt-LT)
+        - [20201014-ultralt-LT](https://gitpitch.com/sogaoh/myslide?p=20201014-ultralt-LT)
 
 - 2020/08/08
     - [ちいさな７年目の身近なとある現場](https://github.com/sogaoh/myslide/tree/master/20200808-devlove-boastMyField-LT)
