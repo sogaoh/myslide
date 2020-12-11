@@ -11,7 +11,7 @@ sogaoh's presentations using https://gitpitch.com/
 
 - 2020/12/12
     - [本番でしか起きない問題に早く気が付けるように、僕は Laravel Dusk で CI する](https://github.com/sogaoh/myslide/tree/master/20201212-phpcon2020-RS)
-        - [20201212-phpcon2020-RS](https://gitpitch.com/sogaoh/myslide/?p=20201212-phpcon2020-RS)
+        - [20201212-phpcon2020-RS](https://gitpitch.com/sogaoh/myslide?p=20201212-phpcon2020-RS)
 
 - 2020/07/25
     - 間隙を縫って現場と自分を Extend していく 流浪人スタイル [^1]

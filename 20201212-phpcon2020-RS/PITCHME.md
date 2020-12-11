@@ -447,10 +447,9 @@ e2eテスト成立に必要な
 [drag=100 20, drop=5 20, fit=1.4, set=align-left align-center]
 ID・パスワードを入力して、ログインする
 
-![drag=45 55, drop=5 40, fit=1.4](/20201212-phpcon2020-RS/gif/snipe-it_1.gif)
+![drag=40 50, drop=5 40](/20201212-phpcon2020-RS/gif/snipe-it_1.gif)
 
-[drag=45 55, drop=50 40, fit=1.4, set=align-left fragment, bg=green]
-(code)
+@code[php, drag=50 55, drop=48 40, fit=1.0](/20201212-phpcon2020-RS/src/DuskTest1.php)
 
 
 +++
@@ -461,10 +460,11 @@ ID・パスワードを入力して、ログインする
 [drag=100 20, drop=5 20, fit=1.4, set=align-left align-center]
 プロフィールを編集する
 
-![drag=45 55, drop=5 40, fit=1.4](/20201212-phpcon2020-RS/gif/snipe-it_2.gif)
+![drag=40 50, drop=5 40, fit=1.4](/20201212-phpcon2020-RS/gif/snipe-it_2.gif)
 
-[drag=45 55, drop=50 40, fit=1.4, set=align-left fragment, bg=green]
-(code)
+@code[php, drag=50 55, drop=48 40, fit=1.0](/20201212-phpcon2020-RS/src/DuskTest21.php)
+@code[php, drag=50 55, drop=48 40, fit=1.0, set=fragment](/20201212-phpcon2020-RS/src/DuskTest22.php)
+@code[php, drag=50 55, drop=48 40, fit=1.0,set=fragment](/20201212-phpcon2020-RS/src/DuskTest23.php)
 
 
 +++
@@ -473,18 +473,19 @@ ID・パスワードを入力して、ログインする
 ## 様々な操作の再現 (3)
 
 [drag=100 20, drop=5 20, fit=1.4, set=align-left align-center]
-アコーディオンを開き、サブメニューを選択
+Navigation を展開し、サブメニューを選択
 
-![drag=45 55, drop=5 40, fit=1.4](/20201212-phpcon2020-RS/gif/snipe-it_3.gif)
+![drag=40 50, drop=5 40, fit=1.4](/20201212-phpcon2020-RS/gif/snipe-it_3.gif)
 
-[drag=45 55, drop=50 40, fit=1.4, set=align-left fragment, bg=green]
-(code)
+@code[php, drag=50 55, drop=48 40, fit=1.0](/20201212-phpcon2020-RS/src/DuskTest31.php)
+@code[php, drag=50 55, drop=48 40, fit=1.0, set=fragment](/20201212-phpcon2020-RS/src/DuskTest32.php)
+@code[php, drag=50 55, drop=48 40, fit=1.0,set=fragment](/20201212-phpcon2020-RS/src/DuskTest33.php)
 
 
 +++
 
-[drag=65 12, drop=5 3, set=text-bold h2-gray align-left]
-## それではごらんください
+[drag=70 12, drop=5 3, set=text-bold h2-gray align-left]
+## それではごらんください (1)
 
 [drag=80 8, drop=10 88, fix=0.6, set=align-right]
 https://youtu.be/TCt6wnf5C-k
@@ -492,20 +493,16 @@ https://youtu.be/TCt6wnf5C-k
 ![drag=72 72, drop=14 15](https://www.youtube.com/embed/TCt6wnf5C-k)
 
 
-[drag=80 8, drop=10 88, fix=0.6, set=align-right fragment, bg=black]
-https://youtu.be/CoI8BTED4HI
++++
 
-![drag=72 72, drop=14 15, set=fragment](https://www.youtube.com/embed/CoI8BTED4HI)
+[drag=70 12, drop=5 3, set=text-bold h2-gray align-left]
+## それではごらんください (2)
 
+[drag=80 8, drop=10 88, fix=0.6, set=align-right]
+https://youtu.be/pujAkC49gYE
 
+![drag=72 72, drop=14 15](https://www.youtube.com/embed/pujAkC49gYE)
 
-
-<!-- - 「見えるか？」 --> 
-<!-- - ボタン押下 --> 
-<!-- - リンククリック --> 
-<!-- - ドロップダウン --> 
-<!-- - チェックボックス --> 
-<!-- - スクロール（5.8 では script を使う必要がある） --> 
 
 +++
 
@@ -516,6 +513,8 @@ https://youtu.be/CoI8BTED4HI
 
 [drag=100 10, drop=5 25, fit=1.2, set=align-left align-center]
 (例) `#Submit` ボタンを script で解放
+
+@code[php, drag=90 55, drop=5 40, fit=1.0,set=fragment](/20201212-phpcon2020-RS/src/reCAPTCHA_Thru.php)
 
 
 ---
@@ -545,7 +544,7 @@ https://youtu.be/CoI8BTED4HI
   - @css[text-08](Flex Plan は 3 months 以降 5000 通を超えると$0.80 / 1000 emails) 
 - [TLS暗号化対応｜Cuenote FC](https://www.cuenote.jp/fc/capability/starttls.html)
 - [nginx の名前解決について - Qiita](https://qiita.com/toshihirock/items/1c711a7e9f054605323f)
-- [Nginx のDNS 名前解決とS3 やELB へのリバースプロキシ :: by and for engineers](https://yulii.github.io/nginx-dns-cache-20150815.html)
+- [Nginx のDNS 名前解決とS3 やELB へのリバースプロキシ](https://yulii.github.io/nginx-dns-cache-20150815.html)
 - [Cloud Diagrams - GitPitch Documentation](https://docs.gitpitch.com/#/diagrams/cloud-architecture)
 - [Diagrams · Diagram as Code](https://diagrams.mingrammer.com/)
 - [Amazon ECS - (Datadog) Agent をデーモンサービスとして実行](https://docs.datadoghq.com/ja/agent/amazon_ecs/?tab=awscli#agent-%E3%82%92%E3%83%87%E3%83%BC%E3%83%A2%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%A8%E3%81%97%E3%81%A6%E5%AE%9F%E8%A1%8C)
@@ -564,12 +563,12 @@ https://youtu.be/CoI8BTED4HI
 - [Snipe-IT Free open source IT asset management](https://snipeitapp.com/) -> @fa[github] [GitHub](https://github.com/snipe/snipe-it)
 - [Solved: What is wrong to create pipeline schedule ? - Atlassian Comunity](https://community.atlassian.com/t5/Bitbucket-Pipelines-questions/What-is-wrong-to-create-pipeline-schedule/qaq-p/1443953)
 - [Free Online Cron Expression Generator and Describer - FreeFormatter.com](https://www.freeformatter.com/cron-expression-generator-quartz.html)
-- 6
-- 7
-- 8
-- 9
-- 10
-
+- [laravel5.5でduskがうごかへんねん - Qiita](https://qiita.com/chtzmrtshgh/items/cea990e1d6bbd60bd823)
+- [Dockerfile に apt, apt-get, source コマンドを書く時のTips](https://tech-blog.cloud-config.jp/2019-09-09-dockerfile-apt-apt-get-source-tips/)
+- [Complex Selectors in Dusk](https://laracasts.com/discuss/channels/testing/complex-selectors-in-dusk)
+- [Laravel Dusk on Homestead | by Mike Smith | Medium](https://medium.com/@splatEric/laravel-dusk-on-homestead-dc5711987595)
+- [Laravel Dusk テストコード作成時の困った場合の対処法 | LaptrinhX](https://laptrinhx.com/laravel-dusk-tesutokodo-zuo-cheng-shino-kuntta-chang-heno-dui-chu-fa-121875384/)
+- [Selenium webdriverメソッド~PHP~ - Qiita](https://qiita.com/yukanashi/items/9c32891171dd09c40be2)
 
 +++
 

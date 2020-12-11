@@ -1,4 +1,4 @@
-[Presentation Slide](https://gitpitch.com/sogaoh/myslide/?p=20201212-phpcon2020-RS)
+[Presentation Slide](https://gitpitch.com/sogaoh/myslide?p=20201212-phpcon2020-RS)
 
 ## 本番でしか起きない問題に早く気が付けるように、僕は Laravel Dusk で CI する
 
