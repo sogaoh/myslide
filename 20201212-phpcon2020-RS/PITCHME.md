@@ -18,18 +18,18 @@
 [drag=32 16, drop=5 0, set=h2-gray align-left]
 ## AGENDA
 
-[drag=60 40, drop=5 20, fit=1.4, set=align-left]
+[drag=60 40, drop=5 18, fit=1.4, set=align-left]
 - 本番でしか起きない問題
 - 平和を求め CI を育てる
 - Laravel Dusk を載せる
 - まとめ・Appendix
 
-[drag=100 10, drop=5 62, fit=1.2, set=align-left]
+[drag=100 10, drop=5 60, fit=1.2, set=align-left]
 資料は公開してあります -> [https://kutt.it/cpvRco](https://kutt.it/cpvRco) @css[text-07]([※'21/02 まで])
 
-[drag=100 20, drop=5 72, fit=1.0, set=align-left]
-@css[lh-1](※1. 履歴が増殖するため、@color[yellow](シークレットウィンドウ)でご覧ください<br>※2. Chromeを推奨。見辛い場合に備えて @color[#009287](@fa[speaker-deck])[SpeakerDeck](https://speakerdeck.com/sogaoh/jian-xi-wofeng-tutexian-chang-tozi-fen-wo-extend-siteikuliu-lang-ren-sutairu) にもあります。<br>※3. ところどころの@color[orange](オレンジ)の文字はリンクになっています<br>※4. @color[yellow](スペース)で次のページに進みます（[o]でOverviewが見れます）)
-
+[drag=100 24, drop=5 68, fit=0.8, set=align-left]
+@css[lh-10](※1. 履歴が増殖するため、@color[yellow](シークレットウィンドウ)でご覧ください（Chromeを推奨）<br>※2. ところどころの@color[orange](オレンジ)の文字はリンクになっています<br>※3. @color[yellow](スペース)で次のページに進みます（[o]でOverviewが見れます）)
+<!-- 見辛い場合に備えて @color[#009287](@fab[speaker-deck]) [SpeakerDeck](https://speakerdeck.com/sogaoh/ben-fan-desikaqi-kinaiwen-ti-nizao-kuqi-gafu-keruyouni-pu-ha-laravel-dusk-de-ci-suru) にもあります。-->
 
 +++
 
@@ -40,7 +40,7 @@
 - リリース後に、確認不足のため<br>切り戻すことになりたくない開発者<br><br>
 - 本番で起きるデグレードのたびに<br>ビジネスサイドから詰められたくないQA担当者
 
-[drag=100 20, drop=5 70, fit=1.6, set=align-left text-bold text-green fragment]
+[drag=100 20, drop=5 70, fit=1.6, set=align-left text-bold text-green]
 「備え万全」でありたい方へ
 
 
