@@ -28,7 +28,7 @@
 資料は公開してあります -> [https://kutt.it/cpvRco](https://kutt.it/cpvRco) @css[text-07]([※'21/02 まで])
 
 [drag=100 20, drop=5 72, fit=1.0, set=align-left]
-@css[lh-1](※1. 履歴が増殖するため、@color[yellow](シークレットウィンドウ)でご覧ください<br>※2. ところどころの@color[orange](オレンジ)の文字はリンクになっています<br>※3. @color[yellow](スペース)で次のページに進みます（[o]でOverviewが見れます）)
+@css[lh-1](※1. 履歴が増殖するため、@color[yellow](シークレットウィンドウ)でご覧ください<br>※2. Chromeを推奨。見辛い場合に備えて @color[#009287](@fa[speaker-deck])[SpeakerDeck](https://speakerdeck.com/sogaoh/jian-xi-wofeng-tutexian-chang-tozi-fen-wo-extend-siteikuliu-lang-ren-sutairu) にもあります。<br>※3. ところどころの@color[orange](オレンジ)の文字はリンクになっています<br>※4. @color[yellow](スペース)で次のページに進みます（[o]でOverviewが見れます）)
 
 
 +++
