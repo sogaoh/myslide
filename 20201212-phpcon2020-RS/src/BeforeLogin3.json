@@ -1,0 +1,15 @@
+[
+  {"comment": "(設定イメージです)"},
+  {
+    "name": "APP_BACK_HOST",
+    "value": "prod-app-back.local"
+  },
+  {
+    "name": "APP_ENV",
+    "value": "production"
+  },
+  {
+    "name": "APP_DEBUG",
+    "value": "false"
+  }
+]

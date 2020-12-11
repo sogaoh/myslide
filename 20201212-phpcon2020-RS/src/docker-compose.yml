@@ -1,0 +1,16 @@
+  snipe-it:
+    #image: snipe/snipe-it:develop
+    build:
+      context: ./
+      dockerfile: Dockerfile.dusk
+    env_file:
+      - ./.env.docker-compose
+    volumes:
+      - ./storage:/var/www/html/storage
+      - ./tests/Browser/screenshots:/var/www/html/tests/Browser/screenshots
+      - ./composer.json:/var/www/html/composer.json
+      - ./composer.lock:/var/www/html/composer.lock
+    ports:
+      - "3051:80"
+    depends_on:
+      - snipe-mysql
