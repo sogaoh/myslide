@@ -25,7 +25,7 @@
 - まとめ・Appendix
 
 [drag=100 10, drop=5 62, fit=1.2, set=align-left]
-資料は公開してあります -> [https://kutt.it/xxxxxx](https://kutt.it/xxxxxx) @css[text-07]([※'21/02 まで])
+資料は公開してあります -> [https://kutt.it/cpvRco](https://kutt.it/cpvRco) @css[text-07]([※'21/02 まで])
 
 [drag=100 20, drop=5 72, fit=1.0, set=align-left]
 @css[lh-1](※1. 履歴が増殖するため、@color[yellow](シークレットウィンドウ)でご覧ください<br>※2. ところどころの@color[orange](オレンジ)の文字はリンクになっています<br>※3. @color[yellow](スペース)で次のページに進みます（[o]でOverviewが見れます）)
