@@ -21,7 +21,7 @@
 [drag=60 40, drop=5 18, fit=1.4, set=align-left]
 - 本番でしか起きない問題
 - 平和を求め CI を育てる
-- Laravel Dusk を載せる
+- Laravel Dusk を CI に載せる
 - まとめ・Appendix
 
 [drag=100 10, drop=5 60, fit=1.2, set=align-left]
@@ -547,6 +547,7 @@ https://youtu.be/pujAkC49gYE
 - [Nginx のDNS 名前解決とS3 やELB へのリバースプロキシ](https://yulii.github.io/nginx-dns-cache-20150815.html)
 - [Cloud Diagrams - GitPitch Documentation](https://docs.gitpitch.com/#/diagrams/cloud-architecture)
 - [Diagrams · Diagram as Code](https://diagrams.mingrammer.com/)
+- [ShellScriptの代わりにPythonタスクランナーFabric&Invokeを活用する技術 - 74th - BOOTH](https://74th.booth.pm/items/1042665)
 - [Amazon ECS - (Datadog) Agent をデーモンサービスとして実行](https://docs.datadoghq.com/ja/agent/amazon_ecs/?tab=awscli#agent-%E3%82%92%E3%83%87%E3%83%BC%E3%83%A2%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%A8%E3%81%97%E3%81%A6%E5%AE%9F%E8%A1%8C)
 - [ecspresso Advent Calendar 2020](https://adventar.org/calendars/5916)
 

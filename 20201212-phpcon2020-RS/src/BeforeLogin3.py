@@ -10,18 +10,18 @@ graph_attr = {
 }
 
 with Diagram("", show=False):
-    dns = ELB("")
+    dns = ELB("ELB")
 
-    webfront = ECS("webfront(nginx)")
+    webfront = ECS("ECS\nwebfront(nginx)")
 
     with Cluster("local internal DNS"):
         with Cluster("frontend"):
-            appfront = ECS("appfront")
+            appfront = ECS("ECS\nappfront")
 
         with Cluster("backend"):
-            webback = ECS("webback(nginx)")
-            appback = ECS("appback")
+            webback = ECS("ECS\nwebback(nginx)")
+            appback = ECS("ECS\nappback")
 
-    rds = RDS("")
+    rds = RDS("RDS")
 
     dns >> webfront >> appfront >> webback >> appback >> rds
