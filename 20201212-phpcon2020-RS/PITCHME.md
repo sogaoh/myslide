@@ -489,6 +489,7 @@ Navigation を展開し、サブメニューを選択
 
 [drag=80 8, drop=10 88, fix=0.6, set=align-right]
 https://youtu.be/TCt6wnf5C-k
+<!-- ![drag=80 8, drop=10 88, fix=0.6, set=align-right](/20201212-phpcon2020-RS/img/demo1.png)-->
 
 ![drag=72 72, drop=14 15](https://www.youtube.com/embed/TCt6wnf5C-k)
 
@@ -500,6 +501,7 @@ https://youtu.be/TCt6wnf5C-k
 
 [drag=80 8, drop=10 88, fix=0.6, set=align-right]
 https://youtu.be/pujAkC49gYE
+<!-- ![drag=80 8, drop=10 88, fix=0.6, set=align-right](/20201212-phpcon2020-RS/img/demo2.png) -->
 
 ![drag=72 72, drop=14 15](https://www.youtube.com/embed/pujAkC49gYE)
 
