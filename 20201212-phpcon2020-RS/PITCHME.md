@@ -503,6 +503,8 @@ https://youtu.be/pujAkC49gYE
 
 ![drag=72 72, drop=14 15](https://www.youtube.com/embed/pujAkC49gYE)
 
+[drag=40 8, drop=10 90, fix=0.6, set=align-left fragment]
+refs: [Dusk (5.8) -> 値の取得／設定](https://readouble.com/laravel/5.8/ja/dusk.html#text-values-and-attributes)
 
 +++
 
